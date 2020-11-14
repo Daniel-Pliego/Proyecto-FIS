@@ -21,8 +21,3 @@
 - [Roles y proceso de trabajo](Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md)
 
 - [Bitácoras]()
-    - [DIA MES 2020](https://github.com/dani-e1-best/Proyecto-FIS/blob/work/Documentacion/BITACORAS/01.%20Bitacora%20DIA%20MES%202020.md)
-    - [DIA MES 2020](https://github.com/dani-e1-best/Proyecto-FIS/blob/work/Documentacion/BITACORAS/01.%20Bitacora%20DIA%20MES%202020.md)
-    - [DIA MES 2020](https://github.com/dani-e1-best/Proyecto-FIS/blob/work/Documentacion/BITACORAS/01.%20Bitacora%20DIA%20MES%202020.md)
-
-
