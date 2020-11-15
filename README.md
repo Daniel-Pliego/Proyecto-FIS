@@ -7,7 +7,7 @@
 
 # Equipo 
 - Omar Cauich Pasos [@omarzone](https://github.com/omarzone) :smiley:
-- Daniel Pliego [@Daniel-Pliego](https://github.com/Daniel-Pliego) :sunglasses: :stuck_out_tongue_winking_eye:
+- Daniel Pliego [@Daniel-Pliego](https://github.com/Daniel-Pliego) :sunglasses::stuck_out_tongue_winking_eye:
 - Carlos Fernando Sanchez Chuc
 - Yajani Anahi Peraza Alcocer
 - Emir Bellos Cruz 
