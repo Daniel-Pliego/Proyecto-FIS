@@ -20,4 +20,4 @@
 - [Requerimientos](Documentos/../Documentacion/3.%20Requerimientos.md)
 - [Roles y proceso de trabajo](Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md)
 
-- [Bitácora]()
+- [Bitácora](Docuemntacion/../Documentacion/5.%20bitácora.md)
