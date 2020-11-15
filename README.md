@@ -5,7 +5,7 @@
   Proyecto de investigación, en la asignatura FIS
 </p>
 
-# Equipo #
+# Equipo 
 - Omar Cauich Pasos [@omarzone](https://github.com/omarzone) :smiley:
 - Daniel Pliego [@Daniel-Pliego](https://github.com/Daniel-Pliego) :sunglasses: :stuck_out_tongue_winking_eye:
 - Carlos Fernando Sanchez Chuc
@@ -21,3 +21,9 @@
 - [Roles y proceso de trabajo](Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md)
 
 - [Bitácora](Docuemntacion/../Documentacion/5.%20bitácora.md)
+
+# Links
+
+[Monday&#46;com](https://uady-cast.monday.com/boards/841731238)
+
+[Repositorio](https://github.com/Daniel-Pliego/Proyecto-FIS.git)
