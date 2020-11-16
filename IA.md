@@ -126,7 +126,7 @@
 
 [Referencias](#referencias)
 
-
+---
 
 <!--- Jerarquía 1 --->
 ## Creación de IA
