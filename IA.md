@@ -143,11 +143,22 @@
    #### Algoritmos genéticos
    #### Descubrir fármacos
    ### Mejora en la calidad de vida
+   Algunos productos tecnológicos ya disponibles son prueba innegable de dicho potencial. Por ejemplo, la herramienta Seeing AI de Microsoft, una app gratuita que ayuda a las personas ciegas a reconocer objetos en el entorno.
+
+Otro ejemplo son los asistentes virtuales, al estilo de Alexa o Google Home que, gracias a la IA, permiten al usuario comunicarse con sus dispositivos y realizar múltiples tareas de forma más accesible.
+
    #### Máquinas traductoras
+   Una forma de traducción automatizada mediante la cual se utiliza software de computadora para traducir texto o audio de un idioma a otro (por ejemplo, del ruso al inglés). Además de sustituir simplemente una palabra por otra, puede incorporar técnicas estadísticas que aumenten la probabilidad de identificar correctamente frases, expresiones idiomáticas, nombres propios y otras anomalías.
    #### Robot de conversación
+   Un programa de computadora que usa un conjunto de reglas para conducir una conversación basada en el habla o el texto con un humano a través de una interfaz de chat en línea. Los robots de conversación son alimentados por la IA y usan el aprendizaje de la máquina para detectar e imitar la conversación humana. Se desarrollan comúnmente para proporcionar contenido específico o servicio automatizado o utilidad a los usuarios.
    #### Asistente digital virtual
+   Una versión más sofisticada de un robot de conversación, también conocido como un agente inteligente, asistente personal virtual, asistente virtual inteligente, asistente automatizado o agente virtual. Dichos asistentes pueden organizar, almacenar y dar información basada en la ubicación del usuario y pueden contestar después de escuchar o recibir texto de los usuarios con información de una multitud de fuentes en línea (por ejemplo, pronósticos meteorológicos, mapas, precios de las acciones o horarios de transporte). Los ejemplos incluyen Siri de Apple, Google Now, Alexa de Amazon y Cortana de Microsoft.
    #### Lingüística computacional
+   Un campo interdisciplinario que se ocupa del modelado estadístico y basado en reglas de datos de lenguaje natural por computadoras. Incluye el reconocimiento del idioma habaldo, el proceso mediante el cual las máquinas pueden identificar y reconocer palabras y frases habladas y traducirlas o convertirlas en texto legible por máquina.
    #### Prótesis inteligentes
+   OttoBock, una empresa mediana alemana que con un siglo de historia se ha convertido en un referente mundial en el campo de las prótesis, y que está también innovando con la inteligencia artificial (IA) para que sus productos aprendan de esas personas que tienen que llevar un apéndice mecánico porque les falta alguno de sus miembros.
+Gracias a ocho electrodos el sistema de control de la prótesis mide los patrones de movimiento de los músculos en el muñón del antebrazo y los asigna a determinados movimientos o agarres de la mano. Por ejemplo, atarse los cordones de los zapatos o girar el pomo de una puerta. Si un paciente coge una botella de agua, el sistema de control de la prótesis Myo Plus reconoce el patrón de movimiento correspondiente y envía a la prótesis la orden de ejecutar el agarre correspondiente o el giro, y todo ello de forma automática.
+
    ### Hogareños
    #### Mejora de electricidad del hogar
    #### distribución de alimentos
@@ -182,3 +193,4 @@
 
 ---
    # Referencias
+https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
