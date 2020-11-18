@@ -139,9 +139,31 @@
 
    ### Investigación científica
    #### Redes neuronales
+   Son los Algoritmos de aprendizaje y los de modelos computacionales diseñados para funcionar como neuronas en el cerebro. Las redes neuronales son entrenadas con conjuntos específicos de datos, que utilizan para encontrar una respuesta en una consulta. La suposición de la red se compara con la respuesta correcta en una base de datos. En caso de ocurrir errores, las "neuronas" son ajustadas y el proceso se repite hasta que los niveles de error disminuyen. Este enfoque algorítmico, llamado retropropagación, es similar a la regresión estadística. 
    #### Vision de máquina
+   La rama de la IA que trata de cómo las computadoras emulan el sistema visual humano y su capacidad de ver e interpretar imágenes digitales del mundo real. También incorpora procesamiento de imágenes, reconocimiento de patrones y comprensión de imágenes (convirtiendo imágenes en descripciones que pueden usarse en otras aplicaciones). 
    #### Algoritmos genéticos
+   En la inteligencia artificial, se han utilizado las ideas de la evolución biológica y la selección natural para resolver tareas complejas por medio de la computadora a través de AG. Los AG trabajan encontrando individuos con el mejor desempeño en sus tareas y utilizan sus características para producir individuos “mejor adaptados” en cada generación, es decir que sean mejores en su tarea que los individuos anteriores. 
+   
+   De manera general podemos comentar que los AG describen las soluciones posibles del problema como individuos dentro de una población. Cada individuo se representa como una secuencia de caracteres donde cada caracter se llama gen y el conjunto de caracteres se llama cromosoma. Los individuos son evaluados midiendo que tan bien solucionan el problema.
+   
+   Una vez evaluados, se seleccionan los mejores individuos y pasan a una etapa de recombinación genética en la cual se emplean estrategias de cruce y mutación para producir variedades de individuos diferentes a las de sus antecesores, las cuales se utilizan para poblar la siguiente generación del algoritmo.
+   
+   Este ciclo se repite iterativamente y en cada generación se obtienen mejores individuos que heredan y modifican ligeramente las características de sus ancestros llegando a soluciones con un buen desempeño en la tarea que deseamos realizar.
    #### Descubrir fármacos
+   Las innovaciones en las ciencias biomédicas que están basadas en tecnología, son la esperada oportunidad de esta industria para ser más efectivos. El desarrollo de nuevos fármacos a través de la innovación en I+D que puedan completarse en menos tiempo y con menos costes, es el Santo Grial de la industria biofarmacéutica.
+
+La innovación científica no solo trata de averiguar los mecanismos por los que se manifiesta una u otra enfermedad; sino que, además, se corresponde con la consecución de nuevas drogas que permitan evitar, paliar o curar una determinada dolencia.
+
+Los costes que soporta la industria farmacéutica innovadora suponen más de 2400 millones de euros según Farmaindustria. Por otra parte, la inversión global en I+D en las farmacéuticas supone 30000 millones, solo en Europa. La cifra a nivel mundial sube hasta los 142000 millones de euros.
+
+De estos datos, más del 57% se destina al diseño, desarrollo y evaluación de ensayos clínicos en sus 3 fases. La cantidad restante, 40%, se destina a la investigación básica, procesos de aprobación y farmacovigilancia.
+
+Siguiendo los datos derivados de la patronal de las farmacéuticas innovadoras, se tarda un total de entre 12-13 años en desarrollar y llevar a un paciente un nuevo medicamento. Pero no todas las moléculas llegan a la fase de comercialización; muchas se quedan en el tintero en las diversas fases del desarrollo del fármaco.
+
+Es en la parte de descubrimiento de dianas y el diseño de fármacos en las que la implementación de técnicas de Inteligencia Artificial ayuda a reducir tiempos hasta la mitad y por tanto, un ahorro de costes en la producción de nuevos medicamentos de hasta un 25%.
+
+Actualmente, una biofarmacéutica española, Sylentis, ha implementado un software (siRFINDER) que emplea algoritmos basados en redes neuronales, SVM y machine learning para recoger, depurar y reinterpretar los datos experimentales generados por la farmacéutica. Esto les permite potenciar y desarrollar fármacos gracias a que el software les capacita para generar miles de compuestos específicos para tratar una enfermedad en cuestión de días. La farmacéutica reduce así los costosos y laboriosos trabajos de selección de candidatos, que suelen tardar años, en apenas unos días.
    ### Mejora en la calidad de vida
    Algunos productos tecnológicos ya disponibles son prueba innegable de dicho potencial. Por ejemplo, la herramienta Seeing AI de Microsoft, una app gratuita que ayuda a las personas ciegas a reconocer objetos en el entorno.
 
@@ -194,3 +216,5 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
 ---
    # Referencias
 https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
+https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
+https://aia.es/inteligencia-artificial-farmacos/
