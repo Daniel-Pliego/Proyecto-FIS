@@ -144,6 +144,7 @@
    #### Descubrir fármacos
    ### Mejora en la calidad de vida
    #### Máquinas traductoras
+   modificacion de ejemplo
    #### Robot de conversación
    #### Asistente digital virtual
    #### Lingüística computacional
