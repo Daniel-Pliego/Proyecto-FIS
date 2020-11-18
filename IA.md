@@ -216,5 +216,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
 ---
    # Referencias
 https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
+
 https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
+
 https://aia.es/inteligencia-artificial-farmacos/
