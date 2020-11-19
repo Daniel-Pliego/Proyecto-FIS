@@ -150,7 +150,7 @@ Entonces, de un lado, los humanos reciben la información a través del lenguaje
 
 El lenguaje natural es nuestra principal manera de representar el conocimiento en nuestro modelo del mundo. También podemos reaccionar no solo con las acciones físicas, sino en forma verbal entrando en un diálogo. Esta interacción determina la estructura de la inteligencia artificial como ciencia que modela la inteligencia humana, Esta conlleva un l flujo de la información, con su entrada, procesamiento y salida en forma de las reacciones posibles.
 
-![flujo de informacion ](Documentacion/recursos/flujo.png "flujo de información") 
+![flujo de informacion](documentacion/recursos/flujo.png "flujo de información") 
       
 A la percepción —que es en su gran parte la visión, los otros sentidos casi no se utilizan en la IA en su estado actual— le corresponde el área de procesamiento de imágenes y reconocimiento de patrones en imágenes.
 
