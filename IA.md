@@ -185,10 +185,10 @@ Arquitecturas para construir agentes:
 
    El sistema de inferencia difusa es una estructura computacional muy popular basada en los conceptos de la teoría difusa, en reglas del tipo si-entonces y en métodos de inferencia difusa. Los sistemas de inferencia difusa, actualmente han encontrado diversas aplicaciones exitosas dentro de una gran variedad de áreas tales como el control automático, la clasificación de datos, el análisis de decisiones, los sistemas expertos, la predicción de series de tiempo, la robótica y en el reconocimiento de patrones. A causa de su naturaleza multidisciplinaria, los sistemas de inferencia difusa son conocidos como sistemas experto, modelos difusos, controladores lógicos difusos o simplemente como sistemas difusos.
 
-   * Tipos de sistemas difusos
+   **Tipos de sistemas difusos**
 
-    1. Mandami
-    2. Takagi-Sugeno
+   1. Mandami
+   2. Takagi-Sugeno
 
    La lógica difusa es una herramienta de gran potencial para el desarrollo de nuevos métodos o técnicas de la Inteligencia Artificial. Como habíamos mencionado anteriormente este tipo de lógica permite valores intermedios para poder definir estados convencionales como sí/no, verdadero/falso, negro/blanco, etc. Este tipo de nociones como más caliente o poco frío pueden expresarse matemáticamente y ser procesados por computadoras. Al hacer esto se esta realizado el intento de aplicar la forma del pensamiento humano a la programación de computadoras, que es lo que busca la inteligencia artificial con sus aplicaciones en diferentes sistemas.
    #### 2. Red neuronal MLP
