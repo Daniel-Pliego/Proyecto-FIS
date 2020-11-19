@@ -90,9 +90,8 @@
 
 ---
 
-<!--- Jerarquía 1 --->
 ## Creación de IA
-<!--- Jerarquía 2 --->
+
 ### Método de la introspección
 
    #### Percepción basada en la información obtenida de nuestros cinco sentidos
@@ -160,7 +159,6 @@
    #### Previción de ventas y negocios
    #### Filtros de spam
 
-<!--- Jerarquía 1 --->
 ## Debate ético sobre IA
 
    ### Beneficios de la IA
