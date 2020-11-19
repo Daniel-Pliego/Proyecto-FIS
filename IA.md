@@ -168,8 +168,30 @@ El planteamiento ecologista de Gibson deiende la teoría de que la percepción e
 
    #### 1. Técnicas
 
-   
+Arquitecturas para construir agentes:
+
+   * Arquitectura BDI (Belief-Desire-Intention)
+
+   Esta arquitectura está caracterizada por el hcho de que los agentes que la implementación están dotados de los estados mentales de Creencias, Deseos e Intenciones. El éxito de esta arquitectura se debe posiblemente a que combina elementos interesantes: un modelo filosófico del razonamiento humano fácil de comprender, un número considerable de implementaciones y una semántica lógica abstracta y elegante, que ha sido aceptada por gran parte de la comunidad científica.
+
+![Arquitectura-BDI](https://www.researchgate.net/profile/Yvan_Tupac/publication/269466259/figure/fig7/AS:614044859920421@1523411111881/Figura-41-Diagrama-de-una-arquitectura-generica-de-un-agente-BDI.png)
+
+   * Reinforcement learning
+
+   El aprendizaje por refuerzo (o aprendizaje reforzado) se basa en aplicar exactamente este mismo principio a las inteligencias artificiales, con el fin de que puedan aprender por sí mismas. Y es que las IAs cuentan con dos ventajas de las que nosotros los humanos no disponemos: no se cansan ni se aburren, y realizan sus tareas extraordinariamente rápido. Ambos factores les permiten sacar un gran rendimiento al proceso de prueba/error: pueden ganar y perder millones de partidas de un videojuego, tomando nota de qué decisiones les llevaron en cada caso a la victoria o a la derrota, privilegiando unas y descartando otras hasta que su estrategia sea absolutamente perfecta. Y donde decimos 'videojuego', podemos hablar igualmente de una amplia gama de tareas, siempre que la IA pueda recibir un feedback de lo acertado de sus decisiones.
+
+![Reinforcement-learning](https://i.blogs.es/49b1fc/grafico/650_1200.jpg)
+
    #### 1. Sistemas difusos
+
+   El sistema de inferencia difusa es una estructura computacional muy popular basada en los conceptos de la teoría difusa, en reglas del tipo si-entonces y en métodos de inferencia difusa. Los sistemas de inferencia difusa, actualmente han encontrado diversas aplicaciones exitosas dentro de una gran variedad de áreas tales como el control automático, la clasificación de datos, el análisis de decisiones, los sistemas expertos, la predicción de series de tiempo, la robótica y en el reconocimiento de patrones. A causa de su naturaleza multidisciplinaria, los sistemas de inferencia difusa son conocidos como sistemas experto, modelos difusos, controladores lógicos difusos o simplemente como sistemas difusos.
+
+   * Tipos de sistemas difusos
+
+    1. Mandami
+    2. Takagi-Sugeno
+
+   La lógica difusa es una herramienta de gran potencial para el desarrollo de nuevos métodos o técnicas de la Inteligencia Artificial. Como habíamos mencionado anteriormente este tipo de lógica permite valores intermedios para poder definir estados convencionales como sí/no, verdadero/falso, negro/blanco, etc. Este tipo de nociones como más caliente o poco frío pueden expresarse matemáticamente y ser procesados por computadoras. Al hacer esto se esta realizado el intento de aplicar la forma del pensamiento humano a la programación de computadoras, que es lo que busca la inteligencia artificial con sus aplicaciones en diferentes sistemas.
    #### 2. Red neuronal MLP
    #### 3. Red neuronal convolucional
    #### 4. Inteligencia de enjambre
@@ -238,5 +260,9 @@ El planteamiento ecologista de Gibson deiende la teoría de que la percepción e
                    
 ---
    # Referencias
-* [1.1_Percepción](https://askthescientists.com/es/senses/)
+* [1.1_Percepción los 5 sentidos](https://askthescientists.com/es/senses/)
 * [3.1 Entrada](https://sites.google.com/site/mayinteligenciartificial/estructura-de-los-agentes-inteligentes)
+* [3.3 Arqitectura BDI](https://bisite.usal.es/archivos/c1_1_0.pdf)
+* [3.3 Reforcement-learning](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-aprendizaje-refuerzo)
+* [SIstemas-difusos](https://www.ctrl.cinvestav.mx/~yuw/pdf/MaTesGSFJ.pdf.pdf)
+* [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
