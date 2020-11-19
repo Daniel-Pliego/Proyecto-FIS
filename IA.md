@@ -1,3 +1,4 @@
+
 # IA
 
 ## Contenido temático
@@ -90,9 +91,8 @@
 
 ---
 
-<!--- Jerarquía 1 --->
 ## Creación de IA
-<!--- Jerarquía 2 --->
+
 ### Método de la introspección
 
    #### Percepción basada en la información obtenida de nuestros cinco sentidos
@@ -193,7 +193,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
    #### Previción de ventas y negocios
    #### Filtros de spam
 
-<!--- Jerarquía 1 --->
+
 ## Debate ético sobre IA
 
    ### Beneficios de la IA
@@ -219,4 +219,4 @@ https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligen
 
 https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
 
-https://aia.es/inteligencia-artificial-farmacos/
+https://aia.es/inteligencia-artificial-farmacos/ 
