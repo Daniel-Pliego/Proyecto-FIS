@@ -1,7 +1,7 @@
 # IA
 
 ## Contenido temático
-1. [Creación de I](#creación-de-ia)
+1. [Creación de IA](#creación-de-ia)
 
 
     1. [Método de la introspección](#método-de-la-introspección)
@@ -187,6 +187,7 @@ su objeto de estudio —el lenguaje natural— es fácilmente separable de los o
    #### 1. Resolución de problemas
    #### 2. Respuestas en lenguaje natural (diálogo)
    #### 3. Acciones (como en robótica o agentes)
+
 
 ## Método Aprendizaje
 
