@@ -1,7 +1,7 @@
 # IA
 
 ## Contenido temático
-1. [Creación de IA](#creación-de-ia)
+1. [Creación de I](#creación-de-ia)
 
 
     1. [Método de la introspección](#método-de-la-introspección)
@@ -141,9 +141,29 @@
    #### 4. EL gusto
    #### 5. EL tacto
 
-   #### Uso de lenguaje natural para el pensamiento
-   #### 1. Transmisión
-   #### 2. Recepción
+   ## Uso de lenguaje natural para el pensamiento
+
+El lenguaje nos hace lo que somos. Ningún animal tiene un lenguaje; claro, los animales tienen sus sistemas de comunicación, pero nunca llegan a nivel de abstracción que desarrollaron los humanos. 
+
+
+Entonces, de un lado, los humanos reciben la información a través del lenguaje y absorben toda la experiencia de la sociedad grabada en los textos y en palabras de los otros individuos. Del otro lado.
+
+El lenguaje natural es nuestra principal manera de representar el conocimiento en nuestro modelo del mundo. También podemos reaccionar no solo con las acciones físicas, sino en forma verbal entrando en un diálogo. Esta interacción determina la estructura de la inteligencia artificial como ciencia que modela la inteligencia humana, Esta conlleva un l flujo de la información, con su entrada, procesamiento y salida en forma de las reacciones posibles.
+
+![flujo de informacion ](Documentacion/recursos/flujo.png "flujo de información") 
+      
+A la percepción —que es en su gran parte la visión, los otros sentidos casi no se utilizan en la IA en su estado actual— le corresponde el área de procesamiento de imágenes y reconocimiento de patrones en imágenes.
+
+El área de procesamiento de lenguaje natural (PLN) es una parte grande de la IA moderna.   
+
+## 1. Transmisión:
+
+En el PLN se analizan la estructura de lenguaje humano y sus manifestaciones en los lenguajes específicos como el español, el inglés, el ruso, etc. para fines de la construcción de los modelos computacionales.
+
+## 2. Recepción:
+
+También se estudian los métodos de cómo hacer que las computadoras entienden los textos, implementando análisis morfológico, sintáctico y semántico.
+su objeto de estudio —el lenguaje natural— es fácilmente separable de los objetos de estudio de las otras áreas de la IA.
 
    #### Estructura de la inteligencia artificial
 
@@ -220,3 +240,4 @@
 
 ---
    # Referencias
+
