@@ -188,12 +188,44 @@ Arquitecturas para construir agentes:
 
    * Tipos de sistemas difusos
 
-    1. Mandami
-    2. Takagi-Sugeno
+   1. Mamdani
+
+    La arquitectura general del Sistema Difuso de Tipo Puro o Mamdani, constó principalmente de tres partes, la fusificación, base de conocimiento con su sistema de inferencia y la defusificación. 
+
+    **La fusificación**: entendida como la toma de los valores entrada y su interpretación como valores lingüísticos, determinó las funciones de membresía de las variables del sistema en los conjuntos difusos previamente definidos.
+
+    **La base de conocimiento**: estuvo compuesta por una serie de reglas difusas definidas con la ayuda de expertos. Las reglas utilizadas en el sistema fueron del tipo MISO.
+
+    **La defusificación**: consistió en la conversión de los datos lingüísticos que provienen de la salida difusa del dispositivo de inferencia a una salida numérica, mediante una ponderación y normalización de las sentencias lógicas antecedentes. El método de defusificación utilizado tanto para el sistema general como para cada uno de los subsistemas fue el método del centroide.
+
+![Modelo-mamdani](https://www.researchgate.net/profile/Yadira_Bravo/publication/46152952/figure/fig2/AS:669399111438336@1536608593141/Figura-5-Sistema-de-Logica-Difusa.ppm)
+
+   2. Takagi-Sugeno
+
+    Los pasos de aplicación de un modelo difuso son: fusi cación de las entradas, evaluar las funciones de pertenecía de cada entrada de acuerdo con el valor fusi cado, evaluación de las reglas, cálculo y defusi cación de la salida. Los pasos de fusificación y defusificación consisten en llevar los valores de entrada y salida a una escala de nida en el sistema difuso.
+
+    La elección del esquema Takagi-Sugeno se debe a su menor costo computacional comparado con el sistema difuso tipo Mandami; pero si en el diseño inicial se dispone de un sistema difuso tipo Mandami, éste se puede convertir a Sugeno, dicho proceso consiste en aproximar el modelo Mandami a partir de mínimos cuadrados o algoritmos evolutivos. De esta manera cualquier sistema de inferencia o control difuso se puede implementar por medio de un Takagi-Sugeno con un costo computacional menor.
+
+![Takagi-sugeno](https://www.researchgate.net/publication/261476274/figure/fig1/AS:608138642329600@1522002959284/The-general-structure-of-the-Takagi-Sugeno-ANFIS-model.png)
 
    La lógica difusa es una herramienta de gran potencial para el desarrollo de nuevos métodos o técnicas de la Inteligencia Artificial. Como habíamos mencionado anteriormente este tipo de lógica permite valores intermedios para poder definir estados convencionales como sí/no, verdadero/falso, negro/blanco, etc. Este tipo de nociones como más caliente o poco frío pueden expresarse matemáticamente y ser procesados por computadoras. Al hacer esto se esta realizado el intento de aplicar la forma del pensamiento humano a la programación de computadoras, que es lo que busca la inteligencia artificial con sus aplicaciones en diferentes sistemas.
+
    #### 2. Red neuronal MLP
+
+   Este es uno de los tipos de redes más comunes. Se basa en otra red mas simple llamada perceptrón simple solo que el número de capas ocultas puede ser mayor o igual que una. Es una red unidireccional (feedforward). La arquitectura típica de esta red es la siguiente:
+
+   ![Redneuronal-mlp](https://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200304curso-glisa/redes_neuronales/curso-glisa-redes_neuronales-html/mlp2.jpg)
+
+   Las neuronas de la capa oculta usan como regla de propagación la suma ponderada de las entradas con los pesos sinápticos wij y sobre esa suma ponderada se aplica una función de transferencia de tipo sigmoide, que es acotada en respuesta.
+
    #### 3. Red neuronal convolucional
+
+   Las Redes neuronales convolucionales son  un tipo de redes neuronales artificiales  donde las “neuronas”  corresponden a campos receptivos de una manera muy similar a las neuronas en la corteza visual primaria (V1) de un cerebro biológico.  Este tipo de red es una variación de un perceptrón multicapa, sin embargo, debido a que su aplicación es realizada en matrices bidimensionales, son muy efectivas para tareas de visión artificial, como en la clasificación y segmentación de imágenes, entre otras aplicaciones. Las redes neuronales convolucionales consisten en múltiples capas de filtros convolucionales de una o más dimensiones. Después de cada capa, por lo general se añade una función para realizar un mapeo causal no-lineal.
+
+   Como cualquier  red empleada para clasificación, al principio estas redes tienen una  fase de extracción de características, compuesta de neuronas convolucionales , luego hay una reducción por muestreo y al final tendremos neuronas de perceptrón mas sencillas para realizar la clasificación final sobre las características extraídas. La fase de extracción de características se asemeja al proceso estimulante en las células de la corteza visual. Esta fase se compone de capas alternas de neuronas convolucionales y neuronas de reducción de muestreo. Según progresan los datos a lo largo de esta fase, se disminuye su dimensionalidad, siendo las neuronas en capas lejanas mucho menos sensibles a perturbaciones en los datos de entrada, pero al mismo tiempo siendo estas activadas por características cada vez más complejas.
+
+   ![Convolucional](https://www.diegocalvo.es/wp-content/uploads/2017/07/red-neuronal-convolucional-arquitectura.png)
+   
    #### 4. Inteligencia de enjambre
    #### 5. Sistema inmune artificial
    #### 2. Mensajes en lenguaje natural (diálogo)
@@ -265,4 +297,8 @@ Arquitecturas para construir agentes:
 * [3.3 Arqitectura BDI](https://bisite.usal.es/archivos/c1_1_0.pdf)
 * [3.3 Reforcement-learning](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-aprendizaje-refuerzo)
 * [SIstemas-difusos](https://www.ctrl.cinvestav.mx/~yuw/pdf/MaTesGSFJ.pdf.pdf)
+* [Mandani](https://www.redalyc.org/pdf/903/90315226002.pdf)
+* [Takagi-sugeno](http://www.scielo.org.co/pdf/tecn/v15n30/v15n30a05.pdf)
 * [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
+* [Redes-neuroanles-mlp](https://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200304curso-glisa/redes_neuronales/curso-glisa-redes_neuronales-html/x105.html)
+* [Redes-neuronales-convolucional](https://www.juanbarrios.com/redes-neurales-convolucionales/#:~:text=Las%20Redes%20neuronales%20convolucionales%20son,V1)%20de%20un%20cerebro%20biol%C3%B3gico.)s
