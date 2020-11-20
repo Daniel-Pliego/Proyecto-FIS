@@ -126,9 +126,111 @@
    #### 3. Aprendizaje automático
    #### 4. Procesamiento de lenguaje natural
    #### 3. Reacción
+   El objetivo de un agente es el de trabajar en beneficio de los usuarios que utilicen los ambientes donde ellos se desenvuelven, así como de aprender de lo que anteriormente ya ha realizado en ese ambiente y de su interacción con otros agentes que estén trabajando en su ambiente.
+
+
+El software debe ser capaz de auto-ajustarse basándose en los cambios que ocurren en su ambiente de forma tal que un cambio en las circunstancias producirá un resultado esperado.
+
+Características:
+
+- Autonomía: el agente inteligente actúa sin ningún tipo de intervención humana directa y tiene control de sus propios actos.
+
+- Capacidad de reacción o reactividad: los agentes pueden detectar cambios en su entorno y reaccionar ante ellos.
+
+- Adaptabilidad: es una consecuencia directa de la característica de reacción, ya que los cambios producidos por el entorno provocan que los agentes se estén continuamente adaptando a dichos cambios.
+
+- Comunicación o sociabilidad: el agente es capaz de comunicarse por medio de un lenguaje común con otros agentes e incluso con las personas.
+
+- Iniciativa o pro-actividad: el agente tiene un propósito u objetivo determinado y emprende las acciones necesarias hasta conseguirlo.
+
+- Continuidad temporal: los agentes no sólo realizan ejecuciones en un momento determinado sino que, desde su creación, pasan a un estado de espera hasta cualquier evento provocado por otro agente o usuario, o cualquier cambio producido en el entorno les haga reaccionar.
    #### 1. Resolución de problemas
+<div align="center"><img src="https://3.bp.blogspot.com/-JL0IXV0th0M/VXx4NpyH69I/AAAAAAAAADQ/t_4IKYnFn7g/s1600/Comercio-electr%25C3%25B3nico-e-inteligencia-artificial1-750x400.jpg" alt="Reglas" width="400"/></div>
+
+Debe existir una estrategia de resolucíon de conflictos que guíe (decida cual de las posibles reglas disparar) y evite que el proceso sea exponencial.
+
+En razonamiento hacia adelante pueden existir más de una regla que pueda disparar.
+En razonamiento hacia atrás pueden existir más de una regla que cumple con la metas.
+
+
+Para controlar el proceso de priorizar reglas se utilizan los tipos de control.
+ - Control global
+
+   - No se permite disparar una regla más de una vez con los mismos datos (refractorines)
+
+   - Preferir reglas que utilizan datos más recientes. La idea es de seguir una línea de razonamiento. (Recency)
+
+   - Preferir reglas que son más específicas, reglas que tienen una mayor cantidad de condiciones y por lo tanto son más dificiles de disparar (specificity)
+ - Control local
+
+   - El control local puede ser por medio de meta-reglas (Reglas que controlan reglas)
+
+
+
+
+
+
    #### 2. Respuestas en lenguaje natural (diálogo)
+   ![Lenguaje natural](https://miro.medium.com/max/1020/1*JsiSznSV71f0gR-lr4QFMw.png)
+
+   El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
+
+   Virtualmente, cualquier lengua humana puede ser tratada por los ordenadores. Lógicamente, limitaciones de interés económico o práctico hace que solo las lenguas más habladas o utilizadas en el mundo digital tengan aplicaciones en uso.
+
+   Las lenguas humanas pueden expresarse por escrito (texto), oralmente (voz) y también mediante signos. Naturalmente, el PLN está más avanzado en el tratamiento de textos, donde hay muchos más datos y son más fáciles de conseguir en formato electrónico.
+
+   Los audios, aunque estén en formato digital, hay que procesarlos para transcribirlos en letras o caracteres y, a partir de ahí, entender la pregunta. El proceso de respuesta es el inverso: primero se elabora la oración y luego se “sintetiza la voz”.
+
+   Por cierto, la voz artificial cada vez suena más humana, con inflexiones tonales y prosódicas que imitan la producción humana.
+
+      - Modelos para procesamiento del lenguaje natural
+
+         - Modelos Lógicos: gramáticas
+
+            Los lingüistas escriben reglas de reconocimiento de patrones estructurales, empleando un formalismo gramatical concreto. Estas reglas, en combinación con la información almacenada en diccionarios computacionales, definen los patrones que hay que reconocer para resolver la tarea (buscar información, traducir, etc.).
+
+            Estos modelos lógicos pretenden reflejar la estructura lógica del lenguaje y surgen a partir de las teorías de N. Chomsky en los años 50. 
+         - Modelos probabilísticos del lenguaje natural: basados en datos
+
+            La aproximación es a la inversa: los lingüistas recogen colecciones de ejemplos y datos (corpus) y a partir de ellos se calculan las frecuencias de diferentes unidades lingüísticas (letras, palabras, oraciones) y su probabilidad de aparecer en un contexto determinado. Calculando esta probabilidad, se puede predecir cuál será la siguiente unidad en un contexto dado, sin necesidad de recurrir a reglas gramaticales explícitas.
+
+            Es el paradigma de “aprendizaje automático” que se ha impuesto en las últimas décadas en Inteligencia Artificial: los algoritmos infieren las posibles respuestas a partir de los datos observados anteriormente en el corpus.
    #### 3. Acciones (como en robótica o agentes)
+    Considerando el agente como entidad que interactúa con su entorno el diseño de un agente requiere estudiar:
+    - Cómo percibir el entorno
+      
+      La cantidad de datos que existen.
+    - Cómo representar el entorno
+       
+      Identifica todos los datos y los describe.
+
+    - Cómo definir los actuadores
+
+      Una vez que procesa todos los datos de entrada, debemos especificar como debe reaccionar. 
+
+    Entre los diferentes agentes que existen se destacan los más importantes.
+
+  Agentes reactivos
+
+   - Reacciona a la evolución del entorno
+
+   - No hay una representación explícita del entorno, de los otros agentes, sus capacidades, etc.
+
+   - Las decisiones no tienen en cuenta ni el pasado (no hay historia) ni el futuro (no hay planificación)
+
+   Agentes deliberativos
+   - Requieren dos procesos:
+      - Decidir qué objetivos perseguir: deliberación
+      - Decidir cómo alcanzar dichos objetivos: razonamiento basado en medios y fines
+   - Se basan en el razonamiento práctico (decidir en cada momento la acción a realizar para facilitar la consecución de los objetivos)
+
+   Agentes híbridos
+   - Unas capas o subsistemas implementan el comportamiento reactivo y otras el comportamiento deliberativo
+      - Capas horizontales: todas las capas están conectadas a la entrada y salida del agente
+      - Capas verticales: la entrada y la salida están conectadas a una única capa del agente
+   - Inicialmente se aplica en robótica
+      - Sistema reactivo para el control de bajo nivel del robot
+      - Planificación para la toma de decisiones
 
 ### Método Aprendizaje
 ### Método Clasificación
@@ -220,3 +322,13 @@ https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligen
 https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
 
 https://aia.es/inteligencia-artificial-farmacos/
+
+http://personales.upv.es/ccarrasc/doc/2003-2004/ai_web/definicion.html
+
+
+https://ccc.inaoep.mx/~esucar/Clases-MetIA/repaso-mia.pdf
+
+
+https://www.iic.uam.es/inteligencia/que-es-procesamiento-del-lenguaje-natural/
+
+http://www.fdi.ucm.es/profesor/jpavon/doctorado/arquitecturas.pdf
