@@ -3,7 +3,7 @@
 ## Contenido temático
 1. [Creación de IA](#creación-de-ia)
 
-
+ 
     1. [Método de la introspección](#método-de-la-introspección)
 
        1. [Percepción basada en la información obtenida de nuestros cinco sentidos](#percepción-basada-en-la-información-obtenida-de-nuestros-cinco-sentidos)
