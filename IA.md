@@ -1,3 +1,4 @@
+
 # IA
 
 ## Contenido temático
@@ -90,29 +91,125 @@
 
 ---
 
-<!--- Jerarquía 1 --->
 ## Creación de IA
-<!--- Jerarquía 2 --->
+
 ### Método de la introspección
 
    #### Percepción basada en la información obtenida de nuestros cinco sentidos
 
+Los órganos de los sentidos captan sensaciones que se interpretan en el cerebro. Son cinco los sentidos básicos que percibe el organismo: oído, tacto, vista, gusto y olfato, cada uno de los cuales es una herramienta utilizada por el cerebro para construir una imagen clara del mundo.
+
+El cerebro se apoya en los órganos de los sentidos para reunir información sensorial. Los órganos relacionados con los cinco sentidos son: 
+
    #### 1. La visión
+
+   El tercer sentido es el de la vista (también conocido como visión), formado por el cerebro y un par de órganos sensoriales: los ojos. A menudo se piensa que la vista es el más fuerte de los sentidos porque, en cuanto a información sobre el medioambiente, los humanos tienden a depender más de la visión que del oído o el olfato. Cuando usted mira a su alrededor, la luz del espectro visible la detectan los ojos. Rojo, anaranjado, amarillo, verde, azul, añil y violete son los colores del espectro de luz visible. La fuente de esta luz puede provenir de una lámpara, la pantalla de la computadora o del sol.
+   Cuando la luz es reflejada por los objetos que lo rodean, los ojos mandan señales al cerebro y se crea una imagen reconocible. Los ojos utilizan la luz para leer, discernir      entre un color y otro, incluso para coordinar prendas de vestir y crear un atuendo combinado.
+
    #### 2. La audición
+
+   El oído es un sentido poderoso, ese que puede alegrarlo o protegerlo del peligro.
+   Cuando usted oye la voz de un ser querido, la audición permite a su cerebro interpretar como conocida y tranquilizadora la voz del otro. La melodía de su canción favorita es otro ejemplo del oído en acción. Las orejas recogen este tipo de información sensorial para el cerebro, que llega en ondas sonoras, que son un tipo de energía mecánica. Cada onda sonora es una vibración de frecuencia única. El oído recibe y amplifica las ondas sonaras que el cerebro interpreta como diálogo, música, risa o mucho más.
+
    #### 3. El olfato
+
+   El quinto y último sentido es el del olfato. La olfacción, otra manera de llamarle al olfato, es única, pues el órgano sensorial detector está directamente conectado con el cerebro, por eso el sentido del olfato es extremadamente poderoso.
+
+   Los olores entran al cuerpo por la nariz, provenientes de las partículas transmitidas por el aire que se captan al respirar. Inhalar profundamente por la nariz e inclinarse hacia la fuente de un olor, puede intensificarlo.
+   Dentro de la nariz se encuentra un gran nervio llamado bulbo olfatorio, el cual sale de la parte superior de la nariz y se conecta directamente con el cerebro. Las moléculas aéreas aspiradas por la nariz desencadenan una respuesta nerviosa del bulbo olfatorio, que al notar los olores, de inmediato informa al cerebro.
+
    #### 4. EL gusto
+
+   Las pequeñas protuberancias que hay por toda la lengua se ocupan de transmitir los sabores al cerebro. Estas protuberancias se llaman papilas gustativas, y en la lengua hay miles. Las viejas se sustituyen semanalmente por nuevas para mantener en su punto el sentido del gusto.
+
+   En el centro de las papilas gustativas hay de 40 a 50 células especializadas. Las moléculas de los alimentos se enlazan con estas células especializadas y generan impulsos nerviosos. El cerebro interpreta estas señales para que usted reconozca los sabores de los alimentos.
+
+   Son cinco los sabores básicos detectados por la lengua que se envían al cerebro: dulce, ácido, amargo, salado y umami. Este último, umami, proviene de la palabra japonesa “sabroso”. Los sabores umami provienen de alimentos como el caldo y la carne.
+
    #### 5. EL tacto
 
+   La piel es el órgano más grande del cuerpo, y también el principal para el sentido del tacto. El término científico para tacto es mecanorrecepción.
+    
+   El tacto parece simple, pero es un poco más complejo de lo que usted se imagina. El cuerpo puede detectar diferentes formas de tacto, así como variaciones de temperatura y presión.
+
+   Como el tacto puede sentirse en todo el cuerpo, los nervios que lo detectan manda su información al cerebro a través del sistema nervioso periférico. Son los nervios que se ramifican a partir de la médula espinal y llegan a todo el cuerpo.
+
+
    #### Uso de lenguaje natural para el pensamiento
+   El lenguaje nos hace lo que somos. Ningún animal tiene un lenguaje; claro, los animales tienen sus sistemas de comunicación, pero nunca llegan a nivel de abstracción que desarrollaron los humanos.
+
+   Entonces, de un lado, los humanos reciben la información a través del lenguaje y absorben toda la experiencia de la sociedad grabada en los textos y en palabras de los otros individuos. Del otro lado.
+
+   El lenguaje natural es nuestra principal manera de representar el conocimiento en nuestro modelo del mundo. También podemos reaccionar no solo con las acciones físicas, sino en forma verbal entrando en un diálogo. Esta interacción determina la estructura de la inteligencia artificial como ciencia que modela la inteligencia humana, Esta conlleva un l flujo de la información, con su entrada, procesamiento y salida en forma de las reacciones posibles.
+
+   ![flujo](https://bn1301files.storage.live.com/y4m7B57_OaY7Wo35dLd2BkXdB9YmvsF3bcYKnuNXhDqJJMXdDmN84NH13tXE4Li6XMce3PPhSiZkI6QsVjcW6-KkmHtMxI-lV7rnzj2e5NZUvoo6VlsfSQNmmo7P2M8VD_GipoTWyQ4AHIw7H0j1WP9kWobLmIry4hDDFF0g7IMWDVzOtty93jLhEf5HfKpDNetZVwV4Or-6SCOQMbrd3Z0GQ/flujo.png?psid=1&width=958&height=460 "Flujo de informacion")
+
+
+   A la percepción —que es en su gran parte la visión, los otros sentidos casi no se utilizan en la IA en su estado actual— le corresponde el área de procesamiento de imágenes y reconocimiento de patrones en imágenes.
+
+   El área de procesamiento de lenguaje natural (PLN) es una parte grande de la IA moderna.
+
    #### 1. Transmisión
+
+   En el PLN se analizan la estructura de lenguaje humano y sus manifestaciones en los lenguajes específicos como el español, el inglés, el ruso, etc. para fines de la construcción de los modelos computacionales.
+
    #### 2. Recepción
+
+   También se estudian los métodos de cómo hacer que las computadoras entienden los textos, implementando análisis morfológico, sintáctico y semántico. su objeto de estudio —el lenguaje natural— es fácilmente separable de los objetos de estudio de las otras áreas de la IA.
 
    #### Estructura de la inteligencia artificial
 
+   En la actualidad uno de los proyectos más ambiciosos de la informática es la inteligencia artificial, por tal motivo es difícil definir exactamente qué es y los alcances que tiene. Es de fundamental importancia conocer los orígenes de su nombre, es decir el significado de la palabra inteligencia y así mismo el de la palabra artificial, mismos que según (Arauz, 1998) son: 
+
+   * Inteligencia, es la potencia intelectiva, la facultad de conocer o de entender. El grado en que un individuo puede resolver satisfactoriamente una nueva situación o un problema. La inteligencia está basada en el nivel de conocimientos individuales y en la habilidad de manipular y reformular apropiadamente los conocimientos en base a los datos que se proporcionan como requerimientos para resolver algún problema o situación. 
+
+   * Artificial, es lo hecho por mano y arte del hombre, falso, no natural.
+
    #### 1. Entrada
+
+   Todos los agentes tienen una estructura básica o mínima o esquelética igual, y esta debe estar acorde con la función que realiza el agente:
+ 
+ AGENTE INTELIGENTE = ARQUITECTURA + PROGRAMA
+ 
+  * La arquitectura refiere a la parte fisica, como los sensores/ efectores.
+
+  * El progrema refiere a el software, los algoritmos que deciden la acción.
+
+   En general, la arquitectura hace que las percepciones de los sensores estén disponibles para el programa, ejecuta los programas, y se encarga de que los actuadores pongan en marcha las acciones generadas.
+
    #### 1. Percepción (visión, etc.)
+
+**La Percepción**
+Sobre la percepción se ofrecen divrsas defíniciones que han ido evolucionando jacia la implicación de las experiencias y los procesos internos del individuo.
+
+El planteamiento ecologista de Gibson deiende la teoría de que la percepción es un proceso simple; en el estímulo está la información, sin necesidad de procesamientos mentales internos posteriores. Dicho planteamiento parte del supuesto de que en las leyes naturales subyacentes en cada organismo están las claves intelectuales de la percepción como mecanismo de supervivencia, por tanto, el organismo sólo percibe aquello que puede aprender y le es necesario para sobrevivir.
+
    #### 1. Técnicas
+
+Arquitecturas para construir agentes:
+
+   * Arquitectura BDI (Belief-Desire-Intention)
+
+   Esta arquitectura está caracterizada por el hcho de que los agentes que la implementación están dotados de los estados mentales de Creencias, Deseos e Intenciones. El éxito de esta arquitectura se debe posiblemente a que combina elementos interesantes: un modelo filosófico del razonamiento humano fácil de comprender, un número considerable de implementaciones y una semántica lógica abstracta y elegante, que ha sido aceptada por gran parte de la comunidad científica.
+
+![Arquitectura-BDI](https://www.researchgate.net/profile/Yvan_Tupac/publication/269466259/figure/fig7/AS:614044859920421@1523411111881/Figura-41-Diagrama-de-una-arquitectura-generica-de-un-agente-BDI.png)
+
+   * Reinforcement learning
+
+   El aprendizaje por refuerzo (o aprendizaje reforzado) se basa en aplicar exactamente este mismo principio a las inteligencias artificiales, con el fin de que puedan aprender por sí mismas. Y es que las IAs cuentan con dos ventajas de las que nosotros los humanos no disponemos: no se cansan ni se aburren, y realizan sus tareas extraordinariamente rápido. Ambos factores les permiten sacar un gran rendimiento al proceso de prueba/error: pueden ganar y perder millones de partidas de un videojuego, tomando nota de qué decisiones les llevaron en cada caso a la victoria o a la derrota, privilegiando unas y descartando otras hasta que su estrategia sea absolutamente perfecta. Y donde decimos 'videojuego', podemos hablar igualmente de una amplia gama de tareas, siempre que la IA pueda recibir un feedback de lo acertado de sus decisiones.
+
+![Reinforcement-learning](https://i.blogs.es/49b1fc/grafico/650_1200.jpg)
+
    #### 1. Sistemas difusos
+
+   El sistema de inferencia difusa es una estructura computacional muy popular basada en los conceptos de la teoría difusa, en reglas del tipo si-entonces y en métodos de inferencia difusa. Los sistemas de inferencia difusa, actualmente han encontrado diversas aplicaciones exitosas dentro de una gran variedad de áreas tales como el control automático, la clasificación de datos, el análisis de decisiones, los sistemas expertos, la predicción de series de tiempo, la robótica y en el reconocimiento de patrones. A causa de su naturaleza multidisciplinaria, los sistemas de inferencia difusa son conocidos como sistemas experto, modelos difusos, controladores lógicos difusos o simplemente como sistemas difusos.
+
+   **Tipos de sistemas difusos**
+
+   1. Mandami
+   2. Takagi-Sugeno
+
+   La lógica difusa es una herramienta de gran potencial para el desarrollo de nuevos métodos o técnicas de la Inteligencia Artificial. Como habíamos mencionado anteriormente este tipo de lógica permite valores intermedios para poder definir estados convencionales como sí/no, verdadero/falso, negro/blanco, etc. Este tipo de nociones como más caliente o poco frío pueden expresarse matemáticamente y ser procesados por computadoras. Al hacer esto se esta realizado el intento de aplicar la forma del pensamiento humano a la programación de computadoras, que es lo que busca la inteligencia artificial con sus aplicaciones en diferentes sistemas.
    #### 2. Red neuronal MLP
    #### 3. Red neuronal convolucional
    #### 4. Inteligencia de enjambre
@@ -233,7 +330,33 @@ Para controlar el proceso de priorizar reglas se utilizan los tipos de control.
       - Planificación para la toma de decisiones
 
 ### Método Aprendizaje
+
+Denominado en inglés Machine Learning.
+
+El objetivo de esta rama (metodo) de la inteligencia artificial es el desarrollo de algoritmos que modifican o adaptan su desempeño con el fin de mejorar la tarea para la cual han sido programados. La mayor parte de los programas computacionales no tiene esta característica.
+
+Por ejemplo:
+
+Al escribir un programa para multiplicar números enteros, al programa se le dan como datos de entrada un par de números y se obtiene como salida el producto de éstos. Este programa nunca cambia la función que relaciona la entrada y la salida, siempre que se dé como entrada el par 3,6 , el resultado será siempre 18. En este caso no hay aprendizaje.
+
+Pensemos ahora en un algoritmo que “aprenda” a reconocer los números nones sin darle la definición de éstos. Entonces, lo que se hace es darle al programa algunos ejemplos de entrenamiento como se haría con un niño al que se quiere enseñar el concepto.
+
+Es decir, se le da una muestra de números pares e impares informando al programa cuáles corresponden a cada categoría. El programa, por sí mismo, debe “descubrir” el concepto de número impar y, eventualmente, aplicarlo a nuevos ejemplos no presentados con anterioridad.
+
+El aprendizaje automático está enfocado a estudiar y desarrollar teorías y métodos para diseñar algoritmos de este tipo.
+
 ### Método Clasificación
+
+Dentro del área de aprendizaje automático(Machine Learning), Existe un campo especializado llamado aprendizaje de conceptos o método de clasificación , cuyo propósito es identificar conceptos a partir de un conjunto de datos y representar el concepto en forma apropiada. En el caso más sencillo, el concepto se define como una función que hace corresponder a un conjunto de atributos un indicador que toma solamente dos valores, correspondientes a los ejemplos positivos del concepto y a los ejemplos negativos del concepto respectivamente.
+
+El aprendizaje de conceptos es solamente una de tantas especialidades dentro del campo de aprendizaje automático.
+
+Pueden ser como :
+
+Bias: Criterios de Selección de Hipótesis
+
+Árboles de Decisión
+
 ### Método Razonamiento
 ### Método Optimización
 
@@ -295,7 +418,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
    #### Previción de ventas y negocios
    #### Filtros de spam
 
-<!--- Jerarquía 1 --->
+
 ## Debate ético sobre IA
 
    ### Beneficios de la IA
@@ -317,6 +440,19 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
 
 ---
    # Referencias
+https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
+
+https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
+
+https://aia.es/inteligencia-artificial-farmacos/ 
+
+* [1.1_Percepción los 5 sentidos](https://askthescientists.com/es/senses/)
+* [3.1 Entrada](https://sites.google.com/site/mayinteligenciartificial/estructura-de-los-agentes-inteligentes)
+* [3.3 Arqitectura BDI](https://bisite.usal.es/archivos/c1_1_0.pdf)
+* [3.3 Reforcement-learning](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-aprendizaje-refuerzo)
+* [SIstemas-difusos](https://www.ctrl.cinvestav.mx/~yuw/pdf/MaTesGSFJ.pdf.pdf)
+* [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
+
 https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
 
 https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
