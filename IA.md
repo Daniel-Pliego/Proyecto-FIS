@@ -141,8 +141,7 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
 
    El lenguaje natural es nuestra principal manera de representar el conocimiento en nuestro modelo del mundo. También podemos reaccionar no solo con las acciones físicas, sino en forma verbal entrando en un diálogo. Esta interacción determina la estructura de la inteligencia artificial como ciencia que modela la inteligencia humana, Esta conlleva un l flujo de la información, con su entrada, procesamiento y salida en forma de las reacciones posibles.
 
-   **imagen--------------------**
-
+   ![flujo](https://bn1301files.storage.live.com/y4m7B57_OaY7Wo35dLd2BkXdB9YmvsF3bcYKnuNXhDqJJMXdDmN84NH13tXE4Li6XMce3PPhSiZkI6QsVjcW6-KkmHtMxI-lV7rnzj2e5NZUvoo6VlsfSQNmmo7P2M8VD_GipoTWyQ4AHIw7H0j1WP9kWobLmIry4hDDFF0g7IMWDVzOtty93jLhEf5HfKpDNetZVwV4Or-6SCOQMbrd3Z0GQ/flujo.png?psid=1&width=958&height=460 "Flujo de informacion")
    A la percepción —que es en su gran parte la visión, los otros sentidos casi no se utilizan en la IA en su estado actual— le corresponde el área de procesamiento de imágenes y reconocimiento de patrones en imágenes.
 
    El área de procesamiento de lenguaje natural (PLN) es una parte grande de la IA moderna.
