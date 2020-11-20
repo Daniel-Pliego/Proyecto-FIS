@@ -3,6 +3,7 @@
 ## Contenido temático
 1. [Creación de IA](#creación-de-ia)
 
+
  
     1. [Método de la introspección](#método-de-la-introspección)
 
@@ -43,7 +44,7 @@
 
     2. [Método Aprendizaje](#método-aprendizaje)
     3. [Método Clasificación](#método-clasificación)
-    4. [Método Razonamiento](#1-razonamiento)
+    4. [Método Razonamiento](#1-razonamiento)  
     5. [Método Optimización](#método-optimización)
 - [IA](#ia)
   - [Contenido temático](#contenido-temático)
@@ -126,6 +127,7 @@
 
 [Referencias](#referencias)
 
+---
 
 
 <!--- Jerarquía 1 --->
@@ -141,7 +143,7 @@
    #### 4. EL gusto
    #### 5. EL tacto
 
-   ## Uso de lenguaje natural para el pensamiento
+   #### Uso de lenguaje natural para el pensamiento
 
 El lenguaje nos hace lo que somos. Ningún animal tiene un lenguaje; claro, los animales tienen sus sistemas de comunicación, pero nunca llegan a nivel de abstracción que desarrollaron los humanos. 
 
@@ -156,11 +158,11 @@ A la percepción —que es en su gran parte la visión, los otros sentidos casi 
 
 El área de procesamiento de lenguaje natural (PLN) es una parte grande de la IA moderna.   
 
-## 1. Transmisión:
+#### 1. Transmisión:
 
 En el PLN se analizan la estructura de lenguaje humano y sus manifestaciones en los lenguajes específicos como el español, el inglés, el ruso, etc. para fines de la construcción de los modelos computacionales.
 
-## 2. Recepción:
+#### 2. Recepción:
 
 También se estudian los métodos de cómo hacer que las computadoras entienden los textos, implementando análisis morfológico, sintáctico y semántico.
 su objeto de estudio —el lenguaje natural— es fácilmente separable de los objetos de estudio de las otras áreas de la IA.
