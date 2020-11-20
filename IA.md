@@ -349,5 +349,3 @@ https://aia.es/inteligencia-artificial-farmacos/
 * [3.3 Reforcement-learning](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-aprendizaje-refuerzo)
 * [SIstemas-difusos](https://www.ctrl.cinvestav.mx/~yuw/pdf/MaTesGSFJ.pdf.pdf)
 * [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
-
-se arreglo el bug 
