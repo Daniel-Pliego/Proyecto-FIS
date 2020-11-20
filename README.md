@@ -30,3 +30,4 @@ Nuestro proyecto es una investigación sobre la Inteligencia artificial que tien
 [Monday&#46;com](https://uady-cast.monday.com/boards/841731238)
 
 [Repositorio](https://github.com/Daniel-Pliego/Proyecto-FIS.git)
+

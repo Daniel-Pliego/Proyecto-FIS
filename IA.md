@@ -135,8 +135,25 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
 
 
    #### Uso de lenguaje natural para el pensamiento
+   El lenguaje nos hace lo que somos. Ningún animal tiene un lenguaje; claro, los animales tienen sus sistemas de comunicación, pero nunca llegan a nivel de abstracción que desarrollaron los humanos.
+
+   Entonces, de un lado, los humanos reciben la información a través del lenguaje y absorben toda la experiencia de la sociedad grabada en los textos y en palabras de los otros individuos. Del otro lado.
+
+   El lenguaje natural es nuestra principal manera de representar el conocimiento en nuestro modelo del mundo. También podemos reaccionar no solo con las acciones físicas, sino en forma verbal entrando en un diálogo. Esta interacción determina la estructura de la inteligencia artificial como ciencia que modela la inteligencia humana, Esta conlleva un l flujo de la información, con su entrada, procesamiento y salida en forma de las reacciones posibles.
+
+   **imagen--------------------**
+
+   A la percepción —que es en su gran parte la visión, los otros sentidos casi no se utilizan en la IA en su estado actual— le corresponde el área de procesamiento de imágenes y reconocimiento de patrones en imágenes.
+
+   El área de procesamiento de lenguaje natural (PLN) es una parte grande de la IA moderna.
+
    #### 1. Transmisión
+
+   En el PLN se analizan la estructura de lenguaje humano y sus manifestaciones en los lenguajes específicos como el español, el inglés, el ruso, etc. para fines de la construcción de los modelos computacionales.
+
    #### 2. Recepción
+
+   También se estudian los métodos de cómo hacer que las computadoras entienden los textos, implementando análisis morfológico, sintáctico y semántico. su objeto de estudio —el lenguaje natural— es fácilmente separable de los objetos de estudio de las otras áreas de la IA.
 
    #### Estructura de la inteligencia artificial
 
@@ -209,7 +226,33 @@ Arquitecturas para construir agentes:
    #### 3. Acciones (como en robótica o agentes)
 
 ### Método Aprendizaje
+
+Denominado en inglés Machine Learning.
+
+El objetivo de esta rama (metodo) de la inteligencia artificial es el desarrollo de algoritmos que modifican o adaptan su desempeño con el fin de mejorar la tarea para la cual han sido programados. La mayor parte de los programas computacionales no tiene esta característica.
+
+Por ejemplo:
+
+Al escribir un programa para multiplicar números enteros, al programa se le dan como datos de entrada un par de números y se obtiene como salida el producto de éstos. Este programa nunca cambia la función que relaciona la entrada y la salida, siempre que se dé como entrada el par 3,6 , el resultado será siempre 18. En este caso no hay aprendizaje.
+
+Pensemos ahora en un algoritmo que “aprenda” a reconocer los números nones sin darle la definición de éstos. Entonces, lo que se hace es darle al programa algunos ejemplos de entrenamiento como se haría con un niño al que se quiere enseñar el concepto.
+
+Es decir, se le da una muestra de números pares e impares informando al programa cuáles corresponden a cada categoría. El programa, por sí mismo, debe “descubrir” el concepto de número impar y, eventualmente, aplicarlo a nuevos ejemplos no presentados con anterioridad.
+
+El aprendizaje automático está enfocado a estudiar y desarrollar teorías y métodos para diseñar algoritmos de este tipo.
+
 ### Método Clasificación
+
+Dentro del área de aprendizaje automático(Machine Learning), Existe un campo especializado llamado aprendizaje de conceptos o método de clasificación , cuyo propósito es identificar conceptos a partir de un conjunto de datos y representar el concepto en forma apropiada. En el caso más sencillo, el concepto se define como una función que hace corresponder a un conjunto de atributos un indicador que toma solamente dos valores, correspondientes a los ejemplos positivos del concepto y a los ejemplos negativos del concepto respectivamente.
+
+El aprendizaje de conceptos es solamente una de tantas especialidades dentro del campo de aprendizaje automático.
+
+Pueden ser como :
+
+Bias: Criterios de Selección de Hipótesis
+
+Árboles de Decisión
+
 ### Método Razonamiento
 ### Método Optimización
 
