@@ -408,10 +408,69 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
 
    ### Hogareños
    #### Mejora de electricidad del hogar
+  1. AmeriTop - Luces solares para exteriores, superbrillantes LED con sensor de movimiento solar con iluminación de gran angular; 1600LM 6000K, 3 cabezales ajustables, IP65 impermeable iluminación de seguridad al aire última intervensión (blanco) 
+![luz solar](https://images-na.ssl-images-amazon.com/images/I/71dgZp8OFEL._AC_SL1500_.jpg) 
+ 
+   1. EconoHome Panel calentador de espacio de montaje en pared, con termostato, calentador de convección de 400 W, ideal para habitación de 120 pies cuadrados – calentador eléctrico de 120 V – ahorra hasta un 50% de costes de calefacción – Protección contra sobrecalentamiento 
+![panel solar](https://images-na.ssl-images-amazon.com/images/I/31PvzHh0FJL._AC_.jpg) 
+ 
+   1. Interruptor de luz inteligente de 3 vías, polo único, interruptor de luz WiFi funciona con Alexa y Google Assistant, control remoto, certificado UL, paquete de 2, color blanco 
+![interruptor](https://images-na.ssl-images-amazon.com/images/I/61d0iU-%2B4UL._AC_SL1000_.jpg) 
+ 
+ 
+   1. Steren SHOM-100 Tomacorriente Encendido Inalámbrico Wi-Fi 
+ 
+![conector inteligente](https://images-na.ssl-images-amazon.com/images/I/51tKL0A8DZL._AC_SL1200_.jpg) 
+ 
    #### distribución de alimentos
+ 1. REFRIGERADOR FAMILY FRENCH DOOR SAMSUNG 24 PIES 
+![](https://cdn.homedepot.com.mx/productos/136234/136234-d.jpg) 
+ 
+   1. Cafetera Espresso Krups EA825511 Automática Premium Roja, Programable con sistema de auto encendido/apagado, Sistema Thermoblock, 15 bares de presión,1450W 
+![cafetera](https://images-na.ssl-images-amazon.com/images/I/81YECRdAKzL._AC_SL1500_.jpg) 
+ 
+   1. Ninja Foodi - Horno tostador digital de convección (10 en 1, con termómetro de capacidad XL y acabado de acero inoxidable) 
+![horno](https://images-na.ssl-images-amazon.com/images/I/81TvX3jF23L._AC_SL1500_.jpg) 
+ 
+   1. Purificador, humidificador y ventilador Dyson. 
+      Purifica, humidifica y te refresca automáticamente.  
+![calentador](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSukJh6k0c-jTp0FsQc5zOuokF0nZhB-1yzOZm9sOMZVUWmvO_jGh80BYosgFWe2SqGJ10jyW8ZXg&usqp=CAc) 
+ 
+   5. Licuadora Automática Inteligente De Calentamiento 1.7L, Con 10 Funciones De Mezcla 1000 Vatios De Alta Potencia, Adecuada Para Hacer Jugos De Batidos Y Otros Alimentos Mixtos, Color Dorado 
+![licuadora](https://images-na.ssl-images-amazon.com/images/I/51vtfQ1qSAL._AC_SL1001_.jpg) 
+ 
    #### Limpieza
+ 1. iRobot Braava Jet M6 (6110) Ultimate Robot Mop- Conexión Wi-Fi, pulverizador de Chorro de precisión, Smart Mapping, Funciona con Alexa, Ideal para múltiples Habitaciones, Recarga y currículums 
+![trapeador inteligente](https://images-na.ssl-images-amazon.com/images/I/81xntNcNTPL._AC_SL1500_.jpg) 
+ 
+   1. YICI - Dispensador de jabón automático, 450 ml, sin contacto, dispensador de jabón líquido, con sensor inteligente, carga USB, para cocina, baño 
+![dispensador de jabon](https://images-na.ssl-images-amazon.com/images/I/61c0flTw7wL._AC_SL1500_.jpg) 
+ 
+   1. Multifuncional Hogar Usb Ultrasónico Lavavajillas Plato Era 
+![dispensador de jabon](https://http2.mlstatic.com/D_NQ_NP_2X_668973-CBT42818306456_072020-F.webp) 
+ 
+   1. Lavadora LG Automática WM22VV2S6B 22kg Silver 
+![lavadora inteligente](https://cdn1.coppel.com/images/catalog/pm/6351463-1.jpg) 
+ 
    #### Inteligencia infantil
+  1. 4moms RockaRoo - Columpio para bebé, diseño de balancín Compacto con Movimiento Deslizante de Frente a atrás, Tela de Malla fría, Color Gris Oscuro 
+![columpio inteligente](https://images-na.ssl-images-amazon.com/images/I/818pfyzLwQL._AC_SL1500_.jpg) 
+ 
+   1. Fisher-Price - Touch 'N Learn Kinderbot 
+![robot](https://images-na.ssl-images-amazon.com/images/I/71auPbU3QpL._AC_SL1500_.jpg) 
+ 
+   1.  Mtiny Coding Kit - 9 Languages 
+![coding](https://cdn.shopify.com/s/files/1/0081/1810/8231/products/mtiny_2048x2048.jpg?v=1604902518) 
+ 
+  1. Los Niños Inteligentes De Aprendizaje De Voz Diálogo Acompañando Al Ba 
+![niño inteligente](https://i.linio.com/p/567b59b72aed604bb4fd0459fa7bd27b-product.webp) 
    #### Muebles
+   1. Sillon Reclinable Electrico Con Audio Y Carga Inalambrica 
+![sofa inteligente](https://http2.mlstatic.com/D_NQ_NP_2X_820648-MLM31228944239_062019-F.webp) 
+ 
+   1. Mesa de centro inteligente con bocinas y refrigerador Bralf Sobro negro 
+![mesa para sala de estar](https://ss101.liverpool.com.mx/xl/1098030863.jpg) 
+
    ### Empresariales
    #### Análisis de datos y segmentación de clientes
    #### Servicio al cliente predictivo
