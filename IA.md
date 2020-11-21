@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IA
 
 ## Contenido temático
@@ -137,8 +136,26 @@ El cerebro se apoya en los órganos de los sentidos para reunir información sen
 
 
    #### Uso de lenguaje natural para el pensamiento
+   El lenguaje nos hace lo que somos. Ningún animal tiene un lenguaje; claro, los animales tienen sus sistemas de comunicación, pero nunca llegan a nivel de abstracción que desarrollaron los humanos.
+
+   Entonces, de un lado, los humanos reciben la información a través del lenguaje y absorben toda la experiencia de la sociedad grabada en los textos y en palabras de los otros individuos. Del otro lado.
+
+   El lenguaje natural es nuestra principal manera de representar el conocimiento en nuestro modelo del mundo. También podemos reaccionar no solo con las acciones físicas, sino en forma verbal entrando en un diálogo. Esta interacción determina la estructura de la inteligencia artificial como ciencia que modela la inteligencia humana, Esta conlleva un l flujo de la información, con su entrada, procesamiento y salida en forma de las reacciones posibles.
+
+   ![flujo](https://bn1301files.storage.live.com/y4m7B57_OaY7Wo35dLd2BkXdB9YmvsF3bcYKnuNXhDqJJMXdDmN84NH13tXE4Li6XMce3PPhSiZkI6QsVjcW6-KkmHtMxI-lV7rnzj2e5NZUvoo6VlsfSQNmmo7P2M8VD_GipoTWyQ4AHIw7H0j1WP9kWobLmIry4hDDFF0g7IMWDVzOtty93jLhEf5HfKpDNetZVwV4Or-6SCOQMbrd3Z0GQ/flujo.png?psid=1&width=958&height=460 "Flujo de informacion")
+
+
+   A la percepción —que es en su gran parte la visión, los otros sentidos casi no se utilizan en la IA en su estado actual— le corresponde el área de procesamiento de imágenes y reconocimiento de patrones en imágenes.
+
+   El área de procesamiento de lenguaje natural (PLN) es una parte grande de la IA moderna.
+
    #### 1. Transmisión
+
+   En el PLN se analizan la estructura de lenguaje humano y sus manifestaciones en los lenguajes específicos como el español, el inglés, el ruso, etc. para fines de la construcción de los modelos computacionales.
+
    #### 2. Recepción
+
+   También se estudian los métodos de cómo hacer que las computadoras entienden los textos, implementando análisis morfológico, sintáctico y semántico. su objeto de estudio —el lenguaje natural— es fácilmente separable de los objetos de estudio de las otras áreas de la IA.
 
    #### Estructura de la inteligencia artificial
 
@@ -187,7 +204,8 @@ Arquitecturas para construir agentes:
 
    El sistema de inferencia difusa es una estructura computacional muy popular basada en los conceptos de la teoría difusa, en reglas del tipo si-entonces y en métodos de inferencia difusa. Los sistemas de inferencia difusa, actualmente han encontrado diversas aplicaciones exitosas dentro de una gran variedad de áreas tales como el control automático, la clasificación de datos, el análisis de decisiones, los sistemas expertos, la predicción de series de tiempo, la robótica y en el reconocimiento de patrones. A causa de su naturaleza multidisciplinaria, los sistemas de inferencia difusa son conocidos como sistemas experto, modelos difusos, controladores lógicos difusos o simplemente como sistemas difusos.
 
-   * Tipos de sistemas difusos
+   **Tipos de sistemas difusos**
+
 
    1. Mamdani
 
@@ -208,6 +226,7 @@ Arquitecturas para construir agentes:
    La elección del esquema Takagi-Sugeno se debe a su menor costo computacional comparado con el sistema difuso tipo Mandami; pero si en el diseño inicial se dispone de un sistema difuso tipo Mandami, éste se puede convertir a Sugeno, dicho proceso consiste en aproximar el modelo Mandami a partir de mínimos cuadrados o algoritmos evolutivos. De esta manera cualquier sistema de inferencia o control difuso se puede implementar por medio de un Takagi-Sugeno con un costo computacional menor.
 
 ![Takagi-sugeno](https://www.researchgate.net/publication/261476274/figure/fig1/AS:608138642329600@1522002959284/The-general-structure-of-the-Takagi-Sugeno-ANFIS-model.png)
+
 
    La lógica difusa es una herramienta de gran potencial para el desarrollo de nuevos métodos o técnicas de la Inteligencia Artificial. Como habíamos mencionado anteriormente este tipo de lógica permite valores intermedios para poder definir estados convencionales como sí/no, verdadero/falso, negro/blanco, etc. Este tipo de nociones como más caliente o poco frío pueden expresarse matemáticamente y ser procesados por computadoras. Al hacer esto se esta realizado el intento de aplicar la forma del pensamiento humano a la programación de computadoras, que es lo que busca la inteligencia artificial con sus aplicaciones en diferentes sistemas.
 
@@ -331,12 +350,140 @@ Arquitecturas para construir agentes:
    #### 3. Aprendizaje automático
    #### 4. Procesamiento de lenguaje natural
    #### 3. Reacción
+   El objetivo de un agente es el de trabajar en beneficio de los usuarios que utilicen los ambientes donde ellos se desenvuelven, así como de aprender de lo que anteriormente ya ha realizado en ese ambiente y de su interacción con otros agentes que estén trabajando en su ambiente.
+
+
+El software debe ser capaz de auto-ajustarse basándose en los cambios que ocurren en su ambiente de forma tal que un cambio en las circunstancias producirá un resultado esperado.
+
+Características:
+
+- Autonomía: el agente inteligente actúa sin ningún tipo de intervención humana directa y tiene control de sus propios actos.
+
+- Capacidad de reacción o reactividad: los agentes pueden detectar cambios en su entorno y reaccionar ante ellos.
+
+- Adaptabilidad: es una consecuencia directa de la característica de reacción, ya que los cambios producidos por el entorno provocan que los agentes se estén continuamente adaptando a dichos cambios.
+
+- Comunicación o sociabilidad: el agente es capaz de comunicarse por medio de un lenguaje común con otros agentes e incluso con las personas.
+
+- Iniciativa o pro-actividad: el agente tiene un propósito u objetivo determinado y emprende las acciones necesarias hasta conseguirlo.
+
+- Continuidad temporal: los agentes no sólo realizan ejecuciones en un momento determinado sino que, desde su creación, pasan a un estado de espera hasta cualquier evento provocado por otro agente o usuario, o cualquier cambio producido en el entorno les haga reaccionar.
    #### 1. Resolución de problemas
+<div align="center"><img src="https://3.bp.blogspot.com/-JL0IXV0th0M/VXx4NpyH69I/AAAAAAAAADQ/t_4IKYnFn7g/s1600/Comercio-electr%25C3%25B3nico-e-inteligencia-artificial1-750x400.jpg" alt="Reglas" width="400"/></div>
+
+Debe existir una estrategia de resolucíon de conflictos que guíe (decida cual de las posibles reglas disparar) y evite que el proceso sea exponencial.
+
+En razonamiento hacia adelante pueden existir más de una regla que pueda disparar.
+En razonamiento hacia atrás pueden existir más de una regla que cumple con la metas.
+
+
+Para controlar el proceso de priorizar reglas se utilizan los tipos de control.
+ - Control global
+
+   - No se permite disparar una regla más de una vez con los mismos datos (refractorines)
+
+   - Preferir reglas que utilizan datos más recientes. La idea es de seguir una línea de razonamiento. (Recency)
+
+   - Preferir reglas que son más específicas, reglas que tienen una mayor cantidad de condiciones y por lo tanto son más dificiles de disparar (specificity)
+ - Control local
+
+   - El control local puede ser por medio de meta-reglas (Reglas que controlan reglas)
+
+
+
+
+
+
    #### 2. Respuestas en lenguaje natural (diálogo)
+   ![Lenguaje natural](https://miro.medium.com/max/1020/1*JsiSznSV71f0gR-lr4QFMw.png)
+
+   El Procesamiento del Lenguaje Natural es el campo de conocimiento de la Inteligencia Artificial que se ocupa de la investigar la manera de comunicar las máquinas con las personas mediante el uso de lenguas naturales, como el español, el inglés o el chino.
+
+   Virtualmente, cualquier lengua humana puede ser tratada por los ordenadores. Lógicamente, limitaciones de interés económico o práctico hace que solo las lenguas más habladas o utilizadas en el mundo digital tengan aplicaciones en uso.
+
+   Las lenguas humanas pueden expresarse por escrito (texto), oralmente (voz) y también mediante signos. Naturalmente, el PLN está más avanzado en el tratamiento de textos, donde hay muchos más datos y son más fáciles de conseguir en formato electrónico.
+
+   Los audios, aunque estén en formato digital, hay que procesarlos para transcribirlos en letras o caracteres y, a partir de ahí, entender la pregunta. El proceso de respuesta es el inverso: primero se elabora la oración y luego se “sintetiza la voz”.
+
+   Por cierto, la voz artificial cada vez suena más humana, con inflexiones tonales y prosódicas que imitan la producción humana.
+
+      - Modelos para procesamiento del lenguaje natural
+
+         - Modelos Lógicos: gramáticas
+
+            Los lingüistas escriben reglas de reconocimiento de patrones estructurales, empleando un formalismo gramatical concreto. Estas reglas, en combinación con la información almacenada en diccionarios computacionales, definen los patrones que hay que reconocer para resolver la tarea (buscar información, traducir, etc.).
+
+            Estos modelos lógicos pretenden reflejar la estructura lógica del lenguaje y surgen a partir de las teorías de N. Chomsky en los años 50. 
+         - Modelos probabilísticos del lenguaje natural: basados en datos
+
+            La aproximación es a la inversa: los lingüistas recogen colecciones de ejemplos y datos (corpus) y a partir de ellos se calculan las frecuencias de diferentes unidades lingüísticas (letras, palabras, oraciones) y su probabilidad de aparecer en un contexto determinado. Calculando esta probabilidad, se puede predecir cuál será la siguiente unidad en un contexto dado, sin necesidad de recurrir a reglas gramaticales explícitas.
+
+            Es el paradigma de “aprendizaje automático” que se ha impuesto en las últimas décadas en Inteligencia Artificial: los algoritmos infieren las posibles respuestas a partir de los datos observados anteriormente en el corpus.
    #### 3. Acciones (como en robótica o agentes)
+    Considerando el agente como entidad que interactúa con su entorno el diseño de un agente requiere estudiar:
+    - Cómo percibir el entorno
+      
+      La cantidad de datos que existen.
+    - Cómo representar el entorno
+       
+      Identifica todos los datos y los describe.
+
+    - Cómo definir los actuadores
+
+      Una vez que procesa todos los datos de entrada, debemos especificar como debe reaccionar. 
+
+    Entre los diferentes agentes que existen se destacan los más importantes.
+
+  Agentes reactivos
+
+   - Reacciona a la evolución del entorno
+
+   - No hay una representación explícita del entorno, de los otros agentes, sus capacidades, etc.
+
+   - Las decisiones no tienen en cuenta ni el pasado (no hay historia) ni el futuro (no hay planificación)
+
+   Agentes deliberativos
+   - Requieren dos procesos:
+      - Decidir qué objetivos perseguir: deliberación
+      - Decidir cómo alcanzar dichos objetivos: razonamiento basado en medios y fines
+   - Se basan en el razonamiento práctico (decidir en cada momento la acción a realizar para facilitar la consecución de los objetivos)
+
+   Agentes híbridos
+   - Unas capas o subsistemas implementan el comportamiento reactivo y otras el comportamiento deliberativo
+      - Capas horizontales: todas las capas están conectadas a la entrada y salida del agente
+      - Capas verticales: la entrada y la salida están conectadas a una única capa del agente
+   - Inicialmente se aplica en robótica
+      - Sistema reactivo para el control de bajo nivel del robot
+      - Planificación para la toma de decisiones
 
 ### Método Aprendizaje
+
+Denominado en inglés Machine Learning.
+
+El objetivo de esta rama (metodo) de la inteligencia artificial es el desarrollo de algoritmos que modifican o adaptan su desempeño con el fin de mejorar la tarea para la cual han sido programados. La mayor parte de los programas computacionales no tiene esta característica.
+
+Por ejemplo:
+
+Al escribir un programa para multiplicar números enteros, al programa se le dan como datos de entrada un par de números y se obtiene como salida el producto de éstos. Este programa nunca cambia la función que relaciona la entrada y la salida, siempre que se dé como entrada el par 3,6 , el resultado será siempre 18. En este caso no hay aprendizaje.
+
+Pensemos ahora en un algoritmo que “aprenda” a reconocer los números nones sin darle la definición de éstos. Entonces, lo que se hace es darle al programa algunos ejemplos de entrenamiento como se haría con un niño al que se quiere enseñar el concepto.
+
+Es decir, se le da una muestra de números pares e impares informando al programa cuáles corresponden a cada categoría. El programa, por sí mismo, debe “descubrir” el concepto de número impar y, eventualmente, aplicarlo a nuevos ejemplos no presentados con anterioridad.
+
+El aprendizaje automático está enfocado a estudiar y desarrollar teorías y métodos para diseñar algoritmos de este tipo.
+
 ### Método Clasificación
+
+Dentro del área de aprendizaje automático(Machine Learning), Existe un campo especializado llamado aprendizaje de conceptos o método de clasificación , cuyo propósito es identificar conceptos a partir de un conjunto de datos y representar el concepto en forma apropiada. En el caso más sencillo, el concepto se define como una función que hace corresponder a un conjunto de atributos un indicador que toma solamente dos valores, correspondientes a los ejemplos positivos del concepto y a los ejemplos negativos del concepto respectivamente.
+
+El aprendizaje de conceptos es solamente una de tantas especialidades dentro del campo de aprendizaje automático.
+
+Pueden ser como :
+
+Bias: Criterios de Selección de Hipótesis
+
+Árboles de Decisión
+
 ### Método Razonamiento
 ### Método Optimización
 
@@ -355,10 +502,69 @@ Arquitecturas para construir agentes:
    #### Prótesis inteligentes
    ### Hogareños
    #### Mejora de electricidad del hogar
+  1. AmeriTop - Luces solares para exteriores, superbrillantes LED con sensor de movimiento solar con iluminación de gran angular; 1600LM 6000K, 3 cabezales ajustables, IP65 impermeable iluminación de seguridad al aire última intervensión (blanco) 
+![luz solar](https://images-na.ssl-images-amazon.com/images/I/71dgZp8OFEL._AC_SL1500_.jpg) 
+ 
+   1. EconoHome Panel calentador de espacio de montaje en pared, con termostato, calentador de convección de 400 W, ideal para habitación de 120 pies cuadrados – calentador eléctrico de 120 V – ahorra hasta un 50% de costes de calefacción – Protección contra sobrecalentamiento 
+![panel solar](https://images-na.ssl-images-amazon.com/images/I/31PvzHh0FJL._AC_.jpg) 
+ 
+   1. Interruptor de luz inteligente de 3 vías, polo único, interruptor de luz WiFi funciona con Alexa y Google Assistant, control remoto, certificado UL, paquete de 2, color blanco 
+![interruptor](https://images-na.ssl-images-amazon.com/images/I/61d0iU-%2B4UL._AC_SL1000_.jpg) 
+ 
+ 
+   1. Steren SHOM-100 Tomacorriente Encendido Inalámbrico Wi-Fi 
+ 
+![conector inteligente](https://images-na.ssl-images-amazon.com/images/I/51tKL0A8DZL._AC_SL1200_.jpg) 
+ 
    #### distribución de alimentos
+ 1. REFRIGERADOR FAMILY FRENCH DOOR SAMSUNG 24 PIES 
+![](https://cdn.homedepot.com.mx/productos/136234/136234-d.jpg) 
+ 
+   1. Cafetera Espresso Krups EA825511 Automática Premium Roja, Programable con sistema de auto encendido/apagado, Sistema Thermoblock, 15 bares de presión,1450W 
+![cafetera](https://images-na.ssl-images-amazon.com/images/I/81YECRdAKzL._AC_SL1500_.jpg) 
+ 
+   1. Ninja Foodi - Horno tostador digital de convección (10 en 1, con termómetro de capacidad XL y acabado de acero inoxidable) 
+![horno](https://images-na.ssl-images-amazon.com/images/I/81TvX3jF23L._AC_SL1500_.jpg) 
+ 
+   1. Purificador, humidificador y ventilador Dyson. 
+      Purifica, humidifica y te refresca automáticamente.  
+![calentador](https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSukJh6k0c-jTp0FsQc5zOuokF0nZhB-1yzOZm9sOMZVUWmvO_jGh80BYosgFWe2SqGJ10jyW8ZXg&usqp=CAc) 
+ 
+   5. Licuadora Automática Inteligente De Calentamiento 1.7L, Con 10 Funciones De Mezcla 1000 Vatios De Alta Potencia, Adecuada Para Hacer Jugos De Batidos Y Otros Alimentos Mixtos, Color Dorado 
+![licuadora](https://images-na.ssl-images-amazon.com/images/I/51vtfQ1qSAL._AC_SL1001_.jpg) 
+ 
    #### Limpieza
+ 1. iRobot Braava Jet M6 (6110) Ultimate Robot Mop- Conexión Wi-Fi, pulverizador de Chorro de precisión, Smart Mapping, Funciona con Alexa, Ideal para múltiples Habitaciones, Recarga y currículums 
+![trapeador inteligente](https://images-na.ssl-images-amazon.com/images/I/81xntNcNTPL._AC_SL1500_.jpg) 
+ 
+   1. YICI - Dispensador de jabón automático, 450 ml, sin contacto, dispensador de jabón líquido, con sensor inteligente, carga USB, para cocina, baño 
+![dispensador de jabon](https://images-na.ssl-images-amazon.com/images/I/61c0flTw7wL._AC_SL1500_.jpg) 
+ 
+   1. Multifuncional Hogar Usb Ultrasónico Lavavajillas Plato Era 
+![dispensador de jabon](https://http2.mlstatic.com/D_NQ_NP_2X_668973-CBT42818306456_072020-F.webp) 
+ 
+   1. Lavadora LG Automática WM22VV2S6B 22kg Silver 
+![lavadora inteligente](https://cdn1.coppel.com/images/catalog/pm/6351463-1.jpg) 
+ 
    #### Inteligencia infantil
+  1. 4moms RockaRoo - Columpio para bebé, diseño de balancín Compacto con Movimiento Deslizante de Frente a atrás, Tela de Malla fría, Color Gris Oscuro 
+![columpio inteligente](https://images-na.ssl-images-amazon.com/images/I/818pfyzLwQL._AC_SL1500_.jpg) 
+ 
+   1. Fisher-Price - Touch 'N Learn Kinderbot 
+![robot](https://images-na.ssl-images-amazon.com/images/I/71auPbU3QpL._AC_SL1500_.jpg) 
+ 
+   1.  Mtiny Coding Kit - 9 Languages 
+![coding](https://cdn.shopify.com/s/files/1/0081/1810/8231/products/mtiny_2048x2048.jpg?v=1604902518) 
+ 
+  1. Los Niños Inteligentes De Aprendizaje De Voz Diálogo Acompañando Al Ba 
+![niño inteligente](https://i.linio.com/p/567b59b72aed604bb4fd0459fa7bd27b-product.webp) 
    #### Muebles
+   1. Sillon Reclinable Electrico Con Audio Y Carga Inalambrica 
+![sofa inteligente](https://http2.mlstatic.com/D_NQ_NP_2X_820648-MLM31228944239_062019-F.webp) 
+ 
+   1. Mesa de centro inteligente con bocinas y refrigerador Bralf Sobro negro 
+![mesa para sala de estar](https://ss101.liverpool.com.mx/xl/1098030863.jpg) 
+
    ### Empresariales
    #### Análisis de datos y segmentación de clientes
    #### Servicio al cliente predictivo
@@ -402,3 +608,18 @@ Arquitecturas para construir agentes:
 * [Datos-IA](https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/inteligencia-artificial-al-servicio-de-la-gestion-de-datos)
 * [+Datos-IA](https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/ia-inteligencia-artificial-y-machine-learning-se-vinculan-al-big-data)
 * [Problemas-IA](https://historico.prnoticias.com/tecnologia/ciencia-y-tecnologia/20156823-inteligencia-artificial-problemas)
+
+https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
+
+https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
+
+https://aia.es/inteligencia-artificial-farmacos/
+
+http://personales.upv.es/ccarrasc/doc/2003-2004/ai_web/definicion.html
+
+https://ccc.inaoep.mx/~esucar/Clases-MetIA/repaso-mia.pdf
+
+
+https://www.iic.uam.es/inteligencia/que-es-procesamiento-del-lenguaje-natural/
+
+http://www.fdi.ucm.es/profesor/jpavon/doctorado/arquitecturas.pdf
