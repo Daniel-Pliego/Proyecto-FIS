@@ -349,3 +349,9 @@ https://aia.es/inteligencia-artificial-farmacos/
 * [3.3 Reforcement-learning](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-aprendizaje-refuerzo)
 * [SIstemas-difusos](https://www.ctrl.cinvestav.mx/~yuw/pdf/MaTesGSFJ.pdf.pdf)
 * [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
+
+* [Métodos modernos de Inteligencia Artificial, Grigori Sidorov (Ed.), México D. F. 2011.](https://onedrive.live.com/?authkey=%21AM4g1fgSReRIW7E&cid=2E49DA8C371EB376&id=2E49DA8C371EB376%211521&parId=2E49DA8C371EB376%21107&o=OneUp)
+
+* [Aprendizaje en Inteligencia Artificial,Alberto Pesquera Martín.](https://sindominio.net/apm/articulos/IAIC/aprendizaje/aprendizaje.pdf)
+
+* [Métodos de Inteligencia Artificial,L. Enrique Sucar (INAOE),Tecnologías de Información UPAEP.](https://ccc.inaoep.mx/~esucar/Clases-MetIA/MetIA-13.pdf) 
