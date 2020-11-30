@@ -5,15 +5,12 @@
   Proyecto de investigación, en la asignatura FIS
 </p>
 
-# Equipo 1
+# Equipo 
 - Omar Cauich Pasos [@omarzone](https://github.com/omarzone) :smiley:
 - Daniel Pliego [@Daniel-Pliego](https://github.com/Daniel-Pliego) :sunglasses::stuck_out_tongue_winking_eye:
 - Carlos Fernando Sanchez Chuc
 - Yajani Anahi Peraza Alcocer
 - Emir Bellos Cruz 
-
-# Descripción 
-Nuestro proyecto es una investigación sobre la Inteligencia artificial que tiene  el objetivo de dar a conocer la importancia de esta en el futuro de la programacion y el mundo en que vivimos 
 
 # Contents
 
