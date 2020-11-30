@@ -1,4 +1,3 @@
-
 # IA
 
 ## Contenido temático
@@ -91,8 +90,9 @@
 
 ---
 
+<!--- Jerarquía 1 --->
 ## Creación de IA
-
+<!--- Jerarquía 2 --->
 ### Método de la introspección
 
    #### Percepción basada en la información obtenida de nuestros cinco sentidos
@@ -206,17 +206,144 @@ Arquitecturas para construir agentes:
 
    **Tipos de sistemas difusos**
 
-   1. Mandami
+
+   1. Mamdani
+
+   La arquitectura general del Sistema Difuso de Tipo Puro o Mamdani, constó principalmente de tres partes, la fusificación, base de conocimiento con su sistema de inferencia y la defusificación. 
+
+   **La fusificación**: entendida como la toma de los valores entrada y su interpretación como valores lingüísticos, determinó las funciones de membresía de las variables del sistema en los conjuntos difusos previamente definidos.
+
+   **La base de conocimiento**: estuvo compuesta por una serie de reglas difusas definidas con la ayuda de expertos. Las reglas utilizadas en el sistema fueron del tipo MISO.
+
+   **La defusificación**: consistió en la conversión de los datos lingüísticos que provienen de la salida difusa del dispositivo de inferencia a una salida numérica, mediante una ponderación y normalización de las sentencias lógicas antecedentes. El método de defusificación utilizado tanto para el sistema general como para cada uno de los subsistemas fue el método del centroide.
+
+![Modelo-mamdani](https://www.researchgate.net/profile/Yadira_Bravo/publication/46152952/figure/fig2/AS:669399111438336@1536608593141/Figura-5-Sistema-de-Logica-Difusa.ppm)
+
    2. Takagi-Sugeno
 
+   Los pasos de aplicación de un modelo difuso son: fusi cación de las entradas, evaluar las funciones de pertenecía de cada entrada de acuerdo con el valor fusi cado, evaluación de las reglas, cálculo y defusi cación de la salida. Los pasos de fusificación y defusificación consisten en llevar los valores de entrada y salida a una escala de nida en el sistema difuso.
+
+   La elección del esquema Takagi-Sugeno se debe a su menor costo computacional comparado con el sistema difuso tipo Mandami; pero si en el diseño inicial se dispone de un sistema difuso tipo Mandami, éste se puede convertir a Sugeno, dicho proceso consiste en aproximar el modelo Mandami a partir de mínimos cuadrados o algoritmos evolutivos. De esta manera cualquier sistema de inferencia o control difuso se puede implementar por medio de un Takagi-Sugeno con un costo computacional menor.
+
+![Takagi-sugeno](https://www.researchgate.net/publication/261476274/figure/fig1/AS:608138642329600@1522002959284/The-general-structure-of-the-Takagi-Sugeno-ANFIS-model.png)
+
+
    La lógica difusa es una herramienta de gran potencial para el desarrollo de nuevos métodos o técnicas de la Inteligencia Artificial. Como habíamos mencionado anteriormente este tipo de lógica permite valores intermedios para poder definir estados convencionales como sí/no, verdadero/falso, negro/blanco, etc. Este tipo de nociones como más caliente o poco frío pueden expresarse matemáticamente y ser procesados por computadoras. Al hacer esto se esta realizado el intento de aplicar la forma del pensamiento humano a la programación de computadoras, que es lo que busca la inteligencia artificial con sus aplicaciones en diferentes sistemas.
+
    #### 2. Red neuronal MLP
+
+   Este es uno de los tipos de redes más comunes. Se basa en otra red mas simple llamada perceptrón simple solo que el número de capas ocultas puede ser mayor o igual que una. Es una red unidireccional (feedforward). La arquitectura típica de esta red es la siguiente:
+
+   ![Redneuronal-mlp](https://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200304curso-glisa/redes_neuronales/curso-glisa-redes_neuronales-html/mlp2.jpg)
+
+   Las neuronas de la capa oculta usan como regla de propagación la suma ponderada de las entradas con los pesos sinápticos wij y sobre esa suma ponderada se aplica una función de transferencia de tipo sigmoide, que es acotada en respuesta.
+
    #### 3. Red neuronal convolucional
+
+   Las Redes neuronales convolucionales son  un tipo de redes neuronales artificiales  donde las “neuronas”  corresponden a campos receptivos de una manera muy similar a las neuronas en la corteza visual primaria (V1) de un cerebro biológico.  Este tipo de red es una variación de un perceptrón multicapa, sin embargo, debido a que su aplicación es realizada en matrices bidimensionales, son muy efectivas para tareas de visión artificial, como en la clasificación y segmentación de imágenes, entre otras aplicaciones. Las redes neuronales convolucionales consisten en múltiples capas de filtros convolucionales de una o más dimensiones. Después de cada capa, por lo general se añade una función para realizar un mapeo causal no-lineal.
+
+   Como cualquier  red empleada para clasificación, al principio estas redes tienen una  fase de extracción de características, compuesta de neuronas convolucionales , luego hay una reducción por muestreo y al final tendremos neuronas de perceptrón mas sencillas para realizar la clasificación final sobre las características extraídas. La fase de extracción de características se asemeja al proceso estimulante en las células de la corteza visual. Esta fase se compone de capas alternas de neuronas convolucionales y neuronas de reducción de muestreo. Según progresan los datos a lo largo de esta fase, se disminuye su dimensionalidad, siendo las neuronas en capas lejanas mucho menos sensibles a perturbaciones en los datos de entrada, pero al mismo tiempo siendo estas activadas por características cada vez más complejas.
+
+   ![Convolucional](https://www.diegocalvo.es/wp-content/uploads/2017/07/red-neuronal-convolucional-arquitectura.png)
+   
    #### 4. Inteligencia de enjambre
+
+   La inteligencia de enjambre es el comportamiento colectivo de sistemas descentralizados y auto-organizados, naturales o artificiales. El concepto se emplea en el trabajo de la inteligencia artificial. La expresión fue presentado por Gerardo Beni y Jing Wang en 1989, en el marco de sistemas de robots móviles. La inspiración proviene a menudo de la naturaleza, especialmente de los sistemas biológicos. Los agentes siguen reglas muy simples, y aunque no hay una estructura de control centralizada que dicte cómo deben comportarse los agentes individuales, locales y, hasta cierto punto al azar, las interacciones entre estos agentes dan lugar a la aparición de la conducta global "inteligente", sin que el individuo sea agente.
+
+   * Ejemplos de algoritmos:
+
+   1. ANT optimización de colonias
+
+   Son una clase de algoritmos inspirados en las acciones de una colonia de hormigas. Los Métodos ACO son útiles en problemas que necesitan encontrar caminos hacia metas. La simulación artificial de agentes se utiliza para localizar soluciones óptimas moviendose a través de un espacio de parámetros que representan todas las posibles soluciones. Las hormigas naturales establecen las feromonas que dirigen unos a otros a los recursos y a explorar su entorno. "Hormigas", la simulación similar, registra sus posiciones y la calidad de sus soluciones, para que en posteriores iteraciones de simulación más hormigas puedan localizar las mejores soluciones.
+
+   2. Algoritmo de Colonia de Abejas Artificial
+   
+   Este es un algoritmo meta-heurístico introducido por Karaboga en 2005, y simula el comportamiento de forrajeo de las abejas melíferas. El algoritmo ABC tiene tres fases: "empleado abeja", "abejas" y "curioso explorador abeja". En la abeja empleada y las fases onlooker abejas, las abejas explotan las fuentes de búsquedas locales en el barrio de las soluciones seleccionadas sobre la base de la selección determinista, en la fase de la abeja ocupada y la selección probabilística en la fase de abeja espectador. En la fase de abeja exploradora que es una analogía de abandonar las fuentes de alimentos agotados en el proceso de búsqueda de alimento, las soluciones que no son beneficiosas para el progreso de la búsqueda, ya se abandonan, y se introducen nuevas soluciones en lugar de ello, para explorar nuevas regiones en el espacio de búsqueda.
+
+   3. Algoritmo de Gotas de Agua Inteligente
+   
+   Es inspirada en la naturaleza del algoritmo de optimización basado en enjambre, que se introdujo por primera vez en el 2007 . El algoritmo de IWD trata de imitar el comportamiento de gotas de agua naturales en los ríos. Aquí, el suelo es la cantidad que es llevada por cada gota de agua artificial en el algoritmo. Varias versiones del algoritmo de DIM se han sugerido para diferentes aplicaciones.
+
+   4. Optimización Multi-enjambre
+   
+   Es una variante de la optimización de enjambre de partículas basado en el uso de sub-enjambres múltiples en lugar de un enjambre. El enfoque general del multi-enjambre de optimización es que cada sub-enjambre se centra en una región específica, mientras que un método de diversificación específica decide dónde y cuándo poner en marcha los sub-enjambres. El marco multi-enjambre está especialmente equipado para la optimización de problemas multimodales, donde existen múltiples óptimos.
+
    #### 5. Sistema inmune artificial
+
+   El sistema inmune artificial (SIA) son un nuevo paradigma computacional donde se busca emular el sistema inmune humano, de modo que se pueda adaptar como un método de clasificación, estos sistemas tienen la propiedad de adaptabilidad y auto-mantenimiento. A pesar de ser un reciente paradigma computación comparado con otros métodos de clasificación como maquinas de soporte vectorial, aprendizaje maquina o redes neuronales, ha demostrado obtener resultados similares a los métodos con mayor tiempo de desarrollo e investigación. De manera formal un SIA se define de la siguiente manera: Un sistema adaptativo, inspirado por la teoría de inmunología y la observación de funciones inmunes, principios y modelos, que son aplicados a la solución de problemas”. Sus usos principales son para la solución de problemas de clasificación y optimización, las áreas donde mas son utilizados por mencionar algunas:
+
+   1. Seguridad computacional
+   2. Optimización de funciones numéricas
+   3. Aprendizaje maquina
+   4. Bio-informatica
+   5. Detección de virus
+   6. Minería de datos
+
    #### 2. Mensajes en lenguaje natural (diálogo)
+
+   El procesamiento del lenguaje natural (PLN o NLP) es un campo dentro de la inteligencia artificial y la lingüística aplicada que estudia las interacciones mediante uso del lenguaje natural entre los seres humanos y las máquinas. Más concretamente se centra en el procesamiento de las comunicaciones humanas, dividiéndolas en partes, e identificando los elementos más relevantes del mensaje. Con la Comprensión y Generación de Lenguaje Natural, busca que las máquinas consigan entender, interpretar y manipular el lenguaje humano.
+
+   ![NLP](https://www.inteldig.com/wp-content/uploads/2018/11/beeva-nlp-tecnologia-innovacion-1200x565.jpg)
+
+   El procesamiento del lenguaje natural (PLN o NLP), se utiliza actualmente en diferentes áreas y para distintas funciones, como por ejemplo:
+
+   * Generación del lenguaje natural (GLN o NLG)
+
+   La generación del lenguaje natural (GLN o NLG) dota a la máquina de la capacidad de crear un nuevo mensaje en lenguaje humano de manera autónoma. De manera resumida, lo que hacen estos modelos es: escoger la información a reproducir (dependiendo de la interpretación del mensaje a contestar), decidir cómo organizarla y cómo reproducirla (léxico y recursos gramaticales, morfología, estructuras sintácticas, etc.). Estos modelos generan frases nuevas palabra a palabra y tienen que ser entrenados para que funcionen correctamente.
+
+   * Recuperación de información (RI o IR)
+
+   La recuperación de información (RI) o en inglés Information Retrieval (IR), es el campo dentro de la informática que se encarga de procesar textos de documentos, para poder recuperar partes específicas en base a palabras clave. Por ejemplo técnicas como la extracción de información estructurada (permite obtener de un documento el trozo de texto  en el que está lo que buscas) o los sistemas de respuesta a preguntas de usuarios (que devuelve ante una consulta, una respuesta de una batería de respuestas ya existentes, asociadas a palabras clave de la consulta). No genera nuevas frases, por lo que no necesita utilizar reglas gramaticales. No es tan “inteligente” como la Generación del Lenguaje Natural.
+
+   * Reconocimiento y síntesis del habla
+
+   Los sistemas de reconocimiento de voz procesan los mensajes en voz humana, los transforman en texto, los interpretan y comprenden la intencionalidad de los mismos, y tras la generación de la respuesta en texto, se vuelve a transformar en voz humana a través de la síntesis de voz. La síntesis del habla o de voz, es la que capacita a la máquina para poder generar y reproducir habla en lenguaje natural.
    #### 3. Datos
+
+   La capacidad de las máquinas para ver, comprender e interactuar con el mundo está creciendo a un ritmo acelerado y aumenta cada día más gracias a los datos, que ayudan a aprender y entender aún más rápido. De esta manera, hoy el Big Data está considerado como el combustible que potencia a la IA. Cualquier empresa que trabaje con Big Data y dispositivos de IoT sabe que procesar, almacenar y dar sentido a la información es una tarea de grandes dimensiones. La integración del Machine Learning, por ejemplo, ya está brindando una mayor automatización de las tareas relacionadas con la información, como el almacenamiento, clasificación, extracción e interpretación de datos, optimizando la eficacia de todos los flujos de trabajo.
+
+   * Tres formas críticas en las que Big Data está potenciando IA:
+
+   1. *La tecnología de Big Data:* ahora, las empresas y sus proyectos de inteligencia artificial tienen la capacidad de acceder a grandes volúmenes de información. A partir de ahí, están en disposición de procesar enormes cantidades de datos que antes requerían hardware y software extremadamente costosos.
+
+   2. *Disponibilidad de grandes conjuntos de datos:* ICR (Information Collection Request), transcripción, archivos de voz e imagen, datos meteorológicos y datos logísticos están ahora disponibles en formas que nunca fueron posibles en el pasado. A día de hoy, incluso los viejos ficheros "originados en papel" están también disponibles en formato digital.
+
+   3. *Machine learning a escala:* los algoritmos "escalados" tales como redes neuronales recurrentes y deep learning están impulsando el avance de la IA Inteligencia Artificial.
+
+   Desde la catalogación de datos hasta su comprensión, la Inteligencia Artificial ofrece nuevas e interesantes oportunidades para gestionar grandes volúmenes de información. Estas son las principales ventajas:
+
+   * Automatización del proceso de datos
+
+   La IA y el Deep Learning (aprendizaje profundo) permiten automatizar todas las tareas rutinarias relacionadas con los datos, como su integración y administración. Los datos pueden ser ordenados automáticamente según numerosos parámetros, eliminando la necesidad de revisarlos manualmente, como se hacía en los procesos tradicionales.
+
+   * Veriicar la calidad de la infirmación
+
+   Además de procesar todos los datos, la Inteligencia Artificial también permite comprobar problemas de calidad o inconsistencias en los mismos. Esta tecnología se convierte en un sistema eficaz de control de calidad, con el objetivo de que los sistemas analíticos y de Big Data sean capaces de sacar conclusiones fiables que ayuden en la toma de decisiones corporativas. Cuando estos problemas son descubiertos, las aplicaciones basadas en IA pueden hacer correcciones automáticamente o marcar estas anomalías para que el equipo las tenga en cuenta y tomen acciones correctivas.
+
    #### 4. Problemas
+
+   Todavía hay mucho camino por recorrer con la Inteligencia Artificial. Grandes empresas como Google apuntan a que apenas estamos viviendo la primera edad de la Inteligencia Artificial, ya que las máquinas comienzan a realizar procesos de apredizaje del habla y el reconocimiento de imágenes. Por ahora tenemos asistentes inteligentes que hablan todavía como máquinas, algo muy lejos de ser el verdadero cometido de esta tecnología.
+
+   Existen tres grandes problemas que enfrenta la inteligencia artificial:
+
+   1. **El volumen de datos utilizados**
+
+   Es bien conocida la necesidad de utilización de datos por parte de la Inteligencia Artificial, para poder aprender sobre su entorno, pero regularmente no se toma en cuenta la cantidad de datos que están involucrados. La Inteligencia Artificial no solamente necesita de más datos que el cerebro humano para poder comprender conceptos y características, necesitan miles de veces más que los datos requeridos por un humano. Neil Lawrence, profesor de la Universidad de Sheffield y parte del equipo de Inteligencia Artificial de Amazon señaló: "se observa que los resultados exitosos de aprendizaje profundo de Inteligencia Artificial, son los casos en los que las máquinas tienen acceso a una enorme cantidad de datos”. Buena fe de ello podría ser la expresión y reconocimiento de imágenes por parte de un cerebro artificial.
+
+   2. **Inteligencia artificial multitarea**
+
+   La inteligencia humana es integral, puede desempeñar muchas tareas, y ese es precisamente un fallo de la Inteligencia Artificial desarrollada hasta ahora, ya que es aplicada a un área del conocimiento o actividad específica. Una vez que un cerebro de Inteligencia Artificial ha sido entrenado, puede ser altamente efectivo para tareas como el reconocimiento de animales o para ser el rival ideal en un videojuego, pero de acuerdo con Raia Hadsell, científico de la división de Google DeepMind, no existe una red neuronal artificial en el mundo capaz de hacer más de una tarea a la vez. 
+   
+   Hasta ahora no ha sido posible crear sistemas de Inteligencia Artificial que pueden aprender nuevas tareas, porque una vez que adquiere un nuevo entrenamiento, olvida las ejecuciones anteriores, por lo que no se tiene una memoria inteligente. La propuesta para solucionar este inconveniente ya existe y se llama redes neuronales progresivas, que crea sistemas de aprendizaje profundo separados, pero que al unirse puedan transmitir ciertos bits de información. Por ahora no es más que un método prometedor en una fase beta, que ha sido implementado en algunos brazos robóticas tipo cyborg y ha conseguido acelerar el proceso de aprendizaje de semanas a un día incluso.
+
+   3. **La comprensión de sus conclusiones**
+
+   Aún queda pendiente poder determinar con exactitud de que manera la Inteligencia Artificial llega a algunas conclusiones, ya que por ahora sólo es posible determinar el funcionamiento de las redes neuronales en conjunto pero no se conoce las razones a las que un cerebro artificial llega a determinada conclusión o resultado.
+
+   Para ilustrar este inconveniente se realizó un experimento en la Universidad de Virginia, en el que los investigadores crearon un sistema de seguimiento ocular para una red neuronal y le fueron mostradas las imágenes de un dormitorio y se le pidió al sistema de Inteligencia Artificial indicar qué estaba cubriendo las ventanas, y en lugar de mirar por las ventanas, miró al suelo. Al ver una cama respondió "hay cortinas que cubren las ventanas”, la respuesta fue correcta pero en ningún momento vio a las ventanas y no contaba con la cantidad de datos suficientes para llegar a esa conclusión siendo todo un misterio.
+
+   ![Conclusiones-IA](https://www.tekcrispy.com/wp-content/uploads/2020/02/4f06b7b2-753e-48b3-bb8f-777ca2653210_30212411048_2a1d7200e2_b-640x364.jpg)
+
    #### 2. Procesamineto
    #### 1. Razonamiento
    #### 2. Representacion de conocimiento (modelo del mundo)
@@ -364,48 +491,15 @@ Bias: Criterios de Selección de Hipótesis
 
    ### Investigación científica
    #### Redes neuronales
-   Son los Algoritmos de aprendizaje y los de modelos computacionales diseñados para funcionar como neuronas en el cerebro. Las redes neuronales son entrenadas con conjuntos específicos de datos, que utilizan para encontrar una respuesta en una consulta. La suposición de la red se compara con la respuesta correcta en una base de datos. En caso de ocurrir errores, las "neuronas" son ajustadas y el proceso se repite hasta que los niveles de error disminuyen. Este enfoque algorítmico, llamado retropropagación, es similar a la regresión estadística. 
    #### Vision de máquina
-   La rama de la IA que trata de cómo las computadoras emulan el sistema visual humano y su capacidad de ver e interpretar imágenes digitales del mundo real. También incorpora procesamiento de imágenes, reconocimiento de patrones y comprensión de imágenes (convirtiendo imágenes en descripciones que pueden usarse en otras aplicaciones). 
    #### Algoritmos genéticos
-   En la inteligencia artificial, se han utilizado las ideas de la evolución biológica y la selección natural para resolver tareas complejas por medio de la computadora a través de AG. Los AG trabajan encontrando individuos con el mejor desempeño en sus tareas y utilizan sus características para producir individuos “mejor adaptados” en cada generación, es decir que sean mejores en su tarea que los individuos anteriores. 
-   
-   De manera general podemos comentar que los AG describen las soluciones posibles del problema como individuos dentro de una población. Cada individuo se representa como una secuencia de caracteres donde cada caracter se llama gen y el conjunto de caracteres se llama cromosoma. Los individuos son evaluados midiendo que tan bien solucionan el problema.
-   
-   Una vez evaluados, se seleccionan los mejores individuos y pasan a una etapa de recombinación genética en la cual se emplean estrategias de cruce y mutación para producir variedades de individuos diferentes a las de sus antecesores, las cuales se utilizan para poblar la siguiente generación del algoritmo.
-   
-   Este ciclo se repite iterativamente y en cada generación se obtienen mejores individuos que heredan y modifican ligeramente las características de sus ancestros llegando a soluciones con un buen desempeño en la tarea que deseamos realizar.
    #### Descubrir fármacos
-   Las innovaciones en las ciencias biomédicas que están basadas en tecnología, son la esperada oportunidad de esta industria para ser más efectivos. El desarrollo de nuevos fármacos a través de la innovación en I+D que puedan completarse en menos tiempo y con menos costes, es el Santo Grial de la industria biofarmacéutica.
-
-La innovación científica no solo trata de averiguar los mecanismos por los que se manifiesta una u otra enfermedad; sino que, además, se corresponde con la consecución de nuevas drogas que permitan evitar, paliar o curar una determinada dolencia.
-
-Los costes que soporta la industria farmacéutica innovadora suponen más de 2400 millones de euros según Farmaindustria. Por otra parte, la inversión global en I+D en las farmacéuticas supone 30000 millones, solo en Europa. La cifra a nivel mundial sube hasta los 142000 millones de euros.
-
-De estos datos, más del 57% se destina al diseño, desarrollo y evaluación de ensayos clínicos en sus 3 fases. La cantidad restante, 40%, se destina a la investigación básica, procesos de aprobación y farmacovigilancia.
-
-Siguiendo los datos derivados de la patronal de las farmacéuticas innovadoras, se tarda un total de entre 12-13 años en desarrollar y llevar a un paciente un nuevo medicamento. Pero no todas las moléculas llegan a la fase de comercialización; muchas se quedan en el tintero en las diversas fases del desarrollo del fármaco.
-
-Es en la parte de descubrimiento de dianas y el diseño de fármacos en las que la implementación de técnicas de Inteligencia Artificial ayuda a reducir tiempos hasta la mitad y por tanto, un ahorro de costes en la producción de nuevos medicamentos de hasta un 25%.
-
-Actualmente, una biofarmacéutica española, Sylentis, ha implementado un software (siRFINDER) que emplea algoritmos basados en redes neuronales, SVM y machine learning para recoger, depurar y reinterpretar los datos experimentales generados por la farmacéutica. Esto les permite potenciar y desarrollar fármacos gracias a que el software les capacita para generar miles de compuestos específicos para tratar una enfermedad en cuestión de días. La farmacéutica reduce así los costosos y laboriosos trabajos de selección de candidatos, que suelen tardar años, en apenas unos días.
    ### Mejora en la calidad de vida
-   Algunos productos tecnológicos ya disponibles son prueba innegable de dicho potencial. Por ejemplo, la herramienta Seeing AI de Microsoft, una app gratuita que ayuda a las personas ciegas a reconocer objetos en el entorno.
-
-Otro ejemplo son los asistentes virtuales, al estilo de Alexa o Google Home que, gracias a la IA, permiten al usuario comunicarse con sus dispositivos y realizar múltiples tareas de forma más accesible.
-
    #### Máquinas traductoras
-   Una forma de traducción automatizada mediante la cual se utiliza software de computadora para traducir texto o audio de un idioma a otro (por ejemplo, del ruso al inglés). Además de sustituir simplemente una palabra por otra, puede incorporar técnicas estadísticas que aumenten la probabilidad de identificar correctamente frases, expresiones idiomáticas, nombres propios y otras anomalías.
    #### Robot de conversación
-   Un programa de computadora que usa un conjunto de reglas para conducir una conversación basada en el habla o el texto con un humano a través de una interfaz de chat en línea. Los robots de conversación son alimentados por la IA y usan el aprendizaje de la máquina para detectar e imitar la conversación humana. Se desarrollan comúnmente para proporcionar contenido específico o servicio automatizado o utilidad a los usuarios.
    #### Asistente digital virtual
-   Una versión más sofisticada de un robot de conversación, también conocido como un agente inteligente, asistente personal virtual, asistente virtual inteligente, asistente automatizado o agente virtual. Dichos asistentes pueden organizar, almacenar y dar información basada en la ubicación del usuario y pueden contestar después de escuchar o recibir texto de los usuarios con información de una multitud de fuentes en línea (por ejemplo, pronósticos meteorológicos, mapas, precios de las acciones o horarios de transporte). Los ejemplos incluyen Siri de Apple, Google Now, Alexa de Amazon y Cortana de Microsoft.
    #### Lingüística computacional
-   Un campo interdisciplinario que se ocupa del modelado estadístico y basado en reglas de datos de lenguaje natural por computadoras. Incluye el reconocimiento del idioma habaldo, el proceso mediante el cual las máquinas pueden identificar y reconocer palabras y frases habladas y traducirlas o convertirlas en texto legible por máquina.
    #### Prótesis inteligentes
-   OttoBock, una empresa mediana alemana que con un siglo de historia se ha convertido en un referente mundial en el campo de las prótesis, y que está también innovando con la inteligencia artificial (IA) para que sus productos aprendan de esas personas que tienen que llevar un apéndice mecánico porque les falta alguno de sus miembros.
-Gracias a ocho electrodos el sistema de control de la prótesis mide los patrones de movimiento de los músculos en el muñón del antebrazo y los asigna a determinados movimientos o agarres de la mano. Por ejemplo, atarse los cordones de los zapatos o girar el pomo de una puerta. Si un paciente coge una botella de agua, el sistema de control de la prótesis Myo Plus reconoce el patrón de movimiento correspondiente y envía a la prótesis la orden de ejecutar el agarre correspondiente o el giro, y todo ello de forma automática.
-
    ### Hogareños
    #### Mejora de electricidad del hogar
   1. AmeriTop - Luces solares para exteriores, superbrillantes LED con sensor de movimiento solar con iluminación de gran angular; 1600LM 6000K, 3 cabezales ajustables, IP65 impermeable iluminación de seguridad al aire última intervensión (blanco) 
@@ -477,7 +571,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
    #### Previción de ventas y negocios
    #### Filtros de spam
 
-
+<!--- Jerarquía 1 --->
 ## Debate ético sobre IA
 
    ### Beneficios de la IA
@@ -495,22 +589,25 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
    #### El ying y el yang
    #### Mal uso de la IA
    #### Conclusión final
-
-
+                   
 ---
    # Referencias
-https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
-
-https://medium.com/soldai/algoritmos-gen%C3%A9ticos-en-inteligencia-artificial-parte-i-introducci%C3%B3n-c87b1f52c34f
-
-https://aia.es/inteligencia-artificial-farmacos/ 
-
 * [1.1_Percepción los 5 sentidos](https://askthescientists.com/es/senses/)
 * [3.1 Entrada](https://sites.google.com/site/mayinteligenciartificial/estructura-de-los-agentes-inteligentes)
 * [3.3 Arqitectura BDI](https://bisite.usal.es/archivos/c1_1_0.pdf)
 * [3.3 Reforcement-learning](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-aprendizaje-refuerzo)
 * [SIstemas-difusos](https://www.ctrl.cinvestav.mx/~yuw/pdf/MaTesGSFJ.pdf.pdf)
+[Mandani](https://www.redalyc.org/pdf/903/90315226002.pdf)
+* [Takagi-sugeno](http://www.scielo.org.co/pdf/tecn/v15n30/v15n30a05.pdf)
 * [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
+* [Redes-neuroanles-mlp](https://www.ibiblio.org/pub/linux/docs/LuCaS/Presentaciones/200304curso-glisa/redes_neuronales/curso-glisa-redes_neuronales-html/x105.html)
+* [Redes-neuronales-convolucional](https://www.juanbarrios.com/redes-neurales-convolucionales/#:~:text=Las%20Redes%20neuronales%20convolucionales%20son,V1%20de%20un%20cerebro%20biol%C3%B3gico.)
+* [Inteligencia-de-enjambre](https://www.ecured.cu/Inteligencia_de_enjambre#:~:text=La%20inteligencia%20de%20enjambre%20es%20el%20comportamiento%20colectivo%20de%20sistemas,de%20sistemas%20de%20robots%20m%C3%B3viles.)
+* [Sistema-inmune-artificial](https://www.rcs.cic.ipn.mx/2016_114/Sistema%20inmune%20artificial%20para%20estegoanalisis%20de%20imagenes%20JPEG.pdf)
+* [Mensaje-en-lenguaje-natural](https://decidesoluciones.es/procesamiento-del-lenguaje-natural-pln-o-nlp-que-es-y-para-que-se-utiliza/#:~:text=El%20procesamiento%20del%20lenguaje%20natural%20(PLN%20o%20NLP)%20es%20un,seres%20humanos%20y%20las%20m%C3%A1quinas.)
+* [Datos-IA](https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/inteligencia-artificial-al-servicio-de-la-gestion-de-datos)
+* [+Datos-IA](https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/ia-inteligencia-artificial-y-machine-learning-se-vinculan-al-big-data)
+* [Problemas-IA](https://historico.prnoticias.com/tecnologia/ciencia-y-tecnologia/20156823-inteligencia-artificial-problemas)
 
 https://www.eleconomista.com.mx/tecnologia/19-terminos-usos-y-tipos-de-Inteligencia-Artificial-mas-comunes-20170508-0046.html
 
@@ -520,10 +617,18 @@ https://aia.es/inteligencia-artificial-farmacos/
 
 http://personales.upv.es/ccarrasc/doc/2003-2004/ai_web/definicion.html
 
-
 https://ccc.inaoep.mx/~esucar/Clases-MetIA/repaso-mia.pdf
 
 
 https://www.iic.uam.es/inteligencia/que-es-procesamiento-del-lenguaje-natural/
 
 http://www.fdi.ucm.es/profesor/jpavon/doctorado/arquitecturas.pdf
+=======
+* [Lógica-disfusa](https://sites.google.com/site/logicadifusaingindustrialpaita/logica-difusa/logica-difusa-en-la-inteligencia-artificial)
+
+* [Métodos modernos de Inteligencia Artificial, Grigori Sidorov (Ed.), México D. F. 2011.](https://onedrive.live.com/?authkey=%21AM4g1fgSReRIW7E&cid=2E49DA8C371EB376&id=2E49DA8C371EB376%211521&parId=2E49DA8C371EB376%21107&o=OneUp)
+
+* [Aprendizaje en Inteligencia Artificial,Alberto Pesquera Martín.](https://sindominio.net/apm/articulos/IAIC/aprendizaje/aprendizaje.pdf)
+
+* [Métodos de Inteligencia Artificial,L. Enrique Sucar (INAOE),Tecnologías de Información UPAEP.](https://ccc.inaoep.mx/~esucar/Clases-MetIA/MetIA-13.pdf) 
+
