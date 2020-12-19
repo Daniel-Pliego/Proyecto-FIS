@@ -1,8 +1,8 @@
 ![Imagen IA](https://i.imgur.com/hWCbD6J.jpg)
 
-<h2 align="center">Inteligencia Artificial</h2>
+<h2 align="center">Ingenio Artificial (Skill Amazon Alexa)</h2>
 <p align="center">
-  Proyecto de investigación, en la asignatura FIS
+  Bot que interactura por voz y los productos Alexa, el cual brinda datos curiosos sobre inteligencia artificial y responde las preguntas frecuentes de los niños interesados en el tema en un rango de edad 9-14 años.
 </p>
 
 # Equipo 
