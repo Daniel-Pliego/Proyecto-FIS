@@ -40,13 +40,19 @@
 9. https://guiauniversitaria.mx/5-cosas-que-quiza-no-sabias-sobre-la-inteligencia-artificial-ia/
 10. https://guiauniversitaria.mx/5-cosas-que-quiza-no-sabias-sobre-la-inteligencia-artificial-ia/
 
-1.	Sabias que hay una IA que se dedica a clasificar pepinos  
-2.	Una empresa china hizo un refugio para gatos que usa IA y una cámara para abrir la puerta para que entren los gatos  
-3.	Una red neuronal es una forma de crear inteligencia artificial, funciona imitando vagamente el cerebro humano 
-4.	Las redes neuronales son muy poderosas, pero necesitan de una gran cantidad de datos 
-5.	El machine learning es una forma de crear inteligencia artificial, se usa mayormente para reconocer patrones, es muy útil en la bolsa de valores o para predecir qué película te gustaría ver 
-6.	Aunque la inteligencia artificial parezca algo lejano, hoy en día muchos productos tienen IA, ¡El futuro es hoy!
-7.	Las redes sociales usan IA para predecir que contenido te gustaría ver y mostrártelo para que así te mantengas más tiempo usando la plataforma 
-8.	Uno de los primeros programas de inteligencia artificial fue “DENDRAL” creado en 1965, ayudaba a los biólogos y químicos a interpretar estructuras moleculares  
-9.	Deep blue fue el primer robot con IA fue hecho en 1996, es un robot que juega ajedrez y le ganó al campeón mundial de ajedrez  
-10.	Se creó un robot asesino que ya opera en Israel y corea del sur, este robot usa IA para fijar y matar objetivos de interés  
+11. https://cloud.google.com/blog/products/gcp/how-a-japanese-cucumber-farmer-is-using-deep-learning-and-tensorflow 
+    
+12. https://www.theverge.com/2019/2/11/18220606/baidu-smart-cat-shelter-ai-facial-recognition-dogs 
+    
+13. https://en.wikipedia.org/wiki/Artificial_neural_network#:~:text=An%20artificial%20neural%20network%20is,to%20the%20input%20of%20another. 
+    
+14. No aplica
+15. No aplica
+16. No aplica
+17. No aplica
+18. https://exhibits.stanford.edu/ai/catalog?f%5Btopic_facet%5D%5B%5D=DENDRAL
+    
+19. https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer) 
+    
+20. https://www.nbcnews.com/tech/security/future-tech-autonomous-killer-robots-are-already-here-n105656 
+
