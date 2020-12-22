@@ -1,8 +1,8 @@
 ![Imagen IA](https://i.imgur.com/hWCbD6J.jpg)
 
-<h2 align="center">Inteligencia Artificial</h2>
+<h2 align="center">Ingenio Artificial (Skill Amazon Alexa)</h2>
 <p align="center">
-  Proyecto de investigación, en la asignatura FIS
+  Bot que interactura por voz y los productos Alexa, el cual brinda datos curiosos sobre inteligencia artificial y responde las preguntas frecuentes de los niños interesados en el tema en un rango de edad 9-14 años.
 </p>
 
 # Equipo 
@@ -17,11 +17,13 @@
 - [Objetivos](Documentacion/1.%20Objetivos.md)
 
 - [Herramientas y métodos](Documentacion/2.%20Herramientas%20y%20métodos.md)
+
+- [Roles y proceso de trabajo](Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md)-
+
+- [Casos de uso](Docuemntacion/../Documentacion/6.%20Casos%20de%20uso.md)
 - [Requerimientos](Documentos/../Documentacion/3.%20Requerimientos.md)
-- [Roles y proceso de trabajo](Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md)
 
 - [Bitácora](Docuemntacion/../Documentacion/5.%20bitácora.md)
-
 # Links
 
 [Monday&#46;com](https://uady-cast.monday.com/boards/841731238)
