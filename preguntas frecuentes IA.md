@@ -1,3 +1,3 @@
 ## preguntas frecuentes IA
 
-1. 
+1.    
