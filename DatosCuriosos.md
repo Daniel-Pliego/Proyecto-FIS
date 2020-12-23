@@ -13,7 +13,11 @@
 9. La inteligencia artificial se está utilizando para ayudar a abordar la crisis climática global. Te doy un ejemplo, ahora existen sistemas inteligentes que controlan la calefacción y luces de una casa. Todo esto ayuda a reducir o regular la cantidad de energia electrica que se consume.
 10. Gracias a la inteligencia artificial existen sistemas que pueden examinar la información del tráfico en toda la ciudad en tiempo real para ayudar a las personas a planificar eficientemente sus rutas de conducción.
 
+1. En 1982, Dickmanns consiguió que un vehículo eléctrico pudiese moverse a derecha e izquierda gracias a su visión artificial, fue el nacimiento de los vehículos autónomos.
 
+2. El 10 de febrero de 1996: el superordenador de IBM Deep Blue se impuso al entonces campeón, Garry Kaspárov, en la primera partida de un encuentro pactado a seis. Tras el susto inicial, el gran maestro ruso dominó con tres victorias, y dejó el marcador final en 4 a 2 a su favor.
+
+3. El robot Atlas es el robot humanoide bípedo desarrollado por Boston Dynamics. Mide 1.8 metros, pesa 80 Kilogramos y es capaz de realizar múltiples tareas, pero está orientado a las de búsqueda y rescate.
 
 
 ## Referencias
