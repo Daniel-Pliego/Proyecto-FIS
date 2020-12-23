@@ -48,7 +48,7 @@
 11. [Auntos Autonomos](https://ecosistemahuawei.xataka.com/principales-hitos-historia-inteligencia-artificial/)
 12. [IBM Deep blue](https://www.lavanguardia.com/deportes/20160210/302037419496/dia-ordenador-gano-campeon-mundo-ajedrez.html)
 13. [Atlas](https://www.google.com/search?q=Atlas+(2013)%2C+el+robot+b%C3%ADpedo+de+rescate+de+la+Boston+Dynamics%2C&oq=Atlas+(2013)%2C+el+robot+b%C3%ADpedo+de+rescate+de+la+Boston+Dynamics%2C&aqs=chrome..69i57.1011j0j4&sourceid=chrome&ie=UTF-8)
-14. https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/
+14. [AlphaGo](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
 15. [Jarvis](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
 16. [Robots crean su idioma](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
 17. [IQ de las IA](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
