@@ -13,12 +13,25 @@
 9. La inteligencia artificial se está utilizando para ayudar a abordar la crisis climática global. Te doy un ejemplo, ahora existen sistemas inteligentes que controlan la calefacción y luces de una casa. Todo esto ayuda a reducir o regular la cantidad de energia electrica que se consume.
 10. Gracias a la inteligencia artificial existen sistemas que pueden examinar la información del tráfico en toda la ciudad en tiempo real para ayudar a las personas a planificar eficientemente sus rutas de conducción.
 
-1. En 1982, Dickmanns consiguió que un vehículo eléctrico pudiese moverse a derecha e izquierda gracias a su visión artificial, fue el nacimiento de los vehículos autónomos.
+11. En 1982, Dickmanns consiguió que un vehículo eléctrico pudiese moverse a derecha e izquierda gracias a su visión artificial, fue el nacimiento de los vehículos autónomos.
 
-2. El 10 de febrero de 1996: el superordenador de IBM Deep Blue se impuso al entonces campeón, Garry Kaspárov, en la primera partida de un encuentro pactado a seis. Tras el susto inicial, el gran maestro ruso dominó con tres victorias, y dejó el marcador final en 4 a 2 a su favor.
+12. El 10 de febrero de 1996: el superordenador de IBM Deep Blue se impuso al entonces campeón, Garry Kaspárov, en la primera partida de un encuentro pactado a seis. Tras el susto inicial, el gran maestro ruso dominó con tres victorias, y dejó el marcador final en 4 a 2 a su favor.
 
-3. El robot Atlas es el robot humanoide bípedo desarrollado por Boston Dynamics. Mide 1.8 metros, pesa 80 Kilogramos y es capaz de realizar múltiples tareas, pero está orientado a las de búsqueda y rescate.
+13. El robot Atlas es el robot humanoide bípedo desarrollado por Boston Dynamics. Mide 1.8 metros, pesa 80 Kilogramos y es capaz de realizar múltiples tareas, pero está orientado a las de búsqueda y rescate.
 
+14. El 15 de marzo de 2015, AlphaGo, una IA de Google, tumbó al campeón mundial de Go, Lee Sedol. El considerado como juego de estrategia más exigente del mundo, no fue un reto para esta IA de Google que doblegó al campeón por 4-1 tras cinco disputadas partidas.
+
+15. Mark Zuckerberg tiene ahora un nuevo "mayordomo virtual" en su hogar. Se llama Jarvis y es capaz hasta de jugar con la familia, tocar música, encender luces y reconocer a los visitantes para decidir si abre o no la puerta de casa. Es su mejor creación de inteligencia artificial.
+
+16. Facebook había tenido que desconectar dos máquinas porque habían creado un lenguaje propio e ininteligible para los humanos. La máquina se comunicaba en un inglés incorrecto y repetitivo que, sin embargo, para ella tenía un sentido muy concreto.
+
+17. ¿Puede ser una inteligencia artificial más inteligente que otra? Pues parece que sí. Según las conclusiones publicadas por Business Insider. En 2016, el coeficiente intelectual de la inteligencia artificial de Google era de 47.3, por delante de la que ofrece el buscador chino Baidu (33), Bing (32) y Siri (24).
+
+18. Hace casi medio siglo, cuando los robots pertenecían al terreno de la ciencia ficción, nacía Shakey, un pionero que era capaz de percibir su entorno, planificar su ruta y desplazarse por su cuenta. Bill Gates o Arthur C. Clarke fueron algunas de las personalidades que se interesaron por “el primer robot móvil inteligente del mundo”.
+
+19. En 1966 desarrolló un programa con el que pretendía ser capaz de engañar a los humanos haciéndoles pensar que estaban hablando con otra persona. Se llamaba ELIZA, fue diseñado como un método para mostrar la superficialidad de la comunicación entre el hombre y la máquina. Lo hacía reconociendo palabras clave y preguntando sobre ellas como si fuera un psicólogo.
+
+20.  En 2014 un ordenador ha superado por primera vez el test de Turing al convencer a un grupo de jueces que, en lugar de una programa informático, se trataba de un joven de 13 años llamado Eugene Goostman. El test de Turing es la prueba propuesta por Alan Turing en 1950 para comprobar si una máquina es inteligente. Y el programa creado por los ingenieros Vladimir Veselov y Eugene Demchenko, por primera vez, ha superado el reto.
 
 ## Referencias
 1. https://www.netapp.com/es/artificial-intelligence/what-is-artificial-intelligence/
@@ -32,3 +45,13 @@
 8.  https://ciudadanospormexico.org/20-datos-curiosos-y-extraos-sobre-inteligencia-artificial/
 9. https://guiauniversitaria.mx/5-cosas-que-quiza-no-sabias-sobre-la-inteligencia-artificial-ia/
 10. https://guiauniversitaria.mx/5-cosas-que-quiza-no-sabias-sobre-la-inteligencia-artificial-ia/
+11. [Auntos Autonomos](https://ecosistemahuawei.xataka.com/principales-hitos-historia-inteligencia-artificial/)
+12. [IBM Deep blue](https://www.lavanguardia.com/deportes/20160210/302037419496/dia-ordenador-gano-campeon-mundo-ajedrez.html)
+13. [Atlas](https://www.google.com/search?q=Atlas+(2013)%2C+el+robot+b%C3%ADpedo+de+rescate+de+la+Boston+Dynamics%2C&oq=Atlas+(2013)%2C+el+robot+b%C3%ADpedo+de+rescate+de+la+Boston+Dynamics%2C&aqs=chrome..69i57.1011j0j4&sourceid=chrome&ie=UTF-8)
+14. https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/
+15. [Jarvis](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
+16. [Robots crean su idioma](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
+17. [IQ de las IA](https://tecnohotelnews.com/2017/10/05/cinco-hitos-inteligencia-artificial/)
+18. [Shakey](https://www.eldiario.es/hojaderouter/tecnologia/shakey-robot-inteligencia-artificial-coche-autonomo_1_3466717.html)
+19. [ELIZA](https://www.xataka.com/historia-tecnologica/asi-era-eliza-el-primer-bot-conversacional-de-la-historia)
+20. [Eugene Goostman](https://es.gizmodo.com/un-ordenador-supera-por-primera-vez-el-test-de-turing-1587840827)
