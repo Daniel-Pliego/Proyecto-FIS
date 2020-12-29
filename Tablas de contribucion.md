@@ -8,13 +8,7 @@
 Carlos Sanchez|   0       |   0     |
 |Yajani Peraza|   0       |   0     |
 |Ennir Bellos |   0       |   0     |
-
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-
-
+                                                                                                                                                                                                                                                                                                     
 |             |  Sprint 2 |         |
 |-------------|-----------|---------|
 |Nombres      | Tareas    | Metrica |
@@ -28,7 +22,7 @@ Carlos Sanchez|   0       |   0     |
 
 
 
-|             |  Total  |         |
+|             |  Total    |         |
 |-------------|-----------|---------|
 |Nombres      | Tareas    | Metrica |
 |Daniel Pliego|   0       |   0     |
