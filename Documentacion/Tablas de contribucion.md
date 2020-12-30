@@ -34,7 +34,7 @@
 |Carlos Sánchez|    5      |   6       |
 |Yajani Peraza |    2      |   2       |
 |Emir Bellos   |    6      |   7       |
-| **total**    |   **25**  |   **32**  |
+| **total**    |   **26**  |   **33**  |
 
 ---
 
