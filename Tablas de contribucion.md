@@ -31,7 +31,7 @@
 |**Nombres**   | **Tareas**|**Metrica**|
 |Daniel Pliego |    6      |   8       |
 |Omar Cauich   |    7      |   10      |
-|Carlos Sánchez|    4      |   5       |
+|Carlos Sánchez|    5      |   6       |
 |Yajani Peraza |    2      |   2       |
 |Emir Bellos   |    6      |   7       |
 | **total**    |   **25**  |   **32**  |
@@ -41,21 +41,21 @@
 |              |  Sprint 4 |           |
 |--------------|-----------|-----------|
 |**Nombres**   | **Tareas**|**Metrica**|
-|Daniel Pliego |    6      |   8       |
-|Omar Cauich   |    7      |   10      |
-|Carlos Sánchez|    4      |   5       |
-|Yajani Peraza |    2      |   2       |
-|Emir Bellos   |    6      |   7       |
-| **total**    |   **25**  |   **32**  |
+|Daniel Pliego |    0      |   0       |
+|Omar Cauich   |    0      |   0       |
+|Carlos Sánchez|    0      |   0       |
+|Yajani Peraza |    0      |   0       |
+|Emir Bellos   |    0      |   0       |
+| **total**    |   **0**  |   **0**  |
 
 ---
 
 |              |  TOTAL    |           |
 |--------------|-----------|-----------|
 |**Nombres**   | **Tareas**|**Metrica**|
-|Daniel Pliego |   0       |   0       |
-|Omar Cauich   |   0       |   0       |
-|Carlos Sánchez|   0       |   0       |
-|Yajani Peraza |   0       |   0       |
-|Emir Bellos   |   0       |   0       |
-| **total**    |    **0**  |   **0** |                                                                                                                                                                                                                                                                        
+|Daniel Pliego |   19      |   24       |
+|Omar Cauich   |   20      |   27       |
+|Carlos Sánchez|   11      |   17       |
+|Yajani Peraza |   8       |   11       |
+|Emir Bellos   |   8       |   12       |
+| **total**    |    **66**  |   **91** |                                                                                                                                                                                                                                                                        
