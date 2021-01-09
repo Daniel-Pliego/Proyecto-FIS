@@ -23,5 +23,7 @@ También se han creado historias de usuario a través de los cuales determinamos
 
 - HU07- Introducción al funcionamiento del Bot.
 
+Para más información con detalles puede consultar el archivo correspondiente a cada metodo  en el archivo "Documentación y Design".
+
 
 
