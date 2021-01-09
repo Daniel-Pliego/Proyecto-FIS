@@ -41,21 +41,33 @@
 |              |  Sprint 4 |           |
 |--------------|-----------|-----------|
 |**Nombres**   | **Tareas**|**Metrica**|
+|Daniel Pliego |    2      |   4       |
+|Omar Cauich   |    4      |   7       |
+|Carlos Sánchez|    5      |   9       |
+|Yajani Peraza |    1      |   2       |
+|Emir Bellos   |    2      |   3       |
+| **total**    |   **14**  |   **25**  |
+
+---
+
+|              |  Sprint 5 |           |
+|--------------|-----------|-----------|
+|**Nombres**   | **Tareas**|**Metrica**|
 |Daniel Pliego |    0      |   0       |
 |Omar Cauich   |    0      |   0       |
 |Carlos Sánchez|    0      |   0       |
 |Yajani Peraza |    0      |   0       |
 |Emir Bellos   |    0      |   0       |
-| **total**    |   **0**  |   **0**  |
+| **total**    |   **0**   |   **0**   |
 
 ---
 
 |              |  TOTAL    |           |
 |--------------|-----------|-----------|
 |**Nombres**   | **Tareas**|**Metrica**|
-|Daniel Pliego |   19      |   24       |
-|Omar Cauich   |   20      |   27       |
-|Carlos Sánchez|   11      |   17       |
-|Yajani Peraza |   8       |   11       |
-|Emir Bellos   |   8       |   12       |
-| **total**    |    **66**  |   **91** |                                                                                                                                                                                                                                                                        
+|Daniel Pliego |   21      |   28      |
+|Omar Cauich   |   24      |   34      |
+|Carlos Sánchez|   16      |   26      |
+|Yajani Peraza |   9       |   13      |
+|Emir Bellos   |   10      |   15      |
+| **total**    |   **80**  |   **116** |                                                                                                                                                                                                                                                                        
