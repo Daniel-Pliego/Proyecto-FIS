@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "aprende i a",
+      "invocationName": "ingenio artificial",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -19,9 +19,15 @@
           "name": "GetFactIntent",
           "slots": [],
           "samples": [
-            "si ",
+            "dame una curiosidad",
+            "una curiosidad",
+            "curiosidad de i a",
+            "un dato curioso",
+            "dato curioso",
+            "dato de inteligencia artificial",
+            "un dato de inteligencia artificial",
             "un dato",
-            "un dato del espacio",
+            "un dato de i A",
             "dime un dato",
             "dime un dato  I A",
             "dame un dato",
@@ -46,10 +52,14 @@
         {
           "name": "AMAZON.YesIntent",
           "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
         }
       ],
       "types": []
     }
   },
-  "version": "9"
+  "version": "12"
 }
