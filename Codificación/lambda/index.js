@@ -216,7 +216,7 @@ exports.handler = skillBuilder
     HelpHandler,
     CancelAndStopIntentHandler,
     //ExitHandler,
-   // FallbackHandler,
+    FallbackHandler,
     SessionEndedRequestHandler,
   )
   .addRequestInterceptors(LocalizationInterceptor)

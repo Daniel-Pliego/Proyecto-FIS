@@ -12,7 +12,7 @@
 - Yajani Anahi Peraza Alcocer
 - Emir Bellos Cruz 
 
-# Contents
+# Contenido
 
 - [Objetivos](Documentacion/1.%20Objetivos.md)
 
@@ -24,6 +24,12 @@
 - [Requerimientos](Documentos/../Documentacion/3.%20Requerimientos.md)
 
 - [Bitácora](Docuemntacion/../Documentacion/5.%20bitácora.md)
+
+# Entregas
+- [Primera Entrega](https://github.com/Daniel-Pliego/Proyecto-FIS/tree/primera-entrega/)
+
+- [Segunda Entrega](Docuemntacion/../Documentacion/Resumen%20Entrega%202/README.md)
+
 # Links
 
 [Monday&#46;com](https://uady-cast.monday.com/boards/841731238)
