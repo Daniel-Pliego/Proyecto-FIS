@@ -6,9 +6,9 @@
 [Descargar Presentación](../Resumen%20Entrega%202/entrega2.pptx)
 
 ## Documentación 
+- [Plan Proyecto](../Resumen%20Entrega%202/planProyecto.md)
 - [Resumen entrega 1 y 2](../Resumen%20Entrega%202/Entrega1y2.md)
 - [Requerimientos](../Resumen%20Entrega%202/requisitos.md)
 - [Diseño](../Resumen%20Entrega%202/diseño.md)
 - [Implementación](../Resumen%20Entrega%202/codigo.md)
 - [Pruebas](../Resumen%20Entrega%202/pruebas.md)
-- [Plan Proyecto](../Resumen%20Entrega%202/planProyecto.md)
