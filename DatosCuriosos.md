@@ -33,6 +33,20 @@
 
 20.  En 2014 un ordenador ha superado por primera vez el test de Turing al convencer a un grupo de jueces que, en lugar de una programa informático, se trataba de un joven de 13 años llamado Eugene Goostman. El test de Turing es la prueba propuesta por Alan Turing en 1950 para comprobar si una máquina es inteligente. Y el programa creado por los ingenieros Vladimir Veselov y Eugene Demchenko, por primera vez, ha superado el reto.
 
+21. Siri es el asistente inteligente que usan todos los productos de Apple.La aplicación es un producto de Siri INC., una empresa de tecnología que surgió a partir de SRI International, una organización de investigación sin fines de lucro, donde Cheyer trabajaba como Ingeniero de la Computación. El 2010 la empresa fue comprada por Apple, y Siri fue incorporada a los iPhone.
+
+22. La Sociedad de Ingeniería de Toyota en Japón está presentado su nueva creación, se llama CUE y es un androide basquetbolista capaz de encestar con una precisión asombrosa. Tanto así que fue capaz de ganar en tiros libres a unos jugadores profesionales de la Liga B Japonesa.
+
+23. Sabías que Compressorhead es una banda de rock duro compuesta por seis robots creados por Frank Barnes, un artista británico afincado en Berlín.
+
+24. La herramienta de Xbox Game Studios consiste en una inteligencia artificial basada en el aprendizaje automático para tomar las texturas en baja resolución y, aprovechándose de la potencia de los servidores de Azure, convertir en tiempo real esas texturas SD en texturas HD.
+
+25. La PlayStation 5 tendría funciones de inteligencia artificial para ayudarte en niveles que se te compliquen. ... La función de inteligencia en la consola, de acuerdo con la patente, sería capaz de decirle a un jugador cuánto tiempo le tomará completar un nivel y si ese tiempo afectaría otras actividades del usuario.
+
+26. Por si no sabias, los NPCs de los videojuegos son inteligencia artificial, y Far Cry es un claro ejemplo de los avances que se dieron en el comportamiento de la IA, pues los Personajes No Jugables tienen sus propias rutinas y son capaces de reaccionar e interactuar de determinadas formas ante las acciones de los jugadores.
+
+27. 
+
 ## Referencias
 1. https://www.netapp.com/es/artificial-intelligence/what-is-artificial-intelligence/
 2. https://es.statista.com/temas/6692/inteligencia-artificial-ia/
@@ -55,3 +69,8 @@
 18. [Shakey](https://www.eldiario.es/hojaderouter/tecnologia/shakey-robot-inteligencia-artificial-coche-autonomo_1_3466717.html)
 19. [ELIZA](https://www.xataka.com/historia-tecnologica/asi-era-eliza-el-primer-bot-conversacional-de-la-historia)
 20. [Eugene Goostman](https://es.gizmodo.com/un-ordenador-supera-por-primera-vez-el-test-de-turing-1587840827)
+21. [Siri](https://www.nextu.com/blog/la-historia-detras-de-siri-y-su-creador-el-hombre-que-nacio-desarrollador-de-aplicaciones/)
+22. [CUE](https://www.xataka.com/robotica-e-ia/este-robot-basquetbolista-creado-por-toyota-no-sera-el-proximo-jordan-pero-por-algo-se-empieza)
+23. [Rock Metalico](https://www.elespanol.com/cultura/20180121/grupo-heavy-metal-mundo-compuesto-robots/278472964_0.html)
+24. [Xbox](https://www.hobbyconsolas.com/noticias/xbox-game-studios-tiene-inteligencia-artificial-mejora-texturas-juegos-tiempo-real-578761#:~:text=La%20herramienta%20de%20Xbox%20Game,texturas%20SD%20en%20texturas%20HD.)
+25. [PS5](https://larepublica.pe/videojuegos/2020/02/09/ps5-playstation-5-tendria-inteligencia-artificial-y-seria-un-asistente-de-voz-de-paga-para-ayudar-a-terminar-videojuegos-fotos-video-sony/)
