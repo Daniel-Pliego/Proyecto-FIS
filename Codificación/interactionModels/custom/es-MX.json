@@ -1,0 +1,65 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "ingenio artificial",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetFactIntent",
+          "slots": [],
+          "samples": [
+            "dame una curiosidad",
+            "una curiosidad",
+            "curiosidad de i a",
+            "un dato curioso",
+            "dato curioso",
+            "dato de inteligencia artificial",
+            "un dato de inteligencia artificial",
+            "un dato",
+            "un dato de i A",
+            "dime un dato",
+            "dime un dato  I A",
+            "dame un dato",
+            "dame un dato de I A",
+            "dime una",
+            "dime algo",
+            "dime una curiosidad"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "12"
+}
