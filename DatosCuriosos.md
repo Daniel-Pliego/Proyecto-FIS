@@ -80,6 +80,7 @@
 23. [Rock Metalico](https://www.elespanol.com/cultura/20180121/grupo-heavy-metal-mundo-compuesto-robots/278472964_0.html)
 24. [Xbox](https://www.hobbyconsolas.com/noticias/xbox-game-studios-tiene-inteligencia-artificial-mejora-texturas-juegos-tiempo-real-578761#:~:text=La%20herramienta%20de%20Xbox%20Game,texturas%20SD%20en%20texturas%20HD.)
 25. [PS5](https://larepublica.pe/videojuegos/2020/02/09/ps5-playstation-5-tendria-inteligencia-artificial-y-seria-un-asistente-de-voz-de-paga-para-ayudar-a-terminar-videojuegos-fotos-video-sony/)
+26. [No aplica](Conocimiento_gamer)
 27. [Diagnosticos con IA](https://www.aecoc.es/innovation-hub-noticias/5-avances-de-la-inteligencia-artificial-que-probablemente-veremos-en-los-proximos-5-anos/)
 28. [IA entrenamiento](https://www.tokioschool.com/noticias/inteligencia-artificial-deporte/)
 29. [Deportes de realidad virtual](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
