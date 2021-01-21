@@ -45,7 +45,13 @@
 
 26. Por si no sabias, los NPCs de los videojuegos son inteligencia artificial, y Far Cry es un claro ejemplo de los avances que se dieron en el comportamiento de la IA, pues los Personajes No Jugables tienen sus propias rutinas y son capaces de reaccionar e interactuar de determinadas formas ante las acciones de los jugadores.
 
-27. 
+27. Recientemente, unos investigadores chinos y americanos han desarrollado un sistema basado en Inteligencia Artificial para la detección de enfermedades infantiles comunes, desde un simple gripe hasta una meningitis. Para ello, han compilado y procesado más de 1,3 millones de registros de casi 600.000 pacientes.
+
+28. Gracias a los sistemas de IA, se pueden controlar en los entrenamientos diversos aspectos del juego. Por ejemplo, en tenis, a través de una combinación de cámaras y sensores, se puede medir la velocidad, el giro y la colocación en un saque. Esto Impacta de forma directa en las decisiones estratégicas que puedan llegar a tomar los entrenadores y el cuerpo técnico.
+
+29. Zwift, una startup que desarrolla un mundo virtual para ciclistas ha diseñado un proyecto en el que una persona puede competir con deportistas de todo el mundo, sin necesidad de salir al exterior. El usuario solo necesita una bicicleta estática y una pantalla enfrente que simulará unos paisajes virtuales. De esta manera, la experiencia deportiva impulsada por IA ya no será diferente de la experiencia real del deporte.
+
+30. Amazon AWS y la National Football League han unido esfuerzos para utilizar un software denominado “Atleta digital” que analizará la Big Data del jugador, escaneará imágenes de video para tratar lesiones y rehabilitar a los deportistas de manera más efectiva. El software creará un modelo de simulación por computadora de un jugador de la NFL para anticipar la lesión incluso antes de que ocurra.
 
 ## Referencias
 1. https://www.netapp.com/es/artificial-intelligence/what-is-artificial-intelligence/
@@ -74,3 +80,7 @@
 23. [Rock Metalico](https://www.elespanol.com/cultura/20180121/grupo-heavy-metal-mundo-compuesto-robots/278472964_0.html)
 24. [Xbox](https://www.hobbyconsolas.com/noticias/xbox-game-studios-tiene-inteligencia-artificial-mejora-texturas-juegos-tiempo-real-578761#:~:text=La%20herramienta%20de%20Xbox%20Game,texturas%20SD%20en%20texturas%20HD.)
 25. [PS5](https://larepublica.pe/videojuegos/2020/02/09/ps5-playstation-5-tendria-inteligencia-artificial-y-seria-un-asistente-de-voz-de-paga-para-ayudar-a-terminar-videojuegos-fotos-video-sony/)
+27. [Diagnosticos con IA](https://www.aecoc.es/innovation-hub-noticias/5-avances-de-la-inteligencia-artificial-que-probablemente-veremos-en-los-proximos-5-anos/)
+28. [IA entrenamiento](https://www.tokioschool.com/noticias/inteligencia-artificial-deporte/)
+29. [Deportes de realidad virtual](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
+30. [AWS y la NFL](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
