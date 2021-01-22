@@ -29,5 +29,3 @@
 7. ¿Por qué es importante la IA?
 
     - La IA tiene un impacto significativo en la creación, producción y distribución de bienes y servicios de índole económica y cultural. Está impulsando cada vez más importantes avances en todos los ámbitos y sectores.Resulta cada vez más evidente  comenzará a desempeñar un gran número de tareas rutinarias que, hasta ahora, han sido realizadas por los humanos.
-
-8. 
