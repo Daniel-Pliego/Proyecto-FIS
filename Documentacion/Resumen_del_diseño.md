@@ -1,4 +1,0 @@
-# Resumen del diseño
-
-
-### Concluida la primera entrega, determinamos completamente el proyecto a desarrollar , el cual consta de un skill de Alexa (Amazon), al cual llamamos **Ingenio Artificial**, este será interactivo para  el aprendizaje de niños entre un rango de ciertas edades, se ha concluido el logo al igual que  las posibles interacciones que los usuarios podrían tener  con  el skill , también se diseñado  la lógica del skill  gráficamente, el cual consta del proceso que el skill llevara al momento que un usuario lo invoque  incluyendo los errores y las acciones que esta llevara a cabo para poder dar una respuesta al usuario .Se  determinado  casos de uso  así como historias de usuario ,en la parte de la planeacion del diseño se incluyo una lista de curiosidades a cerca de la IA (Inteligencia Artificial).
