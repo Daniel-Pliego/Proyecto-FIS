@@ -41,12 +41,12 @@
 |              |  Sprint 4 |           |             |
 |--------------|-----------|-----------|-------------|
 |**Nombres**   | **Tareas**|**Metrica**|**porcentaje**| 
-|Daniel Pliego |    5      |   8       |   **29.5%**   | 
-|Omar Cauich   |    4      |   7       |   **26%**   | 
-|Carlos Sánchez|    3      |   5       |   **18.5%**   | 
-|Yajani Peraza |    3      |   4       |   **15%**   | 
-|Emir Bellos   |    2      |   3       |   **11%**   | 
-| **total**    |   **14**  |   **27**  |             | 
+|Daniel Pliego |    5      |   8       |  **29.5%**   | 
+|Omar Cauich   |    4      |   7       |    **26%**   | 
+|Carlos Sánchez|    3      |   5       |  **18.5%**   | 
+|Yajani Peraza |    3      |   4       |    **15%**   | 
+|Emir Bellos   |    2      |   3       |    **11%**   | 
+| **total**    |   **14**  |   **27**  |              | 
 
 ---
 
