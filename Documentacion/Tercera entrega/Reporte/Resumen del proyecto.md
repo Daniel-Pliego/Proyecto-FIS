@@ -22,3 +22,5 @@ La tercera característica fue el Next Intent, el cual permitía generar otra cu
 La cuarta característica fue agregar todos los enunciados posibles que el usuario podría decir al momento de solicitar un "Dato curioso"
 La quinta característica fue modificar el LaunchIntent con la finalidad de brindar una introducción o instructivo la primera vez que el usuario usaba la skill.
 
+En pocas palabras nuestro proyecto es un bot que responde a los comandos de voz del usuario y ya tenemos listo un prototipo de la Skill el cual brinda curiosidades de la Inteligencia artificial cada vez que se invoca.
+
