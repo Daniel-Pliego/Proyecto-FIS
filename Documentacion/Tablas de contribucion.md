@@ -4,13 +4,13 @@
 
 |              |  Sprint 1 |           |               |
 |--------------|-----------|-----------|---------------|
-|**Nombres**   | **Tareas**|**Metrica**| **porcentaje**|
-|Daniel Pliego |   4       |   5       |     **16.1%** |
-|Omar Cauich   |   6       |   9       |     **29%**   |
-|Carlos Sánchez|   3       |   8       |     **25.8%** |
-|Yajani Peraza |   2       |   4       |     **13%**   |
-|Emir Bellos   |   2       |   5       |     **16.1%** | 
-| **total**    |    **17**  |   **31** |               |
+|**Nombres**   | **Tareas**|**Metrica**|**porcentaje**|
+|Daniel Pliego |   4       |   5       |    **16.1%** |
+|Omar Cauich   |   6       |   9       |    **29%**   |
+|Carlos Sánchez|   3       |   8       |    **25.8%** |
+|Yajani Peraza |   2       |   4       |    **13%**   |
+|Emir Bellos   |   2       |   5       |    **16.1%** | 
+| **total**    |    **17**  |   **31** |              |
 
 ---
 
