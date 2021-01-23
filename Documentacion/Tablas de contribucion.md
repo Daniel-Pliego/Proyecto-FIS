@@ -32,7 +32,7 @@
 |Daniel Pliego |    6      |   8       |   **24%**    |
 |Omar Cauich   |    7      |   10      |   **30%**    |
 |Carlos Sánchez|    5      |   6       |   **19%**    |
-|Yajani Peraza |    2      |   2       |   **6%**    |
+|Yajani Peraza |    2      |   2       |    **6%**    |
 |Emir Bellos   |    6      |   7       |   **21%**    |
 | **total**    |   **26**  |   **33**  |              |
 
