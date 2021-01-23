@@ -18,9 +18,9 @@
 |--------------|-----------|-----------|--------------|
 |**Nombres**   | **Tareas**|**Metrica**|**porcentaje**|
 |Daniel Pliego |   9       |   11      |    **41%**   |
-|Omar Cauich   |   7       |   8       |    **29.5%**   |
+|Omar Cauich   |   7       |   8       |  **29.5%**   |
 |Carlos Sánchez|   3       |   3       |    **11%**   |
-|Yajani Peraza |   4       |   5       |    **18.5%**   |
+|Yajani Peraza |   4       |   5       |  **18.5%**   |
 |Emir Bellos   |   0       |   0       |    **00%**   |
 | **total**    |    **23**  |   **27** |              |
 
