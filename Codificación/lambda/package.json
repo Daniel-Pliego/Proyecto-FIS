@@ -11,6 +11,10 @@
   "dependencies": {
     "ask-sdk-core": "^2.0.0",
     "ask-sdk-model": "^1.0.0",
-    "i18next": "^15.0.5"
+    "i18next": "^15.0.5",
+    "ask-sdk-s3-persistence-adapter": "^2.3.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.3.0",
+    "node-fetch": "^2.6.1",
+    "utf8":"3.0.0"
   }
 }
