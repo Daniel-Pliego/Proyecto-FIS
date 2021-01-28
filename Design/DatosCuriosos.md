@@ -76,9 +76,15 @@
 
 33. cortana es la agente inteligente de Microsoft y hasta hoy tiene mas de 12 mil millones de solicitudes y preguntas y 133 millones de usuarios ctivos , con el tiempo se vuelvemás inteligente, conoce a sus usuarios,y es capaz de poner la información  que recie en contexto, en todos sus dispositivo.
 
-34
+34. La Inteligencia Artificial a menudo se confunde con Machine Learning, cuando en realidad, este segundo término sólo es una pieza importante de la IA 
 
+35. investigadores se centran en que la IA superará el rendimiento humano en un gran número de actividades y que para el año 2061, esta superación puede ser total.
 
+36. Apps y Webs conocen nuestras preferencias Gracias a la inteligencia artificial las apps y webs de productos y servicios consiguen conocernos. 
+
+37. El software de la inteligencia artificial  lee y analiza un texto o discurso. Esto es el llamado procesamiento del lenguaje natural.
+
+38. 
 
 
 
@@ -136,3 +142,6 @@
 31. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
 32. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
 33. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
+34. [IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
+35. [lo de la IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
+36. 
