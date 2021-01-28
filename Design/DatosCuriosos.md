@@ -74,6 +74,12 @@
 
 32. Sabias que  Microsoft Research, en los años 90, comenzó el camino d en la IA. Y sus inversiones en Investigación y Desarrollo en habla y visión han rendido frutos con los que hoy podemos constatar en Skype Translator, Kinect, Cortana entre muchos más.
 
+33. cortana es la agente inteligente de Microsoft y hasta hoy tiene mas de 12 mil millones de solicitudes y preguntas y 133 millones de usuarios ctivos , con el tiempo se vuelvemás inteligente, conoce a sus usuarios,y es capaz de poner la información  que recie en contexto, en todos sus dispositivo.
+
+34
+
+
+
 
 
 
@@ -127,3 +133,6 @@
 28. [IA entrenamiento](https://www.tokioschool.com/noticias/inteligencia-artificial-deporte/)
 29. [Deportes de realidad virtual](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
 30. [AWS y la NFL](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
+31. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
+32. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
+33. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
