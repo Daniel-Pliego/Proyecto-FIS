@@ -70,6 +70,13 @@
 
 
 
+31. la Inteligencia Artificial busca expandir  las capacidades cognitivas  de las personas , esta diseñada  para ofrecer  un mejor conocimiento e informaciòn de valor a partir de una gran cantidad de datos y permite  resolver problemas complejos de índole mundial 
+
+
+
+
+
+
 
 ## Referencias
 1. https://www.netapp.com/es/artificial-intelligence/what-is-artificial-intelligence/
