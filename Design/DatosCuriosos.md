@@ -88,6 +88,7 @@
 
 39. Antes de que existiese el primer robot como tal, personajes a la altura de Leonardo Da Vinci ya fantaseaban con esta máquina. Es más, el artista dibujó los planos para crear un cyborg de aspecto humano en 1495. Todo el mundo sabe que era un adelantado a su época.
 
+40. 
 
 
 
@@ -148,4 +149,4 @@
 35. [lo de la IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
 36. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
 37. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
-38. 
+38. [curiosidades](https://robotsinaction.com/curiosidades-acerca-de-la-inteligencia-artificial-y-los-robots/)
