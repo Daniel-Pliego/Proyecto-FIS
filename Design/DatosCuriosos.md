@@ -68,6 +68,9 @@
 
 
 
+
+
+
 ## Referencias
 1. https://www.netapp.com/es/artificial-intelligence/what-is-artificial-intelligence/
 2. https://es.statista.com/temas/6692/inteligencia-artificial-ia/
