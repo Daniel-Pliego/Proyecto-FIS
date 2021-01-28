@@ -84,7 +84,9 @@
 
 37. El software de la inteligencia artificial  lee y analiza un texto o discurso. Esto es el llamado procesamiento del lenguaje natural.
 
-38. 
+38. Arquitas, un matemático griego construyó en el año 400  antes de cristo. una especie de artilugio con la forma de una paloma el cual  que se propulsaba, gracias al vapor, a una distancia de 200 metros. La finalidad de este era entregar mensajes, como si fuese una paloma mensajera.
+
+39. Antes de que existiese el primer robot como tal, personajes a la altura de Leonardo Da Vinci ya fantaseaban con esta máquina. Es más, el artista dibujó los planos para crear un cyborg de aspecto humano en 1495. Todo el mundo sabe que era un adelantado a su época.
 
 
 
@@ -144,4 +146,6 @@
 33. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
 34. [IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
 35. [lo de la IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
-36. 
+36. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
+37. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
+38. 
