@@ -72,8 +72,7 @@
 
 31. la Inteligencia Artificial busca expandir  las capacidades cognitivas  de las personas , esta diseñada  para ofrecer  un mejor conocimiento e informaciòn de valor a partir de una gran cantidad de datos y permite  resolver problemas complejos de índole mundial 
 
-
-
+32. Sabias que  Microsoft Research, en los años 90, comenzó el camino d en la IA. Y sus inversiones en Investigación y Desarrollo en habla y visión han rendido frutos con los que hoy podemos constatar en Skype Translator, Kinect, Cortana entre muchos más.
 
 
 
