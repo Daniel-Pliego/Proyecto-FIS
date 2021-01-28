@@ -88,7 +88,7 @@
 
 39. Antes de que existiese el primer robot como tal, personajes a la altura de Leonardo Da Vinci ya fantaseaban con esta máquina. Es más, el artista dibujó los planos para crear un cyborg de aspecto humano en 1495. Todo el mundo sabe que era un adelantado a su época.
 
-40. 
+40. Los sistemas inteligentes tienen la capacidad desde como predecir los cambios en el clima, hasta reconocer patrones de comportamiento en imágenes para detectar el cáncer en la piel. Todo esto, en base a algoritmos computacionales.
 
 
 
@@ -150,3 +150,5 @@
 36. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
 37. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
 38. [curiosidades](https://robotsinaction.com/curiosidades-acerca-de-la-inteligencia-artificial-y-los-robots/)
+39. misma  referencia.
+40. [blastingnews](https://es.blastingnews.com/curiosidades/2017/11/cinco-cosas-que-debes-saber-sobre-la-inteligencia-artificial-002113435.html)
