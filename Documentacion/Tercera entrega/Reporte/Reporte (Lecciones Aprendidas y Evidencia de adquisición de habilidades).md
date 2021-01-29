@@ -30,7 +30,7 @@ When an agreement has to be taken, but it is not long or complex enough for a ca
 
 We use Github as the basis of our repository, as it allows us to work with separate branches and avoid conflicts in research. Each person has their individual branch, which starts from the DEV branch, which is a sub-branch of the main. Where each person makes their contribution to the investigation and at the end a pull request is created to the dev branch, where the Product Owner verifies the compatibility between branches, and ends with a merge towards the main branch.
 
-[Repository] (https://github.com/Daniel-Pliego/Proyecto-FIS)
+[Repository](https://github.com/Daniel-Pliego/Proyecto-FIS)
 
 We have also learned to use **"Alexa Developer Console"** where we are programming the skill, this skill is made with the JavaScript language, some of us had to learn the language, but those who focused on programming, already mastered said language.
 
