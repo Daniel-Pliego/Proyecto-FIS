@@ -34,20 +34,20 @@ We use GitHub to save our repository in online because it is a tool that allows 
 
 ### Metrics:
 
-Para obtener la métrica primero se calcula el tiempo que tomaría hacer la tarea en cuestión y después se establece la dificultad de la tarea
-El tiempo estimado se mide en horas, puede ser de 1, 2, 3 horas o más y la dificultad tiene 3 valores y a cada valor se le asignó un número:
-•	Fácil 0.5
-•	Normal 1
-•	Dificil 1.5
-En caso de que la tarea haya sido tardada mucho más tiempo o haya sido más difícil de lo estimado, el scrum master verá si es oportuno cambiar el valor de la métrica
 To obtain the metrics we first calculate the time it will take to do task in question. then the difficulty the task is established.
-The estimated time is measured in hours. can they of 1, 2, 3 hours or more and the difficulty have 3 values and an each one is assignment a number.: 
-•	Easy: 0.5
-•	Normal: 1
-•	Tough: 1.5
+
+The estimated time is measured in hours. can they of 1, 2, 3 hours or more and the difficulty have 3 values and an each one is assignment a number:
+
+* Easy: 0.5
+
+* Normal: 1
+
+* Tough: 1.5
+
 In case of that the task it took longer or there be more difficulty of the estimated, the Scrum Master will see if it is appropriate to change the value.
-Scrum como método de proceso de desarrollo ágil 
-2-Scrum as an  agile development process  method 
+
+
+## Scrum as an  agile development process  method 
 3-TEAM:
 •	Product Owner: Daniel Pliego Vega
 o	Es el responsable de verificar que se cumplan los requerimientos de los stake holders , hacer merge en la rama main y verificar que no haya conflictos en las otras ramas, establece las métricas junto con el scrum master
