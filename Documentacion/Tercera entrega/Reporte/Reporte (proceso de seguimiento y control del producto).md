@@ -88,9 +88,7 @@ In we team of work is get closer  in a 70%  to Scrum methodology. We take the mo
 
 Our "Product Backlog" is made by Scrum Master, who prioritizes the tasks according to their delivery date.
 
-Los Sprints tienen distinta duración, algunos duran 1 o 2 semanas de acuerdo con las características que buscamos implementar.
-
-Sprints have different duration, some last 1 or 2 weeks according to the characteristics we are looking to implement.
+The prints have different duration, some last 1 or 2 weeks according to the characteristics we are looking to implement.
 
 Lo más cercano que tenemos a un Sprint Review., son las exposiciones de avances en clase en donde recibimos comentarios de los profesores para saber si vamos en buen camino.
 
