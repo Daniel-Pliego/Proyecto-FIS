@@ -77,9 +77,10 @@ The in charge to do the Backlog is Omar Jesús Cauich Pasos, he, manages the web
 ### Sprints
 
 When starting a sprint, the members drag the tasks of a backlog, towards the corresponding sprint
-3-Reuniones
-Lo hacemos cada 4 días en vez de hacerlas diario como lo establece scrum, esto debido a que consideramos que se nos haría muy complicado hacer reuniones todos los días por las tareas y por qué algunos integrantes del equipo trabajan
-we do the  meetings   each 4 days  for don't do every days, as stated by Scrum ,due to, because we organize ourselves better in other tasks.
+
+### Reuniones
+
+We do the  meetings   each 4 days  for don't do every days, as stated by Scrum ,due to, because we organize ourselves better in other tasks.
 
 2-Metodología Scrum - ¿Que tanto nos acercamos a Scrum?
 Scrum Metodology -¿ How do much we get closer to Scrum?
