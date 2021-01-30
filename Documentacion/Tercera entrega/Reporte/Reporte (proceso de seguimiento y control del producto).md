@@ -21,11 +21,11 @@ The Scrum Master and product owner are in charge of holding the meeting of team,
 
 #### WhatsApp:
 
-Cuando alguien tiene una duda la comunica a través del grupo de WhatsApp y los demás miembros del equipo le responden su duda. A veces tenemos reuniones no planeadas y las comunicamos a través de WhatsApp
-Cuando hay que tomar un acuerdo, pero no es lo suficientemente largo o complejo como para una llamada a través de teams lo tomamos a través de WhatsApp
-When someone has doubt, the communicates in the WhatsApp group and the others team members answer the doubt. sometimes we are having a don't planning meeting and communication is in WhatsApp
+
+When someone has doubt, the communicates in the WhatsApp group and the others team members answer the doubt. sometimes we are having a don't planning meeting and communication is in WhatsApp.
+
 When there is than take an agreement, but not is complex enough, we the take in WhatsApp.
-Repositorio: 
+
 3-Repository:
 4-GitHub
 Utilizamos GitHub para almacenar nuestro repositorio en línea porque es una herramienta que nos permite colaborar en equipo, es práctica, popular, gratis y nos permite trabajar con ramas separadas y evitar conflictos en la investigación. Cada persona tiene su rama individual, que parte de la rama DEV.
