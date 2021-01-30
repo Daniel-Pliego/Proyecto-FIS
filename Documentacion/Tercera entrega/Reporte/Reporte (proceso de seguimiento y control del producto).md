@@ -90,7 +90,6 @@ Our "Product Backlog" is made by Scrum Master, who prioritizes the tasks accordi
 
 The prints have different duration, some last 1 or 2 weeks according to the characteristics we are looking to implement.
 
-Lo más cercano que tenemos a un Sprint Review., son las exposiciones de avances en clase en donde recibimos comentarios de los profesores para saber si vamos en buen camino.
 
 The closest we have to a Sprint Review. They are the presentations of progress in class where we receive comments from teachers to see if we are on the right track.
 
