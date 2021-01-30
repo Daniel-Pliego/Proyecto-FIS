@@ -13,213 +13,88 @@
 
 // sets up dependencies
 const Alexa = require('ask-sdk-core');
-const i18n = require('i18next');
-const languageStrings = require('./languageStrings');
+var persistenceAdapter = getPersistenceAdapter();
 
-// core functionality for fact skill
-const GetFactHandler = {
-  canHandle(handlerInput) {
-    const request = handlerInput.requestEnvelope.request;
-    // checks request type
-    return request.type === 'LaunchRequest'
-      || (request.type === 'IntentRequest'
-        && request.intent.name === 'GetFactIntent');
-  },
-  handle(handlerInput) {
-    const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-    // gets a random fact by assigning an array to the variable
-    // the random item from the array will be selected by the i18next library
-    // the i18next library is set up in the Request Interceptor
-    const randomFact = requestAttributes.t('FACTS');
-    // concatenates a standard message with the random fact
-    const speakOutput = requestAttributes.t('GET_FACT_MESSAGE') + randomFact;
-
-    return handlerInput.responseBuilder
-      .speak(speakOutput)
-      // Uncomment the next line if you want to keep the session open so you can
-      // ask for another fact without first re-opening the skill
-      .reprompt(requestAttributes.t('HELP_REPROMPT'))
-      .withSimpleCard(requestAttributes.t('SKILL_NAME'), randomFact)
-      .getResponse();
-  },
-};
-
-
-
-
-
-
-
-
-const LaunchRequestHandler = {
-    canHandle(handlerInput) {
-        return handlerInput.requestEnvelope.request.type === 'LaunchRequest';
-    },
-    handle(handlerInput) {
-        return GetFactIntentHandler.handle(handlerInput);
+function getPersistenceAdapter() {
+    // This function is an indirect way to detect if this is part of an Alexa-Hosted skill
+    function isAlexaHosted() {
+        return process.env.S3_PERSISTENCE_BUCKET ? true : false;
     }
-};
-
-const GetFactIntentHandler = {
-    canHandle(handlerInput) {
-        const request = handlerInput.requestEnvelope.request;
-        return handlerInput.requestEnvelope.request.type === 'IntentRequest'
-            && (handlerInput.requestEnvelope.request.intent.name === 'GetFactIntent'
-            || handlerInput.requestEnvelope.request.intent.name === 'AMAZON.YesIntent'   // <-- necessary so the user gets another fact when it says 'yes' when asked if they want another one
-            || handlerInput.requestEnvelope.request.intent.name === 'AMAZON.NextIntent');// <-- necessary so the gets another fact when it says 'next' (you might want to extend the utterances of this intent with e.g. 'next fact' and similar)
-    },
-    handle(handlerInput) {
-        const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-        const speechText = requestAttributes.t('FACTS');
-        return handlerInput.responseBuilder
-            .speak(speechText + " " + requestAttributes.t('HELP_REPROMPT'))
-            .reprompt(requestAttributes.t('HELP_REPROMPT')) // <-- necessary to keep the session open so users can request another fact
-            .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
-            .getResponse();
+    const tableName = 'user_firtstime';
+    if(isAlexaHosted()) {
+        const {S3PersistenceAdapter} = require('ask-sdk-s3-persistence-adapter');
+        return new S3PersistenceAdapter({ 
+            bucketName: process.env.S3_PERSISTENCE_BUCKET
+        });
+    } else {
+        // IMPORTANT: don't forget to give DynamoDB access to the role you're to run this lambda (IAM)
+        const {DynamoDbPersistenceAdapter} = require('ask-sdk-dynamodb-persistence-adapter');
+        return new DynamoDbPersistenceAdapter({ 
+            tableName: tableName,
+            createTable: true
+        });
     }
-};
+}
+ // Se separaron todos los intents, para que sea mas facil la edicion.
+let { LaunchRequestHandler } = require('./intents/launchRequestHandler');
+let { HelpIntentHandler } = require('./intents/helpIntentHandler');
+let { GetDatoCuriosoIntentHandler } = require('./intents/getDatoCuriosoIntentHandler');
+let { GetDatoDiarioIntentHandler } = require ('./intents/getDatoDiarioIntentHandler');
+let { CancelAndStopIntentHandler } = require ('./intents/cancelAndStopIntentHandler');
+let { ResetHandler } = require ('./intents/resetHandler');
+let { FallbackHandler } = require('./intents/fallbackHandler');
+let { SessionEndedRequestHandler } = require('./intents/sessionEndedRequestHandler');
+let { ErrorHandler } = require('./errors/errorHandler');
+
+// Inicia interceptors
+let { LocalizationInterceptor } = require('./interceptors/localizationInterceptor');
+let { LoadAttributesRequestInterceptor } = require('./interceptors/loadAttributesRequestInterceptor');
+let { SaveAttributesResponseInterceptor } = require('./interceptors/saveAttributesResponseInterceptor');
+// Termina interceptors
 
 
 
-const CancelAndStopIntentHandler = {
-    canHandle(handlerInput) {
-        return handlerInput.requestEnvelope.request.type === 'IntentRequest'
-            && (handlerInput.requestEnvelope.request.intent.name === 'AMAZON.CancelIntent'
-                || handlerInput.requestEnvelope.request.intent.name === 'AMAZON.StopIntent'
-                || handlerInput.requestEnvelope.request.intent.name === 'AMAZON.NoIntent'); // <-- necessary so the session is closed when the user doesn't want more facts
-    },
-    handle(handlerInput) {
-        const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-        const speechText = requestAttributes.t('STOP_MESSAGE');
-        return handlerInput.responseBuilder
-            .speak(speechText)
-            .getResponse();
-    }
-};
+// Inicia intents Preguntas
+let { doubtIntenthandler} = require('./intents/doubtIntenthandler');
+
+let { QuestiononeIntentHandler } = require('./intents/questions');
+let { QuestiontwoIntentHandler } = require('./intents/questions');
+let { QuestionthreeIntentHandler } = require('./intents/questions');
+let { QuestionfourIntentHandler } = require('./intents/questions');
+let { QuestionfiveIntentHandler } = require('./intents/questions');
+let { QuestionsisIntentHandler } = require('./intents/questions');
+let { QuestionsevenIntentHandler } = require('./intents/questions');
+// Termina preguntas
 
 
 
 
 
-
-
-const HelpHandler = {
-  canHandle(handlerInput) {
-    const request = handlerInput.requestEnvelope.request;
-    return request.type === 'IntentRequest'
-      && request.intent.name === 'AMAZON.HelpIntent';
-  },
-  handle(handlerInput) {
-    const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-    return handlerInput.responseBuilder
-      .speak(requestAttributes.t('HELP_MESSAGE'))
-      .reprompt(requestAttributes.t('HELP_REPROMPT'))
-      .getResponse();
-  },
-};
-
-const FallbackHandler = {
-  // The FallbackIntent can only be sent in those locales which support it,
-  // so this handler will always be skipped in locales where it is not supported.
-  canHandle(handlerInput) {
-    const request = handlerInput.requestEnvelope.request;
-    return request.type === 'IntentRequest'
-      && request.intent.name === 'AMAZON.FallbackIntent';
-  },
-  handle(handlerInput) {
-    const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-    return handlerInput.responseBuilder
-      .speak(requestAttributes.t('FALLBACK_MESSAGE'))
-      .reprompt(requestAttributes.t('FALLBACK_REPROMPT'))
-      .getResponse();
-  },
-};
-
-const ExitHandler = {
-  canHandle(handlerInput) {
-    const request = handlerInput.requestEnvelope.request;
-    return request.type === 'IntentRequest'
-      && (request.intent.name === 'AMAZON.CancelIntent'
-        || request.intent.name === 'AMAZON.StopIntent');
-  },
-  handle(handlerInput) {
-    const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-    return handlerInput.responseBuilder
-      .speak(requestAttributes.t('STOP_MESSAGE'))
-      .getResponse();
-  },
-};
-
-const SessionEndedRequestHandler = {
-  canHandle(handlerInput) {
-    const request = handlerInput.requestEnvelope.request;
-    return request.type === 'SessionEndedRequest';
-  },
-  handle(handlerInput) {
-    console.log(`Session ended with reason: ${handlerInput.requestEnvelope.request.reason}`);
-    return handlerInput.responseBuilder.getResponse();
-  },
-};
-
-const ErrorHandler = {
-  canHandle() {
-    return true;
-  },
-  handle(handlerInput, error) {
-    console.log(`Error handled: ${error.message}`);
-    console.log(`Error stack: ${error.stack}`);
-    const requestAttributes = handlerInput.attributesManager.getRequestAttributes();
-    return handlerInput.responseBuilder
-      .speak(requestAttributes.t('ERROR_MESSAGE'))
-      .reprompt(requestAttributes.t('ERROR_MESSAGE'))
-      .getResponse();
-  },
-};
-
-const LocalizationInterceptor = {
-  process(handlerInput) {
-    // Gets the locale from the request and initializes i18next.
-    const localizationClient = i18n.init({
-      lng: handlerInput.requestEnvelope.request.locale,
-      resources: languageStrings,
-      returnObjects: true
-    });
-    // Creates a localize function to support arguments.
-    localizationClient.localize = function localize() {
-      // gets arguments through and passes them to
-      // i18next using sprintf to replace string placeholders
-      // with arguments.
-      const args = arguments;
-      const value = i18n.t(...args);
-      // If an array is used then a random value is selected
-      if (Array.isArray(value)) {
-        return value[Math.floor(Math.random() * value.length)];
-      }
-      return value;
-    };
-    // this gets the request attributes and save the localize function inside
-    // it to be used in a handler by calling requestAttributes.t(STRING_ID, [args...])
-    const attributes = handlerInput.attributesManager.getRequestAttributes();
-    attributes.t = function translate(...args) {
-      return localizationClient.localize(...args);
-    }
-  }
-};
 
 const skillBuilder = Alexa.SkillBuilders.custom();
 
 exports.handler = skillBuilder
   .addRequestHandlers(
-   // GetFactHandler,
     LaunchRequestHandler,
-    GetFactIntentHandler,
-    HelpHandler,
+    GetDatoCuriosoIntentHandler,
+    GetDatoDiarioIntentHandler,
+    HelpIntentHandler,
     CancelAndStopIntentHandler,
-    //ExitHandler,
     FallbackHandler,
     SessionEndedRequestHandler,
+    ResetHandler,
+    QuestiononeIntentHandler,
+    QuestiontwoIntentHandler,
+    QuestionthreeIntentHandler,
+    QuestionfourIntentHandler,
+    QuestionfiveIntentHandler,
+    QuestionsisIntentHandler,
+    QuestionsevenIntentHandler,
+    doubtIntenthandler
   )
-  .addRequestInterceptors(LocalizationInterceptor)
+  .addRequestInterceptors(LocalizationInterceptor,LoadAttributesRequestInterceptor)
+  .addResponseInterceptors(SaveAttributesResponseInterceptor)
+  .withPersistenceAdapter(persistenceAdapter)
   .addErrorHandlers(ErrorHandler)
   .withCustomUserAgent('sample/basic-fact/v2')
   .lambda();
