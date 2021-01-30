@@ -6,7 +6,6 @@ Durante el proceso de realización de este proyecto hemos desarrollado   y puest
 
 ## follow-up process
 
-Organización, monitoreo y gestión de tareas y trabajos: 
 ### Organization ,monitoring  and management task and work
 #### Monday:
 
