@@ -4,22 +4,21 @@ Durante el proceso de realización de este proyecto hemos desarrollado   y puest
 
 
 
-Reporte (proceso de seguimiento y control del producto)
-1-Report (follow-up process and control process )
+# Report (follow-up process and control process )
 
-Procesos de seguimiento:
-2-follow-up process
+## follow-up process
 
 Organización, monitoreo y gestión de tareas y trabajos: 
-3-Organization ,monitoring  and management task and work
-4-Monday.com
-El Scrum Master es el que gestiona los tableros de monday y hace modificaciones para poder alcanzar los objetivos de los sprints. 
+### Organization ,monitoring  and management task and work
+#### Monday:
+
 The Scrum Master is he then management the boards of Monday and make modifications to achieve the splits objectives.
-Comunicación:
-3-Communication:
-4-Teams:
-El Scrum Master y el product owner se encargan de hacer las reuniones del equipo, para eso utilizan la función de llamadas programadas de teams. Los demás miembros del equipo entran a las llamadas los días programados
+
+### Communication:
+#### Teams:
+
 The Scrum Master and product owner are in charge of holding the meeting of team, for it use the  calls schedule function   of “Microsoft Teams”.
+
 4-WhatsApp:
 Cuando alguien tiene una duda la comunica a través del grupo de WhatsApp y los demás miembros del equipo le responden su duda. A veces tenemos reuniones no planeadas y las comunicamos a través de WhatsApp
 Cuando hay que tomar un acuerdo, pero no es lo suficientemente largo o complejo como para una llamada a través de teams lo tomamos a través de WhatsApp
