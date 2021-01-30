@@ -19,7 +19,8 @@ The Scrum Master is he then management the boards of Monday and make modificatio
 
 The Scrum Master and product owner are in charge of holding the meeting of team, for it use the  calls schedule function   of “Microsoft Teams”.
 
-4-WhatsApp:
+#### WhatsApp:
+
 Cuando alguien tiene una duda la comunica a través del grupo de WhatsApp y los demás miembros del equipo le responden su duda. A veces tenemos reuniones no planeadas y las comunicamos a través de WhatsApp
 Cuando hay que tomar un acuerdo, pero no es lo suficientemente largo o complejo como para una llamada a través de teams lo tomamos a través de WhatsApp
 When someone has doubt, the communicates in the WhatsApp group and the others team members answer the doubt. sometimes we are having a don't planning meeting and communication is in WhatsApp
