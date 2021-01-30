@@ -84,15 +84,22 @@ We do the  meetings   each 4 days  for don't do every days, as stated by Scrum ,
 
 ## Scrum Metodology -¿ How do much we get closer to Scrum?
 
-Nuestro equipo de trabajo se acerca en un 70% a la metodología Scrum al momento realizar el proyecto. Se podría decir que tomamos las mejores partes de Scrum, para adaptarlas a nuestra manera. Un ejemplo de ello sería las "Daily Scrum", en nuestro caso son reuniones cada 4 o 7 días, según la disponibilidad de los integrantes.
 In we team of work is get closer  in a 70%  to Scrum methodology. We take the most important of Scrum and adapt it to our project and times . for example  we didn't  have  the “Daily Scrum”, else we met every 4 or 7 days. 
+
 Nuestro "Product Backlog" es realizado por el Scrum Master, el cual prioriza las tareas de acuerdo a su fecha de entrega.
+
 Our "Product Backlog" is made by Scrum Master, who prioritizes the tasks according to their delivery date.
+
 Los Sprints tienen distinta duración, algunos duran 1 o 2 semanas de acuerdo con las características que buscamos implementar.
+
 Sprints have different duration, some last 1 or 2 weeks according to the characteristics we are looking to implement.
+
 Lo más cercano que tenemos a un Sprint Review., son las exposiciones de avances en clase en donde recibimos comentarios de los profesores para saber si vamos en buen camino.
+
 The closest we have to a Sprint Review. They are the presentations of progress in class where we receive comments from teachers to see if we are on the right track.
+
 Nosotros no realizamos un Sprint Retrospective, ya que consideramos que nuestro equipo trabaja bien con el proceso actual.
+
 We do not do a Sprint Retrospective, as we consider that our team works well with the current process.
 
 
