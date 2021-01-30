@@ -82,8 +82,8 @@ When starting a sprint, the members drag the tasks of a backlog, towards the cor
 
 We do the  meetings   each 4 days  for don't do every days, as stated by Scrum ,due to, because we organize ourselves better in other tasks.
 
-2-Metodología Scrum - ¿Que tanto nos acercamos a Scrum?
-Scrum Metodology -¿ How do much we get closer to Scrum?
+## Scrum Metodology -¿ How do much we get closer to Scrum?
+
 Nuestro equipo de trabajo se acerca en un 70% a la metodología Scrum al momento realizar el proyecto. Se podría decir que tomamos las mejores partes de Scrum, para adaptarlas a nuestra manera. Un ejemplo de ello sería las "Daily Scrum", en nuestro caso son reuniones cada 4 o 7 días, según la disponibilidad de los integrantes.
 In we team of work is get closer  in a 70%  to Scrum methodology. We take the most important of Scrum and adapt it to our project and times . for example  we didn't  have  the “Daily Scrum”, else we met every 4 or 7 days. 
 Nuestro "Product Backlog" es realizado por el Scrum Master, el cual prioriza las tareas de acuerdo a su fecha de entrega.
