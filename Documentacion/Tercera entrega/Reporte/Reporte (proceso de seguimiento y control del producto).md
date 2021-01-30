@@ -2,8 +2,6 @@
 
 Durante el proceso de realización de este proyecto hemos desarrollado   y puesto en práctica las competencias disciplinales de la asignatura. Analizamos la evolución disciplinar de la Ingeniería de Software. También utilizamos métodos, técnicas y procedimientos para las fases de requisitos, diseño, codificación, pruebas y mantenimiento del software, todo lo mencionado anteriormente fue puesto en práctica  al realizar los requisitos   funcionales y no funcionales, para después planificar el diseño y elegir el entorno en el cual realizamos   la codificación de nuestro sistema de voz, así mismo también nos fue útil  los procesos de estimación, planificación, seguimiento, control, calidad y configuración del software, para poder  determinar el alcance y la dimensión de nuestro proyecto. También seleccionamos un Modelo de Ciclo de Vida de Software en el inicio del proyecto, con base en las características del equipo de desarrollo, del cliente y de la problemática. Identificamos los principales factores humanos que inciden en el éxito o fracaso de los procesos de software. Bien, pues si algo aprendimos de esto último es que cada integrante del equipo tiene un aporte de gran importancia para el proyecto a realizar, sin duda alguna el equipo está conformado por personas con un alto grado de motivación e independientemente cada quien tiene un papel importante dentro del mismo el cual lo hace único e importante para el éxito del proyecto.
 
-
-
 # Report (follow-up process and control process )
 
 ## follow-up process
