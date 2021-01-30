@@ -26,9 +26,10 @@ When someone has doubt, the communicates in the WhatsApp group and the others te
 
 When there is than take an agreement, but not is complex enough, we the take in WhatsApp.
 
-3-Repository:
-4-GitHub
-Utilizamos GitHub para almacenar nuestro repositorio en línea porque es una herramienta que nos permite colaborar en equipo, es práctica, popular, gratis y nos permite trabajar con ramas separadas y evitar conflictos en la investigación. Cada persona tiene su rama individual, que parte de la rama DEV.
+### Repository:
+
+#### GitHub
+
 We use GitHub to save our repository in online because it is a tool that allows us work in team, it`s practical, popular, free and allows us work with branches separated and avoid conflicts in the investigation. Each person has their individual branch, that out of branch DEV.
 Métrica
 3-Metrics:
