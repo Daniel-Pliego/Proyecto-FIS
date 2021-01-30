@@ -48,16 +48,20 @@ In case of that the task it took longer or there be more difficulty of the estim
 
 
 ## Scrum as an  agile development process  method 
-3-TEAM:
-•	Product Owner: Daniel Pliego Vega
-o	Es el responsable de verificar que se cumplan los requerimientos de los stake holders , hacer merge en la rama main y verificar que no haya conflictos en las otras ramas, establece las métricas junto con el scrum master
-o	He is responsible of verifying that is comply the requirements of the Stake Holders, he do merge  the branch Main and verifying  that not there is conflicts in the other  branches ,and he establishes  the metrics  with the Scrum Master 
-Scrum Master: Omar Cauich Pasos
-•	Developmet team:
-o	Carlos Fernando Sánchez Chuc
-o	Yajani Anahí Peraza Alcocer
-o	Emir Bellos Cruz
-o	Son los desarrolladores, llevan a cabo lo planeado, Diseñan, construyen y prueban los requerimientos.
+### TEAM:
+
+**Product Owner:** Daniel Pliego Vega
+
+o	He is responsible of verifying that is comply the requirements of the Stake Holders, he do merge  the branch Main and verifying  that not there is conflicts in the other  branches ,and he establishes  the metrics  with the Scrum Master.
+
+**Scrum Master:** Omar Cauich Pasos
+
+**Developmet team:**
+* Carlos Fernando Sánchez Chuc
+* Yajani Anahí Peraza Alcocer
+* Emir Bellos Cruz
+
+
 They are the developers, they carry out what was planned, they design, they build and they test the requirements
 •	Stake holders: Dr. Edgar Cambranes Martínez y Dr. José Luís López Martínez
 o	Establecen ciertos requerimientos
