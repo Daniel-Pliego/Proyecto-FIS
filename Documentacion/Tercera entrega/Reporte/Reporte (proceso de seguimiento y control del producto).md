@@ -31,8 +31,9 @@ When there is than take an agreement, but not is complex enough, we the take in 
 #### GitHub
 
 We use GitHub to save our repository in online because it is a tool that allows us work in team, it`s practical, popular, free and allows us work with branches separated and avoid conflicts in the investigation. Each person has their individual branch, that out of branch DEV.
-Métrica
-3-Metrics:
+
+### Metrics:
+
 Para obtener la métrica primero se calcula el tiempo que tomaría hacer la tarea en cuestión y después se establece la dificultad de la tarea
 El tiempo estimado se mide en horas, puede ser de 1, 2, 3 horas o más y la dificultad tiene 3 valores y a cada valor se le asignó un número:
 •	Fácil 0.5
