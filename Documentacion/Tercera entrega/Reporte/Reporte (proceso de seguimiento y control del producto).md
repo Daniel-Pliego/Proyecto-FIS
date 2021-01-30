@@ -63,23 +63,17 @@ o	He is responsible of verifying that is comply the requirements of the Stake Ho
 
 
 They are the developers, they carry out what was planned, they design, they build and they test the requirements
-•	Stake holders: Dr. Edgar Cambranes Martínez y Dr. José Luís López Martínez
-o	Establecen ciertos requerimientos
-o	Son los que validan la calidad del producto
-o	Son los que pagan (Con calificación).
-They establishes  somoone  requieremnts.
-They are  that validate the quality  of product 
-They are that pay (in calification)
 
-Todos los integrantes tienen tareas y roles ya asignados para tener mayor orden en el proceso del proyecto
+**Stake holders:** Dr. Edgar Cambranes Martínez  and   Dr. José Luís López Martínez
 
+* They establishes  somoone  requieremnts.
+* They are  that validate the quality  of product. 
+* They are that pay (in calification).
 
+### Backlog
 
-3-Backlog
-Omar Jesús Cauich Pasos: 
-es el encargado de hacer el Backlog, el gestiona el sitio web de los tableros y las actividades correspondientes a cada integrante.
-El backlog es donde almacenamos  los requerimientos del proyecto ya antes establecidos con los stake holders. 
 The in charge to do the Backlog is Omar Jesús Cauich Pasos, he, manages the web site of boards and the corresponding activities to each member.
+
 3-Sprints
 Los sprints son el corazón de Scrum, estos son entregables parciales del proyecto. 
 Cada que empieza un sprint los integrantes del equipo arrastran las tareas desde el backlog hacia el sprint correspondiente.
