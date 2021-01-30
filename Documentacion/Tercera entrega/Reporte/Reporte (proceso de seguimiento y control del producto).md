@@ -74,9 +74,7 @@ They are the developers, they carry out what was planned, they design, they buil
 
 The in charge to do the Backlog is Omar Jesús Cauich Pasos, he, manages the web site of boards and the corresponding activities to each member.
 
-3-Sprints
-Los sprints son el corazón de Scrum, estos son entregables parciales del proyecto. 
-Cada que empieza un sprint los integrantes del equipo arrastran las tareas desde el backlog hacia el sprint correspondiente.
+### Sprints
 
 When starting a sprint, the members drag the tasks of a backlog, towards the corresponding sprint
 3-Reuniones
