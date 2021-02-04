@@ -40,13 +40,13 @@
 
    ### Investigación científica
    #### Redes neuronales
-   Son los Algoritmos de aprendizaje y los de modelos computacionales diseñados para funcionar como neuronas en el cerebro. Las redes neuronales son entrenadas con conjuntos específicos de datos, que utilizan para encontrar una respuesta en una consulta. La suposición de la red se compara con la respuesta correcta en una base de datos. En caso de ocurrir errores, las "neuronas" son ajustadas y el proceso se repite hasta que los niveles de error disminuyen. Este enfoque algorítmico, llamado retropropagación, es similar a la regresión estadística. 
-   #### Vision de máquina
+   Son los Algoritmos de aprendizaje y los de modelos computacionales diseñados para funcionar como neuronas en el cerebro. Las redes neuronales son entrenadas con conjuntos específicos de datos, que utilizan para encontrar una respuesta en una consulta. La suposición de la red se compara con la respuesta correcta en una base de datos. En caso de ocurrir errores, las "neuronas" son ajustadas y el proceso se repite hasta que los niveles de error disminuyen. Este enfoque algorítmico, llamado retro propagación, es similar a la regresión estadística. 
+   #### Visión de máquina
    La rama de la IA que trata de cómo las computadoras emulan el sistema visual humano y su capacidad de ver e interpretar imágenes digitales del mundo real. También incorpora procesamiento de imágenes, reconocimiento de patrones y comprensión de imágenes (convirtiendo imágenes en descripciones que pueden usarse en otras aplicaciones). 
    #### Algoritmos genéticos
    En la inteligencia artificial, se han utilizado las ideas de la evolución biológica y la selección natural para resolver tareas complejas por medio de la computadora a través de AG. Los AG trabajan encontrando individuos con el mejor desempeño en sus tareas y utilizan sus características para producir individuos “mejor adaptados” en cada generación, es decir que sean mejores en su tarea que los individuos anteriores. 
    
-   De manera general podemos comentar que los AG describen las soluciones posibles del problema como individuos dentro de una población. Cada individuo se representa como una secuencia de caracteres donde cada caracter se llama gen y el conjunto de caracteres se llama cromosoma. Los individuos son evaluados midiendo que tan bien solucionan el problema.
+   De manera general podemos comentar que los AG describen las soluciones posibles del problema como individuos dentro de una población. Cada individuo se representa como una secuencia de caracteres donde cada carácter se llama gen y el conjunto de caracteres se llama cromosoma. Los individuos son evaluados midiendo que tan bien solucionan el problema.
    
    Una vez evaluados, se seleccionan los mejores individuos y pasan a una etapa de recombinación genética en la cual se emplean estrategias de cruce y mutación para producir variedades de individuos diferentes a las de sus antecesores, las cuales se utilizan para poblar la siguiente generación del algoritmo.
    
@@ -66,7 +66,7 @@ Es en la parte de descubrimiento de dianas y el diseño de fármacos en las que 
 
 Actualmente, una biofarmacéutica española, Sylentis, ha implementado un software (siRFINDER) que emplea algoritmos basados en redes neuronales, SVM y machine learning para recoger, depurar y reinterpretar los datos experimentales generados por la farmacéutica. Esto les permite potenciar y desarrollar fármacos gracias a que el software les capacita para generar miles de compuestos específicos para tratar una enfermedad en cuestión de días. La farmacéutica reduce así los costosos y laboriosos trabajos de selección de candidatos, que suelen tardar años, en apenas unos días.
    ### Mejora en la calidad de vida
-   Algunos productos tecnológicos ya disponibles son prueba innegable de dicho potencial. Por ejemplo, la herramienta Seeing AI de Microsoft, una app gratuita que ayuda a las personas ciegas a reconocer objetos en el entorno.
+   Algunos productos tecnológicos ya disponibles son prueba innegable de dicho potencial. Por ejemplo, la herramienta Seeing AI de Microsoft, una App gratuita que ayuda a las personas ciegas a reconocer objetos en el entorno.
 
 Otro ejemplo son los asistentes virtuales, al estilo de Alexa o Google Home que, gracias a la IA, permiten al usuario comunicarse con sus dispositivos y realizar múltiples tareas de forma más accesible.
 
@@ -75,16 +75,16 @@ Otro ejemplo son los asistentes virtuales, al estilo de Alexa o Google Home que,
    #### Robot de conversación
    Un programa de computadora que usa un conjunto de reglas para conducir una conversación basada en el habla o el texto con un humano a través de una interfaz de chat en línea. Los robots de conversación son alimentados por la IA y usan el aprendizaje de la máquina para detectar e imitar la conversación humana. Se desarrollan comúnmente para proporcionar contenido específico o servicio automatizado o utilidad a los usuarios.
    #### Asistente digital virtual
-   Una versión más sofisticada de un robot de conversación, también conocido como un agente inteligente, asistente personal virtual, asistente virtual inteligente, asistente automatizado o agente virtual. Dichos asistentes pueden organizar, almacenar y dar información basada en la ubicación del usuario y pueden contestar después de escuchar o recibir texto de los usuarios con información de una multitud de fuentes en línea (por ejemplo, pronósticos meteorológicos, mapas, precios de las acciones o horarios de transporte). Los ejemplos incluyen Siri de Apple, Google Now, Alexa de Amazon y Cortana de Microsoft.
+   Una versión más sofisticada de un robot de conversación, también conocido como un agente inteligente, asistente personal virtual, asistente virtual inteligente, asistente automatizado o agente virtual. Dichos asistentes pueden organizar, almacenar y dar información basada en la ubicación del usuario y pueden contestar después de escuchar o recibir texto de los usuarios con información de una multitud de fuentes en línea (por ejemplo, pronósticos meteorológicos, mapas, precios de las acciones u horarios de transporte). Los ejemplos incluyen Siri de Apple, Google Now, Alexa de Amazon y Cortana de Microsoft.
    #### Lingüística computacional
-   Un campo interdisciplinario que se ocupa del modelado estadístico y basado en reglas de datos de lenguaje natural por computadoras. Incluye el reconocimiento del idioma habaldo, el proceso mediante el cual las máquinas pueden identificar y reconocer palabras y frases habladas y traducirlas o convertirlas en texto legible por máquina.
+   Un campo interdisciplinario que se ocupa del modelado estadístico y basado en reglas de datos de lenguaje natural por computadoras. Incluye el reconocimiento del idioma hablado, el proceso mediante el cual las máquinas pueden identificar y reconocer palabras y frases habladas y traducirlas o convertirlas en texto legible por máquina.
    #### Prótesis inteligentes
    OttoBock, una empresa mediana alemana que con un siglo de historia se ha convertido en un referente mundial en el campo de las prótesis, y que está también innovando con la inteligencia artificial (IA) para que sus productos aprendan de esas personas que tienen que llevar un apéndice mecánico porque les falta alguno de sus miembros.
 Gracias a ocho electrodos el sistema de control de la prótesis mide los patrones de movimiento de los músculos en el muñón del antebrazo y los asigna a determinados movimientos o agarres de la mano. Por ejemplo, atarse los cordones de los zapatos o girar el pomo de una puerta. Si un paciente coge una botella de agua, el sistema de control de la prótesis Myo Plus reconoce el patrón de movimiento correspondiente y envía a la prótesis la orden de ejecutar el agarre correspondiente o el giro, y todo ello de forma automática.
 
    ### Hogareños
    #### Mejora de electricidad del hogar
-  1. AmeriTop - Luces solares para exteriores, superbrillantes LED con sensor de movimiento solar con iluminación de gran angular; 1600LM 6000K, 3 cabezales ajustables, IP65 impermeable iluminación de seguridad al aire última intervensión (blanco) 
+  1. AmeriTop - Luces solares para exteriores, super brillantes LED con sensor de movimiento solar con iluminación de gran angular; 1600LM 6000K, 3 cabezales ajustables, IP65 impermeable iluminación de seguridad al aire última intervención (blanco) 
 
 <div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/71dgZp8OFEL._AC_SL1500_.jpg" alt="Reglas" width="300"/></div>
  
@@ -99,7 +99,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
  
  <div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51tKL0A8DZL._AC_SL1200_.jpg" alt="Reglas" width="300"/></div>
  
-   #### distribución de alimentos
+   #### Distribución de alimentos
  1. REFRIGERADOR FAMILY FRENCH DOOR SAMSUNG 24 PIES 
 
  <div align="center"><img src="https://cdn.homedepot.com.mx/productos/136234/136234-d.jpg" alt="Reglas" width="300"/></div>
@@ -129,7 +129,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
    1. YICI - Dispensador de jabón automático, 450 ml, sin contacto, dispensador de jabón líquido, con sensor inteligente, carga USB, para cocina, baño 
  <div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61c0flTw7wL._AC_SL1500_.jpg" alt="Reglas" width="300"/></div>
  
-   1. Multifuncional Hogar Usb Ultrasónico Lavavajillas Plato Era 
+   1. Multifuncional Hogar USB Ultrasónico Lavavajillas Plato Era 
  <div align="center"><img src="https://http2.mlstatic.com/D_NQ_NP_2X_668973-CBT42818306456_072020-F.webp" alt="Reglas" width="300"/></div>
  
    1. Lavadora LG Automática WM22VV2S6B 22kg Silver  
@@ -148,7 +148,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
   1. Los Niños Inteligentes De Aprendizaje De Voz Diálogo Acompañando Al Ba 
   <div align="center"><img src="https://i.linio.com/p/567b59b72aed604bb4fd0459fa7bd27b-product.webp" alt="Reglas" width="300"/></div>
    #### Muebles
-   1. Sillon Reclinable Electrico Con Audio Y Carga Inalambrica 
+   1. Sillón Reclinable Eléctrico Con Audio Y Carga Inálambrica.
   <div align="center"><img src="https://http2.mlstatic.com/D_NQ_NP_2X_820648-MLM31228944239_062019-F.webp" alt="Reglas" width="300"/></div>
  
    1. Mesa de centro inteligente con bocinas y refrigerador Bralf Sobro negro 
@@ -157,7 +157,7 @@ Gracias a ocho electrodos el sistema de control de la prótesis mide los patrone
    ### Empresariales
    #### Análisis de datos y segmentación de clientes
    #### Servicio al cliente predictivo
-   #### Previción de ventas y negocios
+   #### Previsión de ventas y negocios
    #### Filtros de spam
 
 
