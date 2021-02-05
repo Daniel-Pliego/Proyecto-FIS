@@ -22,7 +22,7 @@ module.exports = {
         
         return handlerInput.responseBuilder
         .speak(speechText)
-        .reprompt('Hola, sigues por ahi?')
+        .reprompt('Sigues por ahí?, Prueba diciendo, dime un dato curioso.')
         .getResponse();
        
     }

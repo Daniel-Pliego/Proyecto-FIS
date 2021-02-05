@@ -19,6 +19,6 @@ Nuestro proyecto comenzó la idea idea de hacer una plataforma interactiva para 
 **Importancia y Justificación**
 
 La inteligencia artificial forma ya parte de nuestra vida diaria. La IA en la educación ofrece numerosas posibilidades para agregar más valor a los estudiantes, Pero sin cambios en ella, no será posible equipar a una población para innovar en la tecnología del mañana. La IA es la tecnología del futuro, y los estudiantes son los artífices de ese futuro. <br>
-De ahí la idea de crear una skill para las generaciones actuales, de esta forma podremos despertar el interes de los usuarios hacia la inteligencia artificial, por medio de un bot llamado “Ingenio Artificial”. Si bien no es suficiente para enseñarle a los niños todo sobre la IA, si crea una deseo de aprender más, eso los llevará a indagar e incluso a cuestionar a sus profesores.
+De ahí la idea de crear una skill para las generaciones actuales, de esta forma podremos despertar el interes de los usuarios hacia la inteligencia artificial, por medio de un bot llamado “Inteligencia Sintética”. Si bien no es suficiente para enseñarle a los niños todo sobre la IA, si crea una deseo de aprender más, eso los llevará a indagar e incluso a cuestionar a sus profesores.
 
 A nosotros nos hubiera encantado que nos dieran este conocimiento a una edad más temprana, por eso enfocamos el proyecto a ese tipo de usuarios.

@@ -1,5 +1,5 @@
 # Requisitos
-Para "Ingenio Artificial" se determinaron los requerimientos, seguido de ello, se han crearon hasta el momento 4CU (casos de usos). representados graficamente un diagrama:
+Para "Inteligencia Sintética" se determinaron los requerimientos, seguido de ello, se han crearon hasta el momento 4CU (casos de usos). representados graficamente un diagrama:
 
 - CU01: Invocar al Bot.
 - CU02: Primera interacción.

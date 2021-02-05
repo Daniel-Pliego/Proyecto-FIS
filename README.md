@@ -1,9 +1,16 @@
-![Imagen IA](https://i.imgur.com/hWCbD6J.jpg)
+<p align="center">
+ 
+<img src="https://i.imgur.com/R80zZp7.png" title="Perfiles aerodinamicos." width="512" height="512">
 
-<h2 align="center">Ingenio Artificial (Skill Amazon Alexa)</h2>
+ 
+</p>
+
+<h2 align="center">Innteligencia Sintética (Skill Amazon Alexa)</h2>
 <p align="center">
   Bot que interactura por voz y los productos Alexa, el cual brinda datos curiosos sobre inteligencia artificial y responde las preguntas frecuentes de los niños interesados en el tema en un rango de edad 9-14 años.
 </p>
+
+<a href='https://www.amazon.com.mx/dp/B08VJG1R9T' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.imgur.com/gw0846S.png' border='0' alt='Activar skill' /></a>
 
 # Equipo 
 - Omar Cauich Pasos [@omarzone](https://github.com/omarzone) :smiley:

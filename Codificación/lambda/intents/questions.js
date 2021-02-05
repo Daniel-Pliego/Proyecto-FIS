@@ -13,7 +13,7 @@ module.exports = {
         const speechText = requestAttributes.t('ANSWER');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE'))// <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
@@ -32,7 +32,7 @@ module.exports = {
         const speechText = requestAttributes.t('ANSWER2');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE')) // <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
@@ -52,7 +52,7 @@ module.exports = {
         const speechText = requestAttributes.t('ANSWER3');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE')) // <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
@@ -73,7 +73,7 @@ QuestionfourIntentHandler : {
         const speechText = requestAttributes.t('ANSWER4');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE')) // <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
@@ -92,7 +92,7 @@ QuestionfourIntentHandler : {
         const speechText = requestAttributes.t('ANSWER5');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE')) // <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
@@ -112,7 +112,7 @@ QuestionfourIntentHandler : {
         const speechText = requestAttributes.t('ANSWER6');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE')) // <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
@@ -132,7 +132,7 @@ QuestionfourIntentHandler : {
         const speechText = requestAttributes.t('ANSWER7');
         
         return handlerInput.responseBuilder
-            .speak(speechText )
+            .speak(speechText +" "+ requestAttributes.t('QUESTIONS_REPROMPT') )
             .reprompt(requestAttributes.t('AWAIT_RESPONSE')) // <-- necessary to keep the session open so users can request another fact
             .withSimpleCard(requestAttributes.t('SKILL_NAME'), speechText)
             .getResponse();
