@@ -68,6 +68,30 @@
 
 
 
+
+
+31. la Inteligencia Artificial busca expandir  las capacidades cognitivas  de las personas , esta diseñada  para ofrecer  un mejor conocimiento e informaciòn de valor a partir de una gran cantidad de datos y permite  resolver problemas complejos de índole mundial 
+
+32. Sabias que  Microsoft Research, en los años 90, comenzó el camino d en la IA. Y sus inversiones en Investigación y Desarrollo en habla y visión han rendido frutos con los que hoy podemos constatar en Skype Translator, Kinect, Cortana entre muchos más.
+
+33. cortana es la agente inteligente de Microsoft y hasta hoy tiene mas de 12 mil millones de solicitudes y preguntas y 133 millones de usuarios ctivos , con el tiempo se vuelvemás inteligente, conoce a sus usuarios,y es capaz de poner la información  que recie en contexto, en todos sus dispositivo.
+
+34. La Inteligencia Artificial a menudo se confunde con Machine Learning, cuando en realidad, este segundo término sólo es una pieza importante de la IA 
+
+35. investigadores se centran en que la IA superará el rendimiento humano en un gran número de actividades y que para el año 2061, esta superación puede ser total.
+
+36. Apps y Webs conocen nuestras preferencias Gracias a la inteligencia artificial las apps y webs de productos y servicios consiguen conocernos. 
+
+37. El software de la inteligencia artificial  lee y analiza un texto o discurso. Esto es el llamado procesamiento del lenguaje natural.
+
+38. Arquitas, un matemático griego construyó en el año 400  antes de cristo. una especie de artilugio con la forma de una paloma el cual  que se propulsaba, gracias al vapor, a una distancia de 200 metros. La finalidad de este era entregar mensajes, como si fuese una paloma mensajera.
+
+39. Antes de que existiese el primer robot como tal, personajes a la altura de Leonardo Da Vinci ya fantaseaban con esta máquina. Es más, el artista dibujó los planos para crear un cyborg de aspecto humano en 1495. Todo el mundo sabe que era un adelantado a su época.
+
+40. Los sistemas inteligentes tienen la capacidad desde como predecir los cambios en el clima, hasta reconocer patrones de comportamiento en imágenes para detectar el cáncer en la piel. Todo esto, en base a algoritmos computacionales.
+
+
+
 ## Referencias
 1. https://www.netapp.com/es/artificial-intelligence/what-is-artificial-intelligence/
 2. https://es.statista.com/temas/6692/inteligencia-artificial-ia/
@@ -118,3 +142,13 @@
 28. [IA entrenamiento](https://www.tokioschool.com/noticias/inteligencia-artificial-deporte/)
 29. [Deportes de realidad virtual](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
 30. [AWS y la NFL](https://www.diariojuridico.com/la-inteligencia-artificial-llega-al-sector-deportivo/)
+31. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
+32. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
+33. [Microsof](https://news.microsoft.com/es-xl/7-datos-debes-conocer-la-inteligencia-artificial-microsoft/)
+34. [IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
+35. [lo de la IA](https://www.ips.com.mx/colaboradores/5-datos-curiosos-sobre-la-inteligencia-artificial)
+36. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
+37. [KATS](https://www.kats.com.co/inteligencia-artificial-cosas-que-no-sabias/)
+38. [curiosidades](https://robotsinaction.com/curiosidades-acerca-de-la-inteligencia-artificial-y-los-robots/)
+39. misma  referencia.
+40. [blastingnews](https://es.blastingnews.com/curiosidades/2017/11/cinco-cosas-que-debes-saber-sobre-la-inteligencia-artificial-002113435.html)

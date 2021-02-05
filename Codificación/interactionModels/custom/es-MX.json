@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "ingenio artificial",
+      "invocationName": "inteligencia sintética",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -9,14 +9,18 @@
         },
         {
           "name": "AMAZON.HelpIntent",
-          "samples": []
+          "samples": [
+            "cuales son tus funciones",
+            "que sabes hacer",
+            "que más sabes hacer"
+          ]
         },
         {
           "name": "AMAZON.StopIntent",
           "samples": []
         },
         {
-          "name": "GetFactIntent",
+          "name": "GetDatoCuriosoIntent",
           "slots": [],
           "samples": [
             "dame una curiosidad",
@@ -32,7 +36,6 @@
             "dime un dato  I A",
             "dame un dato",
             "dame un dato de I A",
-            "dime una",
             "dime algo",
             "dime una curiosidad"
           ]
@@ -56,10 +59,482 @@
         {
           "name": "AMAZON.FallbackIntent",
           "samples": []
+        },
+        {
+          "name": "DeleteIntent",
+          "slots": [],
+          "samples": [
+            "borra mis datos"
+          ]
+        },
+        {
+          "name": "GetDatoDiario",
+          "slots": [],
+          "samples": [
+            "dime el dato curioso del día",
+            "puedes decirme el dato del día",
+            "dime el dato del día",
+            "dato del día",
+            "dato curioso de hoy",
+            "dato de hoy",
+            "cual es el dato curioso del día",
+            "dame el dato curioso del día"
+          ]
+        },
+        {
+          "name": "QuestiononeIntent",
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "samples": [
+                "cuáles son los beneficios de la inteligencia artificial",
+                "dime los beneficios de la Inteligencia Artificial",
+                "dime las ventajas de la Inteligencia Artificial",
+                "cuáles son las ventajas de la Inteligencia Artificial"
+              ]
+            }
+          ],
+          "samples": [
+            "podrias decirme las ventajas de la {ia}",
+            "podrias decirme los beneficios de la {ia}",
+            "cuáles son las ventajas de la {ia}",
+            "dime las ventajas de la {ia}",
+            "dime los beneficios de la {ia}",
+            "cuáles son los beneficios de la {ia}"
+          ]
+        },
+        {
+          "name": "QuestiontwoIntent",
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "samples": [
+                "en que año se creó la inteligencia artificial",
+                "cuál fue el inventor de la inteligencia artificial",
+                "quién creó la inteligencia artificial"
+              ]
+            }
+          ],
+          "samples": [
+            "cuál fue el inventor de la {ia}",
+            "dime en que año se creó la {ia}",
+            "creadores de la {ia}",
+            "quién creó la {ia}",
+            "en que año se creó la {ia}",
+            "menciona a los creadores de la {ia}",
+            "dime quién creó la {ia}",
+            "cual fue el inventor de la {ia}",
+            "cuando se inventó la {ia}",
+            "en qué año se inventó la {ia}",
+            "quien fue el que inventó la {ia}",
+            "quien inventó la {ia}",
+            "en qué fecha se inventó la {ia}",
+            "quienes inventaron el término {ia}"
+          ]
+        },
+        {
+          "name": "QuestionthreeIntent",
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "samples": [
+                "por qué es necesaria la inteligencia artificial",
+                "cuál es la necesidad de la inteligencia artificial"
+              ]
+            }
+          ],
+          "samples": [
+            "dime cual es la necesidad de la {ia}",
+            "la {ia} es necesaria para las personas",
+            "la {ia} es necesaria para los humanos",
+            "la {ia} es necesaria ",
+            "por qué es necesaria la {ia}",
+            "cuál es la necesidad de la {ia}",
+            "por qué necesitamos la {ia}",
+            "necesitamos de la {ia}",
+            "es necesaria la {ia}",
+            "se necesita de la {ia}"
+          ]
+        },
+        {
+          "name": "QuestionfourIntent",
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "samples": [
+                "qué es la inteligencia artificial",
+                "dime la definición de inteligencia artificial"
+              ]
+            }
+          ],
+          "samples": [
+            "dime que significa la {ia}",
+            "dime que significa {ia}",
+            "dime la definición de {ia}",
+            "definición de {ia}",
+            "que significa {ia}",
+            "dime el significado de {ia}",
+            "en qué consiste la {ia}",
+            "dime qué es la {ia}",
+            "qué es la {ia}"
+          ]
+        },
+        {
+          "name": "QuestionfiveIntent",
+          "slots": [
+            {
+              "name": "ml",
+              "type": "ml",
+              "samples": [
+                "qué es el machine learning",
+                "qué es el aprendizaje automático"
+              ]
+            }
+          ],
+          "samples": [
+            "dime qué es el {ml}",
+            "dime qué es {ml}",
+            "definición de {ml}",
+            "dime el significado de {ml}",
+            "que significa {ml}",
+            "cómo trabaja el {ml}",
+            "cómo funciona el {ml}",
+            "como trabaja el {ml}"
+          ]
+        },
+        {
+          "name": "QuestionsisIntent",
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "samples": [
+                "dime la importancia de la inteligencia artificial"
+              ]
+            }
+          ],
+          "samples": [
+            "dime que tan importante es la {ia}",
+            "dime la importancia de la {ia}",
+            "la {ia} es importante",
+            "la {ia} importa",
+            "realmente es importante la {ia}",
+            "cual es la importancia de la {ia}",
+            "que tan importante es la {ia}",
+            "por qué es importante la {ia}",
+            "es importante la {ia}",
+            "importancia de la {ia}"
+          ]
+        },
+        {
+          "name": "QuestionsevenIntent",
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "samples": [
+                "para qué se usa la inteligencia artificial",
+                "en donde se usa la inteligencia artificial"
+              ]
+            }
+          ],
+          "samples": [
+            "dime en donde se usa la {ia}",
+            "dime para que sirve la {ia}",
+            "dime que se hace con la {ia}",
+            "dime para que se usa la {ia}",
+            "en donde sirve la {ia}",
+            "en qué sirve la {ia}",
+            "para que sirve la {ia}",
+            "que se hace con la {ia}",
+            "para qué se usa la {ia}",
+            "en donde se usa la {ia}",
+            "donde se usa la {ia}"
+          ]
+        },
+        {
+          "name": "doubtIntent",
+          "slots": [],
+          "samples": [
+            "dime las preguntas frecuentes",
+            "preguntas frecuentes",
+            "tengo preguntas",
+            "tengo dudas",
+            "responde mi duda",
+            "puedes responderme algo",
+            "dime las preguntas que puedes responder",
+            "te puedo preguntar algo ",
+            "me puedes responder una pregunta ",
+            "te puedo hacer una prergunta",
+            "tengo una duda"
+          ]
         }
       ],
-      "types": []
-    }
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "I.A"
+              }
+            },
+            {
+              "name": {
+                "value": "inteligencia artificial"
+              }
+            },
+            {
+              "name": {
+                "value": "IA"
+              }
+            },
+            {
+              "name": {
+                "value": "i a"
+              }
+            }
+          ],
+          "name": "ia"
+        },
+        {
+          "values": [
+            {
+              "name": {
+                "value": "aprendizaje automático"
+              }
+            },
+            {
+              "name": {
+                "value": "machine learning"
+              }
+            }
+          ],
+          "name": "ml"
+        }
+      ]
+    },
+    "dialog": {
+      "intents": [
+        {
+          "name": "QuestionfiveIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ml",
+              "type": "ml",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.88306371337.767149510596"
+              }
+            }
+          ]
+        },
+        {
+          "name": "QuestiononeIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.497026858531.493746409078"
+              }
+            }
+          ]
+        },
+        {
+          "name": "QuestiontwoIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.1595665387780.59632334818"
+              }
+            }
+          ]
+        },
+        {
+          "name": "QuestionthreeIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.348168517703.455025739476"
+              }
+            }
+          ]
+        },
+        {
+          "name": "QuestionfourIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.54976333251.1466291575049"
+              }
+            }
+          ]
+        },
+        {
+          "name": "QuestionsisIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.874431287076.980944174054"
+              }
+            }
+          ]
+        },
+        {
+          "name": "QuestionsevenIntent",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "ia",
+              "type": "ia",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Slot.1166835128643.797314553760"
+              }
+            }
+          ]
+        }
+      ],
+      "delegationStrategy": "ALWAYS"
+    },
+    "prompts": [
+      {
+        "id": "Elicit.Slot.88306371337.767149510596",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres al Aprendizaje Automático, prueba diciendo, qué es el aprendizaje automático"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres al Machine learning, prueba diciendo. qué es el machine learning"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.497026858531.493746409078",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, Dime los beneficios de la Inteligencia Artificial"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, Cuáles son los beneficios de la Inteligencia Artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, Cuáles son las ventajas de la Inteligencia Artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, Dime las ventajas de la Inteligencia Artificial"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.1595665387780.59632334818",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿En que año se creó la inteligencia Artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿Cuál fue el inventor de la inteligencia artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿Quién creó la inteligencia artificial?"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.348168517703.455025739476",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿Por qué es necesaria la inteligencia artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿Cuál es la necesidad de la inteligencia artificial?"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.54976333251.1466291575049",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿Qué es la inteligencia Artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, Dime la definición de inteligencia artificial"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.874431287076.980944174054",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, Dime la importancia de la inteligencia artificial"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Slot.1166835128643.797314553760",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿Para qué se usa la inteligencia artificial?"
+          },
+          {
+            "type": "PlainText",
+            "value": "Creo que te refieres a la Inteligencia Artificial, prueba diciendo, ¿En donde se usa la inteligencia artificial?"
+          }
+        ]
+      }
+    ]
   },
-  "version": "12"
+  "version": "41"
 }
