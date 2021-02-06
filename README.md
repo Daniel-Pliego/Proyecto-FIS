@@ -1,11 +1,11 @@
 <p align="center">
  
-<img src="https://i.imgur.com/R80zZp7.png" title="Perfiles aerodinamicos." width="512" height="512">
+<img src="https://i.imgur.com/R80zZp7.png" title="Perfiles aerodinamicos.">
 
  
 </p>
 
-<h2 align="center">Innteligencia Sintética (Skill Amazon Alexa)</h2>
+<h2 align="center">Inteligencia Sintética (Skill Amazon Alexa)</h2>
 <p align="center">
   Bot que interactura por voz y los productos Alexa, el cual brinda datos curiosos sobre inteligencia artificial y responde las preguntas frecuentes de los niños interesados en el tema en un rango de edad 9-14 años.
 </p>
